@@ -1,7 +1,7 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-09-18 20:32:28 <br/>
+Rss num: 0  Date: 2022-09-18 20:35:37 <br/>
 
 <a href='https://36kr.com/p/1916502082248452'>制造业迈向“碳中和”，到了加速生产方式数字化转型的时刻｜最前线</a><br/>
 <a href='https://36kr.com/p/1920447256846089'>医疗健康行业周报 |「博斯腾」获数亿元A+轮融资；微创电生理孙毅勇谈集采背景下的国产替代</a><br/>
@@ -105,14 +105,15 @@ Rss num: 0  Date: 2022-09-18 20:32:28 <br/>
 <a href='https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7784317.d.html'>日本气象厅JMA：日本宫古岛、八重山群岛发出海啸警报。</a><br/>
 <a href='https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9547351.d.html'>【联合国发起面向中低收入国家的国际教育融资工具】据央视新闻消息，联合国17日发起面向中低收入国家的国际教育融资工具，旨在向这些国家的青少年儿童等对象提供教育资金。联合国秘书长古特雷斯当天同联合国全球教育特使、英国前首相布朗在纽约联合国总部举行记者会。布朗表示，当前全球有数亿青少年儿童面临教育问题。国际教育融资工具启动资金为20亿美元，最终资金规模将达到100亿美元，是迄今世界上最大的单笔教育资金。据介绍，国际教育融资工具采用直接捐助和融资担保的方式，首批项目预计将于2023年启动。</a><br/>
 <a href='https://weibo.com/1088413295/M6hybc6ly'>每天一个Linux上会用到的命令：今天是「unarj」，你用过吗 网页链接 [图片]</a><br/>
-<a href='https://www.v2ex.com/t/881083#reply0'>[程序员] 据说这是 gta6 部分一万行源码…</a><br/>
-<a href='https://www.v2ex.com/t/881082#reply2'>[Android] 支付宝检测到 magisk 或者 root 后的机制是什么</a><br/>
+<a href='https://www.v2ex.com/t/881085#reply0'>[问与答] 求云储存服务</a><br/>
+<a href='https://www.v2ex.com/t/881083#reply1'>[程序员] 据说这是 gta6 部分一万行源码…</a><br/>
+<a href='https://www.v2ex.com/t/881082#reply3'>[Android] 支付宝检测到 magisk 或者 root 后的机制是什么</a><br/>
 <a href='https://www.v2ex.com/t/881081#reply0'>[问与答] 北京外地车辆一年换四次牌照的策略可行吗</a><br/>
 <a href='https://www.v2ex.com/t/881080#reply0'>[程序员] 找个项目做，手里有一些闲置资金。</a><br/>
 <a href='https://www.v2ex.com/t/881079#reply0'>[Vim] 用 Neovim 调试 RESTful 接口</a><br/>
 <a href='https://www.v2ex.com/t/881077#reply8'>[全球工单系统] 微信小程序挂了？</a><br/>
 <a href='https://www.v2ex.com/t/881076#reply2'>[程序员] filter minila 有一个按键有点卡该怎么办</a><br/>
-<a href='https://www.v2ex.com/t/881075#reply12'>[问与答] 朋友欠钱不还，有点想赖账的意思，请问下该怎么办？</a><br/>
+<a href='https://www.v2ex.com/t/881075#reply13'>[问与答] 朋友欠钱不还，有点想赖账的意思，请问下该怎么办？</a><br/>
 <a href='https://www.v2ex.com/t/881074#reply7'>[问与答] 终于发现不酸的咖啡了:)</a><br/>
 <a href='https://www.v2ex.com/t/881071#reply0'>[游戏] GTA6 好像泄漏了一堆疑似开发中的测试视频</a><br/>
 <a href='https://www.v2ex.com/t/881070#reply7'>[生活] 明天准备去全身体检，有什么需要注意的？</a><br/>
@@ -136,7 +137,7 @@ Rss num: 0  Date: 2022-09-18 20:32:28 <br/>
 <a href='https://www.v2ex.com/t/881047#reply7'>[Blogger] 如何提高博客的访问速度</a><br/>
 <a href='https://www.v2ex.com/t/881046#reply6'>[求职] 苏州， 8 年半 .net/.net core 求职</a><br/>
 <a href='https://www.v2ex.com/t/881045#reply0'>[OpenWrt] openwrt 设备拨号发现电视端 Netflix 会提示似乎使用代理</a><br/>
-<a href='https://www.v2ex.com/t/881044#reply14'>[问与答] 小米 MIX 还有未来吗？</a><br/>
+<a href='https://www.v2ex.com/t/881044#reply15'>[问与答] 小米 MIX 还有未来吗？</a><br/>
 <a href='https://www.v2ex.com/t/881043#reply0'>[iCloud] 国区 iCloud 2T+Apple Music 家庭车</a><br/>
 <a href='https://www.v2ex.com/t/881042#reply0'>[问与答] 驾考科目一科目四的题库哪里可以获取到？</a><br/>
 <a href='https://www.v2ex.com/t/881041#reply1'>[问与答] payjs 不接受新用户了。有推荐的聚合支付么？</a><br/>
@@ -153,7 +154,6 @@ Rss num: 0  Date: 2022-09-18 20:32:28 <br/>
 <a href='https://www.v2ex.com/t/881027#reply13'>[上海] 上海相亲交友交流群</a><br/>
 <a href='https://www.v2ex.com/t/881026#reply6'>[分享发现] Mac QQ 体验版开放下载了</a><br/>
 <a href='https://www.v2ex.com/t/881025#reply4'>[RSS] 阿里云函数版 RSS 过滤器</a><br/>
-<a href='https://www.v2ex.com/t/881024#reply7'>[Apple] Apple Music 有第三方客户端嘛？</a><br/>
 
 
 <邮件内容区结束
