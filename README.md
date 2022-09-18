@@ -1,7 +1,7 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-09-18 20:35:37 <br/>
+Rss num: 0  Date: 2022-09-18 20:41:18 <br/>
 
 <a href='https://36kr.com/p/1916502082248452'>制造业迈向“碳中和”，到了加速生产方式数字化转型的时刻｜最前线</a><br/>
 <a href='https://36kr.com/p/1920447256846089'>医疗健康行业周报 |「博斯腾」获数亿元A+轮融资；微创电生理孙毅勇谈集采背景下的国产替代</a><br/>
@@ -104,7 +104,7 @@ Rss num: 0  Date: 2022-09-18 20:35:37 <br/>
 <a href='https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9548684.d.html'>【强风暴袭击美国阿拉斯加】据央视新闻，一场强风暴17日袭击美国阿拉斯加州，在该州西海岸多处社区引发洪水，导致电力中断，当地居民被迫转移至地势较高的地方避险。美国有线电视新闻网17日援引天气预报人员的话报道，这场强风暴有望成为阿拉斯加10年来遭遇的最强风暴。当地官员曾向社区发布警告说，一些地方可能会出现50年来最严重的洪水，洪水可能需要长达14个小时才能消退。阿拉斯加州西北部地区的洪水警报将持续至19日，普拉姆预计，强风暴将在穿越白令海峡后向楚科奇海方向移动。</a><br/>
 <a href='https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7784317.d.html'>日本气象厅JMA：日本宫古岛、八重山群岛发出海啸警报。</a><br/>
 <a href='https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9547351.d.html'>【联合国发起面向中低收入国家的国际教育融资工具】据央视新闻消息，联合国17日发起面向中低收入国家的国际教育融资工具，旨在向这些国家的青少年儿童等对象提供教育资金。联合国秘书长古特雷斯当天同联合国全球教育特使、英国前首相布朗在纽约联合国总部举行记者会。布朗表示，当前全球有数亿青少年儿童面临教育问题。国际教育融资工具启动资金为20亿美元，最终资金规模将达到100亿美元，是迄今世界上最大的单笔教育资金。据介绍，国际教育融资工具采用直接捐助和融资担保的方式，首批项目预计将于2023年启动。</a><br/>
-<a href='https://weibo.com/1088413295/M6hybc6ly'>每天一个Linux上会用到的命令：今天是「unarj」，你用过吗 网页链接 [图片]</a><br/>
+<a href='https://www.v2ex.com/t/881086#reply0'>[程序员] 如果想对经济、局势有一些自己的认识，应该阅读哪些书籍。</a><br/>
 <a href='https://www.v2ex.com/t/881085#reply0'>[问与答] 求云储存服务</a><br/>
 <a href='https://www.v2ex.com/t/881083#reply1'>[程序员] 据说这是 gta6 部分一万行源码…</a><br/>
 <a href='https://www.v2ex.com/t/881082#reply3'>[Android] 支付宝检测到 magisk 或者 root 后的机制是什么</a><br/>
@@ -118,7 +118,7 @@ Rss num: 0  Date: 2022-09-18 20:35:37 <br/>
 <a href='https://www.v2ex.com/t/881071#reply0'>[游戏] GTA6 好像泄漏了一堆疑似开发中的测试视频</a><br/>
 <a href='https://www.v2ex.com/t/881070#reply7'>[生活] 明天准备去全身体检，有什么需要注意的？</a><br/>
 <a href='https://www.v2ex.com/t/881069#reply2'>[宽带症候群] 山西联通 cloudflare 延迟咋这么高？</a><br/>
-<a href='https://www.v2ex.com/t/881068#reply5'>[分享创造] 一个快速寻找某个 Github 仓库首次提交的小工具</a><br/>
+<a href='https://www.v2ex.com/t/881068#reply6'>[分享创造] 一个快速寻找某个 Github 仓库首次提交的小工具</a><br/>
 <a href='https://www.v2ex.com/t/881067#reply0'>[程序员] 关于虚拟 IP 池的互相访问的问题？</a><br/>
 <a href='https://www.v2ex.com/t/881065#reply1'>[求职] 北京 Java 求职</a><br/>
 <a href='https://www.v2ex.com/t/881064#reply0'>[Vim] coc.nvim 补全常见问题</a><br/>
@@ -134,8 +134,8 @@ Rss num: 0  Date: 2022-09-18 20:35:37 <br/>
 <a href='https://www.v2ex.com/t/881053#reply1'>[Apple] 请源-苹果修复所有因 [排线门] 导致的 [屏幕问题] -目标 50000 现在 39,798</a><br/>
 <a href='https://www.v2ex.com/t/881050#reply0'>[问与答] VLC 播放器的中文文件排列逻辑是什么？</a><br/>
 <a href='https://www.v2ex.com/t/881048#reply5'>[iPhone] iPhone X 敢升级到 iOS16 吗？</a><br/>
-<a href='https://www.v2ex.com/t/881047#reply7'>[Blogger] 如何提高博客的访问速度</a><br/>
-<a href='https://www.v2ex.com/t/881046#reply6'>[求职] 苏州， 8 年半 .net/.net core 求职</a><br/>
+<a href='https://www.v2ex.com/t/881047#reply10'>[Blogger] 如何提高博客的访问速度</a><br/>
+<a href='https://www.v2ex.com/t/881046#reply7'>[求职] 苏州， 8 年半 .net/.net core 求职</a><br/>
 <a href='https://www.v2ex.com/t/881045#reply0'>[OpenWrt] openwrt 设备拨号发现电视端 Netflix 会提示似乎使用代理</a><br/>
 <a href='https://www.v2ex.com/t/881044#reply15'>[问与答] 小米 MIX 还有未来吗？</a><br/>
 <a href='https://www.v2ex.com/t/881043#reply0'>[iCloud] 国区 iCloud 2T+Apple Music 家庭车</a><br/>
@@ -152,8 +152,7 @@ Rss num: 0  Date: 2022-09-18 20:35:37 <br/>
 <a href='https://www.v2ex.com/t/881029#reply1'>[Apple] 关于 Apple TV+年费未到期退订，会退剩余月份的费用吗</a><br/>
 <a href='https://www.v2ex.com/t/881028#reply3'>[上海] 学游泳组队</a><br/>
 <a href='https://www.v2ex.com/t/881027#reply13'>[上海] 上海相亲交友交流群</a><br/>
-<a href='https://www.v2ex.com/t/881026#reply6'>[分享发现] Mac QQ 体验版开放下载了</a><br/>
-<a href='https://www.v2ex.com/t/881025#reply4'>[RSS] 阿里云函数版 RSS 过滤器</a><br/>
+<a href='https://www.v2ex.com/t/881026#reply7'>[分享发现] Mac QQ 体验版开放下载了</a><br/>
 
 
 <邮件内容区结束
@@ -167,7 +166,4 @@ Rss num: 0  Date: 2022-09-18 20:35:37 <br/>
 | A103  | 新闻 | 微博热搜榜 | [订阅地址](https://rsshub.app/weibo/search/hot) |
 | A104  | 新闻 | SinaNews | [订阅地址](https://sina-news.vercel.app/rss.xml) |
 | A105  | 新闻 | 风投圈 | [订阅地址](https://crazy.capital/feed) |
-| B101  | 软件 | easy | [订阅地址](https://rsshub.app/weibo/user/1088413295) |
 | B102  | 软件 | V2  | [订阅地址](http://www.v2ex.com/index.xml) |
-| B103  | 微博 | 微博热搜榜 | [订阅地址](https://rsshub.app/weibo/search/hot) |
-| B104  | 博客 | 阮一峰 | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
