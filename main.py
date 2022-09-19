@@ -153,7 +153,7 @@ def replace_readme():
                                 #print("==发送消息失败==》》", e)
                          
                         #wx_content = wx_content + rss_info_atom["title"] + rss_info_atom["link"] + "<br/>\n"
-                        #new_num = new_num + 1
+                        new_num = new_num + 1
                         current_date_news_index[0] = current_date_news_index[0] + "<a href='"+rss_info_atom["link"]+"'>"+rss_info_atom["title"]+ "</a><br/>\n"
 
             except:
