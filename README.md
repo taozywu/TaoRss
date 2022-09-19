@@ -1,7 +1,7 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-09-19 21:45:42 <br/>
+Rss num: 181  Date: 2022-09-19 22:08:58 <br/>
 
 <a href='https://36kr.com/p/1922062177722112'>海外new things |AR职业培训技术提供商「Taqtile」获得500万美元战略投资</a><br/>
 <a href='https://36kr.com/p/1921971435364361'>氪星晚报｜京东快递接入抖音电商“音需达”服务；元气森林旗下植物茶品牌纤茶业绩同比增长10倍；锂价上涨“高攀不起” 钠电池性价比占优迎机遇</a><br/>
@@ -32,8 +32,29 @@ Rss num: 0  Date: 2022-09-19 21:45:42 <br/>
 <a href='https://36kr.com/newsflashes/1922043307466753'>半导体装备巨头泛林位于印度班加罗尔的工程中心正式启用</a><br/>
 <a href='https://36kr.com/newsflashes/1922058969718786'>顺丰控股：8月速运物流业务营业收入147亿元，同比增长10.47%</a><br/>
 <a href='https://36kr.com/newsflashes/1922051955760902'>圆通速递：8月快递产品收入38.30亿元，同比增长30.44%</a><br/>
+<a href='http://www.huxiu.com/article/661124.html?f=wangzhan'>特斯拉看不上的高精地图，华为当个宝</a><br/>
 <a href='http://www.huxiu.com/article/665600.html?f=wangzhan'>广州人的摩托记忆：从致富象征到抢劫工具</a><br/>
 <a href='http://www.huxiu.com/article/665380.html?f=wangzhan'>市值腰斩，暴跌千亿美元，英伟达还有救吗？</a><br/>
+<a href='2806388'>美股航空板块上扬，美国航空集团(AAL.O)涨超3%，美国联合航空(UAL.O)涨超2%，西南航空(LUV.N)、达美航空(DAL.N)涨近2%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9716224.d.html'>美国9月NAHB房产市场指数录得46，续刷2020年5月以来新低。</a><br/>
+<a href='2806386'>【瑞玛精密：公司加速全球化布局的发展战略或有望规避美国IRA法案所带来的影响】针对“最近美国禁止新能源汽车中有生产自中国的零部件，公司的北美工厂会不会受到影响？收购欧洲公司会不会因此受阻？”的提问，瑞玛精密在互动平台回复称，据公开资料显示，美国政府所颁布的IRA法案对汽车零部件厂商的影响主要集中在电池领域，仅对电池组件以及上游关键矿物进行了限制，尚未对其他汽车零部件提出约束；公司自设立至今一直贯彻执行国际化发展战略，并不断提升自身全球化运营能力，2016年，公司在北美墨西哥设立工厂实现北美属地化制造，目前正全力推进北美墨西哥二期生产基地、欧洲匈牙利生产基地建设项目的进度；未来，在强调本土化供应的国际发展形势下，公司加速全球化布局的发展战略或有望规避该法案所带来的影响；公司按计划对本次重大资产重组项目涉及的标的公司进行尽调，暂未发现因该法案颁布所带来的收购风险。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7954837.d.html'>【零跑汽车正在与五家投资者就其在香港IPO中发行约3亿美元股票的承诺进行谈判】据知情人士透露，零跑汽车正在与五家投资者就其在香港IPO中发行约3亿美元股票的承诺进行谈判。据悉零跑可能在上市中筹资至多10亿美元，最早可能于周二开始接受基石投资者认购。</a><br/>
+<a href='2806384'>科大讯飞在互动平台表示，公司将有序推出工业四足机器人、机器宠物、外骨骼机器人、家庭服务机器人。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7954652.d.html'>【我国“北煤南运”重要通道浩吉铁路煤炭发送量突破1亿吨】9月19日，满载8000吨煤炭的71455次列车从陕西榆林靖边东站缓缓驶出，一路向南开往湖北襄阳襄州北站，这标志着浩吉铁路自2019年9月开通运营以来，煤炭发送量突破1亿吨大关，能源运输大通道作用进一步凸显。（央视新闻）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7954170.d.html'>土耳其基准股指下跌3.9%，至9月2日以来新低。</a><br/>
+<a href='2806380'>美股盘初，主要行业ETF多数下跌，能源业ETF、生物科技指数ETF跌超2%，医疗业ETF跌近2%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7953458.d.html'>【沙特主权财富基金瞄准印度投资项目 拟投入40亿美元】沙特公共投资基金（PIF）加快印度房地产投资计划，拟投资40亿美元。两名知情官员表示，PIF已加强其在印度的战略，以在基础设施领域创造投资机会。其中一名官员称，“PIF看好印度，计划在3年内投资约40亿美元，主要投资于房地产领域。”据官员称，PIF正与一家总部位于印度的咨询公司合作，以促进投资。由于印度政府希望为7000个基础设施项目吸引111万亿卢比（约合1.38万亿美元）的投资，新德里更青睐进行长期投资且产生适当收益的主权财富基金或具有影响力的投资者。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9714702.d.html'>市场消息：沙特公共投资基金将为其美国子公司新增一个约50人的纽约交易团队。</a><br/>
+<a href='2806377'>Everest Acquisition Corporation在港交所递表申请IPO，农银国际和花旗担任联席保荐人。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9714563.d.html'>【俄空天军摧毁曾维护“海马斯”系统的工厂车间】据俄罗斯塔斯社19日报道，俄国防部发言人伊戈尔·科纳申科夫中将周一说：“俄罗斯空天军在扎波罗热市进行了一次高精度攻击，摧毁了阿珂法工厂的车间，该工厂曾对美国制造的‘海马斯’多管火箭炮进行维护。”科纳申科夫还表示，过去24小时，俄军对部署于扎伊采夫、尼古拉耶夫卡、谢韦尔斯克及托列茨克地区的乌军实施打击，歼灭乌军200余名，摧毁装甲车11辆。俄军防空系统击落乌军一架苏-25战机，击落14架乌军无人机，成功拦截2枚“哈姆”反辐射导弹、24枚“海马斯”和“桤木”多管火箭弹。 (环球网)</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9714535.d.html'>【全国首单以标准厂房为基础资产的产业园公募REIT今天正式发售】全国首单以标准厂房为基础资产的产业园公募REIT——“国泰君安临港创新智造产业园REIT（508021）”（简称“临港创新产业园REIT”）今天（19日）正式发售。该产品由临港集团发起，也是上海市属国企、临港新片区第一单获批的公募REITs。此次发行的临港创新产业园REIT，以优质高标准厂房作为底层资产，分别为临港奉贤智造园一期和三期。两处资产均位于临港新片区核心区，交通及区位优势明显。在产品询价阶段，该产品网下认购倍数达到148倍。参与认购的资金达384.23亿元，最终确定的认购价格为4.120元/份，预计募集规模可达8.24亿元，产品溢价率接近13%。</a><br/>
+<a href='2806373'>现货黄金短线上扬5美元，现报1666.30美元/盎司；现货白银短线上扬0.1美元，现报19.35美元/盎司。</a><br/>
+<a href='2806371'>美股新能源车股拉升，小鹏汽车(XPEV.N)涨超4%，理想汽车(LI.O)、法拉第未来(FFIE.O)涨超2%，蔚来汽车(NIO.N)转涨近2%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7952612.d.html'>【新金路：拟购买天兵科技65.01%股权 主营业务拓展至军工电子新领域】新金路公告，公司拟通过发行股份及支付现金方式，购买交易对方持有的天兵科技65.01%股权，并向公司控股股东刘江东及其一致行动人金海马以非公开发行股份方式募集配套资金。天兵科技主要从事军民两用的微波毫米波芯片的设计、封测和微波毫米波部件、分机系统的研发、生产和销售，产品主要应用领域包括弹载、机载、舰载及地面火控系统等。本次交易之前，公司以氯碱化工为核心业务，通过本次交易，公司将置入盈利能力较强的优质资产，主营业务将拓展至军工电子新领域。公司股票自9月20日开市起复牌。</a><br/>
+<a href='2806368'>美国抗疫概念股多数低开，iBio(IBIO.O)跌超10%，BioNTech SE(BNTX.O)跌超3%，Moderna(MRNA.O)跌近3%，诺瓦瓦克斯医药(NVAX.O)跌超2%。</a><br/>
+<a href='2806365'>纽元兑美元NZD/USD续刷2020年5月以来的新低，至0.5937，日内下跌0.8%。</a><br/>
+<a href='2806364'>德国环境部：如果工厂运行时间要超过2022年12月31日，将需要停工一周进行维修。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9712734.d.html'>德国环境部：Isar 2核电站运营商通知我们发生了泄漏，但安全没有受到影响。</a><br/>
 <a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9712048.d.html'>【圣元环保：目前公司的新能源项目正在加快推进中】圣元环保在互动平台上表示，目前公司股价受市场大环境、宏观经济影响较大。公司管理层一直非常关心公司股价，同时也将全力以赴做好经营管理工作，以良好的经营业绩来维护股价的稳定，保护广大投资者的利益。目前公司的新能源项目正在加快推进中。</a><br/>
 <a href='2806361'>【浙江义乌要求下架槟榔 当地市监局：接上级通知 永久性禁售槟榔】义乌市市场监督管理局的工作人员表示，近期上级有关部门要求，“浙江省内的食品经营者不得销售食品包装和标签标识的槟榔制品。”“这个通知基本是永久性的，不是说短期（下架）。”该工作人员称，如果之后商家存在销售槟榔的行为，相关部门会对此进行处罚，“现在就是先引导商户对槟榔进行下架处理。” (红星新闻)</a><br/>
 <a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9711845.d.html'>由于进口方面的原因，阿根廷没有达到第二季度外储目标。</a><br/>
@@ -80,37 +101,27 @@ Rss num: 0  Date: 2022-09-19 21:45:42 <br/>
 <a href='2806292'>【 河北邢台：鼓励推“车位贷”，暂停或减少部分区域宅地供应】9月19日，河北省邢台市住房和城乡建设局发布《关于进一步支持房地产业良性循环和健康发展的若干措施》，涉及首套房认定资格、暂停部分地区商品住宅用地供应等10条措施。《措施》提出，对拥有一套住房并已结清相应购房贷款的家庭，再次申请贷款购买住房的，执行首套房贷款政策；鼓励并支持商业银行推出年限较长的“车位贷”类型产品，减轻购买人经济压力。合理把握供地节奏。按照供需平衡原则，根据全市商品房在售、在建、已供地可建规模等，市自然资源规划部门要会同市住建部门科学编制年度住宅用地供应计划，保障商品住房用地需求。现阶段在商品房交易连续同比下降、去化周期超过合理区间的区域，适度减少或暂停住宅用地供应。</a><br/>
 <a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7941268.d.html'>众源新材：公司非公开发行股票申请获得证监会发审委审核通过。</a><br/>
 <a href='2806290'>【国美零售：黄光裕等大股东减持约5.31亿港元股票】据港交所数据，国美零售(00493.HK)大股东黄光裕、杜鹃、恒海投资有限公司和国美管理有限公司在9月14日减持了约27.37亿股，合计约5.31亿港元。注：9月13日晚间，A股公司中关村发布公告称，国美电器所持部分中关村的股份被法院司法再冻结及轮候冻结。国美零售14日跌超2成。据媒体报道，国美零售大股东当日通过大宗交易配售减持，主要用于补充业务经营流动资金和归还部分到期债务。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7941038.d.html'>【ST交投：绿化和环保工程一般占整个项目实施金额的0.7%至1.8%】ST交投回复深交所关注函称，绿化及环境保护工程作为附属工程，在总投资额中占比较小，按照行业惯例和对以往类似项目的实施情况分析，绿化和环保工程一般占整个项目实施金额的0.7%至1.8%（个别特殊项目除外），且高速公路项目建设周期较长，绿化环保工程作为配套工程，在项目开工建设一定时期后可进场实施，并贯穿项目建设始终，施工期与建设期基本同步，并且在项目通车后尚有两年缺陷责任期养护。若项目前期工作进展顺利，满足进场条件，公司预计最早将于2023年底方可进场施工。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9702373.d.html'>【莱茵生物：拟参与桂林银行配股事项】莱茵生物公告，公司拟参与桂林银行配股，截至公告披露日，公司持有桂林银行无限售条件流通股7313.35万股，占桂林银行总股本的1.46%。经测算，公司本次可认购配股数量上限为7313.35万股，预计使用自筹资金不超过1.83亿元（公司最终认配数量及使用资金以实际成交为准）。</a><br/>
-<a href='2806284'>【水利部：着力完善“原型黄河”监测体系 大力推进“数字孪生黄河”建设】水利部召开深入推动黄河流域生态保护和高质量发展工作座谈会，水利部党组书记、部长李国英强调，要针对水资源短缺这个最大矛盾，健全刚性约束指标体系，强化水资源监管，持续实施深度节水控水行动，全方位落实以水定城、以水定地、以水定人、以水定产。要按照“系统完备、安全可靠，集约高效、绿色智能，循环通畅、调控有序”的总体要求，加快构建国家水网主骨架和大动脉，推进区域水资源配置工程建设，提高水资源调蓄能力，完善流域水资源配置格局。要把握生态脆弱这个最大问题，统筹推进山水林田湖草沙综合治理、系统治理、源头治理，以黄土高原多沙粗沙区特别是粗泥沙集中来源区为重点实施水土保持工程，持续开展流域排查整治，着力加强河湖保护治理修复。要着力完善“原型黄河”监测体系，大力推进“数字孪生黄河”建设，进一步强化“模型黄河”建设和运用。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9701389.d.html'>【预告】国家卫健委将于9月20日（周二）上午10：00就党的十八大以来老龄工作进展与成效举行新闻发布会。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7939577.d.html'>【盐田港集团前8月集装箱吞吐量1089.86万标箱，同比增长10.07%】据盐田港集团消息，2022年1-8月，盐田港集团累计集装箱吞吐量1089.86万标箱，同比增长10.07%。其中，集团本地港口集装箱吞吐量1084.51万标箱，同比增长9.84%。盐田港区集装箱吞吐量947.77万标箱，同比增长7.87%；大铲湾港区集装箱吞吐量136.74万标箱，同比增长25.82%。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7939490.d.html'>【证监会：声迅股份、立昂微可转债事项获通过】证监会消息，北京声迅电子股份有限公司、杭州立昂微电子股份有限公司可转债事项均获通过。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7939108.d.html'>【康冠科技：人民币对美元贬值会对公司外销业绩产生正面影响】康冠科技在互动平台表示，公司的产品以出口为主，2022年上半年外销业务占营业收入的比重超过80%，且大部分业务使用美元结算。因此人民币对美元贬值会对公司外销业绩产生正面影响。</a><br/>
-<a href='2806278'>商汤：于9月19日回购227.5万股，回购价格为1.91港元，共耗资约434.5万港元。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9700756.d.html'>【南都电源：签署《电池簇采购合同》，金额为3.8亿元】南都电源公告，与平高集团国际工程有限公司、平高集团储能科技有限公司签署《电池簇采购合同》，采购内容为72套储能项目电池簇，合同金额为3.8亿元。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9700439.d.html'>【奥维通信：拟以不低于人民币1.93亿元购买标的公司股权】奥维通信公告，拟以现金方式购买哈尔滨众志创科投资企业（有限合伙）、哈尔滨聚焰投资企业（有限合伙）、汪天润持有的哈尔滨哈船导航技术有限公司82.50%股权，预估交易价格不低于人民币1.93亿元，并拟对标的公司增资5460万元。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9700397.d.html'>【上海要求落实新一轮稳增长政策：拿出真金白银，提振企业信心】上海市委副书记、市长龚正今天（9月19日）主持召开市政府常务会议，强调按照市委部署，落实好新一轮稳增长政策；大力推进节能减排；建立行政许可事项清单体系。（澎湃新闻）</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7937888.d.html'>巴西经济学家预测巴西2022年GDP增长为2.65％，此前预测为2.39％。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9699664.d.html'>印度要求谷歌帮助遏制非法借贷应用程序。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9699641.d.html'>巴西经济学家预测2022年通胀为6.0％。此前预测为6.4％。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9699595.d.html'>美元兑日元USD/JPY日内涨幅达0.50%，现报143.62。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9699415.d.html'>【川能动力：拟收购启迪新材料持有的启迪清源40%股权】川能动力公告，为进一步拓展公司锂电产业链，加快进入盐湖提锂领域，增强公司锂电业务竞争力，公司于2022年9月19日与启迪新材料(北京)有限公司签订了《股权收购意向协议》。经双方友好协商，川能动力拟收购启迪新材料持有的启迪清源（北京）科技有限公司40%股权。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7937601.d.html'>【泰和新材：控股子公司北交所上市辅导验收完成】泰和新材9月19日晚间公告，9月19日，公司控股子公司民士达收到山东证监局下发的《关于对中泰证券股份有限公司辅导工作的验收工作完成函》，民士达申请向不特定合格投资者公开发行股票并在北交所上市已通过山东证监局的辅导验收。</a><br/>
+<a href='https://www.v2ex.com/t/881397#reply0'>[宽带症候群] 请教个问题， 89 平的房子两室一厅，装个华为吸顶 ap 够用吗？</a><br/>
+<a href='https://www.v2ex.com/t/881396#reply0'>[杭州] 转租贴-上城庆春银泰旁三新家园 2 室一厅 5 层电梯</a><br/>
+<a href='https://www.v2ex.com/t/881395#reply1'>[Apple] 趁着 ios14 可以完美越狱，问下现在哪些源比较靠谱（多年没折腾）</a><br/>
+<a href='https://www.v2ex.com/t/881393#reply0'>[问与答] Python 项目加密 cython+pyinstaller+docker 问题求助</a><br/>
+<a href='https://www.v2ex.com/t/881392#reply0'>[问与答] 有好看的桌面壁纸 给推荐一波</a><br/>
+<a href='https://www.v2ex.com/t/881391#reply0'>[问与答] iOS 有什么好用的离线词典检索软件呢？</a><br/>
+<a href='https://www.v2ex.com/t/881390#reply3'>[Apple] iPhone 14 Pro Max 里面有个大概 8G 大小的视频，怎么传到我的 MacBookAir 上</a><br/>
 <a href='https://www.v2ex.com/t/881388#reply0'>[问与答] 根据某数组类型字段关联多条数据，该如何实现呢？</a><br/>
-<a href='https://www.v2ex.com/t/881387#reply0'>[分享发现] WSJ 促销 1 年$4/月</a><br/>
-<a href='https://www.v2ex.com/t/881386#reply1'>[Android] 添加 ComposeView 报错 CiewTreeLifecycleOwner not found</a><br/>
+<a href='https://www.v2ex.com/t/881387#reply8'>[分享发现] WSJ 促销 1 年$4/月</a><br/>
+<a href='https://www.v2ex.com/t/881386#reply2'>[Android] 添加 ComposeView 报错 CiewTreeLifecycleOwner not found</a><br/>
 <a href='https://www.v2ex.com/t/881385#reply0'>[iPhone] 有人买 iPhone 14 标准版吗？</a><br/>
 <a href='https://www.v2ex.com/t/881384#reply0'>[小米] 小米电视自动开机</a><br/>
 <a href='https://www.v2ex.com/t/881383#reply0'>[互联网] 有没有适合儿童手表的手机卡？</a><br/>
-<a href='https://www.v2ex.com/t/881382#reply3'>[NAS] NAS 新手问题</a><br/>
+<a href='https://www.v2ex.com/t/881382#reply5'>[NAS] NAS 新手问题</a><br/>
 <a href='https://www.v2ex.com/t/881381#reply0'>[问与答] 寻找爱好的网站？</a><br/>
-<a href='https://www.v2ex.com/t/881380#reply4'>[Apple] 这 AOD 比想象的亮了多，担心烧屏</a><br/>
+<a href='https://www.v2ex.com/t/881380#reply6'>[Apple] 这 AOD 比想象的亮了多，担心烧屏</a><br/>
 <a href='https://www.v2ex.com/t/881379#reply1'>[问与答] 你们有发现上传到 OneDrive 的 图片/视频 ，有的不会带上 拍摄日期么？</a><br/>
 <a href='https://www.v2ex.com/t/881376#reply1'>[酷工作] Shein 招人啦</a><br/>
-<a href='https://www.v2ex.com/t/881374#reply6'>[程序员] 请教大佬们个硬件问题，感谢</a><br/>
-<a href='https://www.v2ex.com/t/881372#reply4'>[问与答] 6000 预算买丐版 m1 还是小新 pro14 6800h</a><br/>
-<a href='https://www.v2ex.com/t/881369#reply0'>[问与答] 想咨询下 V 站的 HR 大佬或者有经验的大佬们，你们会给有两年空档期的求职人员面试的机会吗？</a><br/>
+<a href='https://www.v2ex.com/t/881374#reply8'>[程序员] 请教大佬们个硬件问题，感谢</a><br/>
+<a href='https://www.v2ex.com/t/881372#reply5'>[问与答] 6000 预算买丐版 m1 还是小新 pro14 6800h</a><br/>
+<a href='https://www.v2ex.com/t/881369#reply1'>[问与答] 想咨询下 V 站的 HR 大佬或者有经验的大佬们，你们会给有两年空档期的求职人员面试的机会吗？</a><br/>
 <a href='https://www.v2ex.com/t/881368#reply1'>[Java] 哪家公司做单元测试？</a><br/>
 <a href='https://www.v2ex.com/t/881367#reply2'>[程序员] 求推荐价格不贵方便直连的海外云服务器？性能用来基础学习就行</a><br/>
 <a href='https://www.v2ex.com/t/881366#reply2'>[北京] 问一下现在还可以办理香港卡吗？坐标北京</a><br/>
@@ -121,8 +132,8 @@ Rss num: 0  Date: 2022-09-19 21:45:42 <br/>
 <a href='https://www.v2ex.com/t/881358#reply0'>[问与答] 请大家帮忙出主意，怎么合法举报骗子公司</a><br/>
 <a href='https://www.v2ex.com/t/881356#reply0'>[求职] [求职] 远程兼职， 7 年 PHP ，会点前端。</a><br/>
 <a href='https://www.v2ex.com/t/881355#reply0'>[推广] 袋鼠数据库工具 v1.99.1</a><br/>
-<a href='https://www.v2ex.com/t/881352#reply15'>[问与答] 上班族自己做饭有什么省钱省时间的操作?</a><br/>
-<a href='https://www.v2ex.com/t/881350#reply11'>[Python] 如何用 Python 循环发送 POST 请求，其中携带的 data 参数需从 json 循环</a><br/>
+<a href='https://www.v2ex.com/t/881352#reply17'>[问与答] 上班族自己做饭有什么省钱省时间的操作?</a><br/>
+<a href='https://www.v2ex.com/t/881350#reply12'>[Python] 如何用 Python 循环发送 POST 请求，其中携带的 data 参数需从 json 循环</a><br/>
 <a href='https://www.v2ex.com/t/881349#reply9'>[程序员] 新人最近学习 c 语言，有哪些好的书籍，视频，社区，网站资源呢，跪求大佬分享一些</a><br/>
 <a href='https://www.v2ex.com/t/881348#reply0'>[问与答] go 的协程需要做单元测试吗</a><br/>
 <a href='https://www.v2ex.com/t/881347#reply9'>[问与答] XDM，打算去威海养老，海景房有什么坑？</a><br/>
@@ -133,22 +144,46 @@ Rss num: 0  Date: 2022-09-19 21:45:42 <br/>
 <a href='https://www.v2ex.com/t/881341#reply1'>[问与答] 求教 开了油管印度区的家庭会员，新用户进一直是您似乎与家庭管理员不在同一个国家/地区</a><br/>
 <a href='https://www.v2ex.com/t/881340#reply0'>[Apple] iMac 显示屏是划痕还是裂开了？</a><br/>
 <a href='https://www.v2ex.com/t/881339#reply0'>[程序员] 撸了一个 ORM/DBHelper, 不知道算不算重复造轮子</a><br/>
-<a href='https://www.v2ex.com/t/881338#reply2'>[程序员] 2022 年了，安卓+Windows 同价位在图像显示效果上能比肩 苹果了吗？</a><br/>
+<a href='https://www.v2ex.com/t/881338#reply3'>[程序员] 2022 年了，安卓+Windows 同价位在图像显示效果上能比肩 苹果了吗？</a><br/>
 <a href='https://www.v2ex.com/t/881337#reply2'>[微信] 微信小程序页面开发可以全部使用 webview 吗？</a><br/>
 <a href='https://www.v2ex.com/t/881336#reply18'>[iPhone] 现在 iPhone 的屏幕硬度，不带壳耐摔吗？</a><br/>
 <a href='https://www.v2ex.com/t/881335#reply25'>[生活] 30 岁落户城市推荐</a><br/>
 <a href='https://www.v2ex.com/t/881333#reply0'>[问与答] 有用 iPad air5 剪辑视频的么 感觉咋样</a><br/>
 <a href='https://www.v2ex.com/t/881332#reply0'>[Apple] 求 apple watch 换屏推荐</a><br/>
-<a href='https://www.v2ex.com/t/881330#reply27'>[Apple] ios 外区有什么值得下载的 app</a><br/>
-<a href='https://www.v2ex.com/t/881329#reply11'>[酷工作] TiDB 数据库 DBA 招聘 [上海] 11-14k</a><br/>
-<a href='https://www.v2ex.com/t/881326#reply2'>[程序员] 基于 apache license 2.0 项目二次开发后再开源需要什么操作</a><br/>
-<a href='https://www.v2ex.com/t/881325#reply8'>[优惠信息] Z-Library 捐款奖励会员一个月</a><br/>
-<a href='https://www.v2ex.com/t/881324#reply0'>[程序员] 独立产品灵感周刊 DecoHack #031 - 用 AI 给黑白照片上色哪家好？</a><br/>
-<a href='https://www.v2ex.com/t/881323#reply2'>[互联网] 需要频繁访问一个网站，网站有 WAF 防火墙该怎么办</a><br/>
-<a href='https://www.v2ex.com/t/881322#reply9'>[VPS] Oracle 免费 VPS 如何更换系统</a><br/>
 <a href='http://www.newsmth.net/nForum/article/Entrepreneur/683892'>在顺义想租几百平米的厂房，哪位兄弟有资源吗？</a><br/>
 <a href='http://www.newsmth.net/nForum/article/Entrepreneur/683886'>非常有希望的创业公司（早期阶段）招聘早期员工</a><br/>
 <a href='http://www.newsmth.net/nForum/article/Entrepreneur/683883'>一个AI的需求，哪位大拿可以承接？</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068202'>[转让] 雅马哈钢琴</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068196'>[转让]东芝牌32寸液晶智能电视</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068195'>转牛津树234阶绘本</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068194'>转海淀清河五彩城滑冰卡</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068193'>7折求购 味多美卡</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068185'>[转让]BRITA/碧然德滤水壶（全新）</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068184'>丹麦PO玫瑰茶具套装（全新未开封）</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068183'>【询价】中石化加油卡行情</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068182'>98折出20*1K京东e卡</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068181'>忍痛低价转让桔子树会员卡</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068178'>98折 出3*5k京东卡</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068172'>求购全新微波炉</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068168'>[转让]阳澄湖大闸蟹提货卡。1088型</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068164'>60甩卖美的全新小电烤箱</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068158'>回龙观附近求个电动车</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068154'>[求购]今天975折求2000-3000的京东卡，自用</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068152'>转e袋洗充值卡，42折</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068145'>[转让]大闸蟹、香港“美心"流心奶黄月饼</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2068142'>[转让]八家嘉园水卡</a><br/>
+<a href='https://weibo.com/1088413295/M6vGVkKqD'>「GitHub多星项目 ✨」7.7K⭐️ Piskelapp/piskel: 「A simple web-based tool for Spriting and Pixel art.」用过的同学来评论下？ 网页链接 [图片]</a><br/>
+<a href='https://weibo.com/1088413295/M6uzB50JT'>恭喜@罐头龟 等2名用户获得【腾讯长鹅】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页链接 - 转发 @Easy:&ensp;为了...</a><br/>
+<a href='https://weibo.com/1088413295/M6sqOD8nh'>「GitHub多星项目 ✨」7.7K⭐️ Shopify/sarama: 「Sarama is a Go library for Apache Kafka 0.8, and up.」用过的同学来评论下？ 网页链接 [图片]</a><br/>
+<a href='https://weibo.com/1088413295/M6sifDc4g'>「GitHub多星项目 ✨」7.7K⭐️ Redux-observable/redux-observable: 「RxJS middleware for action side effects in Redux using "Epics"」用过的同学来评论下...</a><br/>
+<a href='https://weibo.com/1088413295/M6shbv9bU'>最后 #Check酱# 变成了我的主阅读器 [允悲] [图片]</a><br/>
+<a href='https://weibo.com/1088413295/M6s9JCJVH'>「GitHub多星项目 ✨」7.7K⭐️ 30-seconds/30-seconds-of-python: 「Short Python code snippets for all your development needs」用过的同学来评论下？ 网页...</a><br/>
+<a href='https://weibo.com/1088413295/M6rYG3cNe'>今天抽奖 查看图片 - 转发 @Easy:&ensp;为了庆祝 🎉 通知工具Server酱和网页监测工具Check酱上架腾讯云 HiFlow（ hiflow.tencent.com ），做个微博抽奖吧。下...</a><br/>
+<a href='https://weibo.com/1088413295/M6qYFodeG'>每天一个Linux上会用到的命令：今天是「ip6tables-restore」，你用过吗 网页链接 [图片]</a><br/>
+<a href='https://weibo.com/2131170823/M6stC5vgu'>微博这个环境咱也不好说，但是在有限的舆论空间内，可以探讨很多事情，冷静思考哪些是可改进的问题，哪些不是，异地转运其实很多，之前上海很多群众就密闭转运到...</a><br/>
+<a href='https://weibo.com/2131170823/M6seHc3gR'>现在上面不承认有过错，我只是分析是不是有改进的空间，其实也是在给上面提改进意见。群众也多个心眼，以后看到这种不周全的配置，能坚决提出，避免以后的损害。...</a><br/>
+<a href='https://weibo.com/2131170823/M6s5rlfjL'>核载49人，实际坐了47人，基本坐满了，还都穿防护服，车窗也不能开，会不会缺氧啊。以后不能坐太满，带上制氧设备会不会更好一点。</a><br/>
+<a href='https://weibo.com/1497035431/M6rsLaKrf'>庆祝解封，分享一个情感计算（褒贬计算）的数据吧，找了最近5天的API接口请求日志，因为硬盘太小，基本只能保存最近5天。大约1000万条短文本数据，第一列是时间...</a><br/>
 
 
 <邮件内容区结束
@@ -164,4 +199,8 @@ Rss num: 0  Date: 2022-09-19 21:45:42 <br/>
 | A105  | 新闻 | 风投圈 | [订阅地址](https://crazy.capital/feed) |
 | B102  | 社区 | V2  | [订阅地址](http://www.v2ex.com/index.xml) |
 | B103  | 社区 | 水木-创业  | [订阅地址](https://www.mysmth.net/nForum/rss/board-Entrepreneur) |
-| B104  | 社区 | 水木-二手 | [订阅地址](https://www.mysmth.net/nForum/#!board/SecondMarket) |
+| B104  | 社区 | 水木-二手 | [订阅地址](https://www.mysmth.net/nForum/rss/board-SecondMarket) |
+| C101  | 微博 | easy | [订阅地址](https://rsshub.app/weibo/user/1088413295) |
+| C102  | 微博 | 梁博小号 | [订阅地址](https://rsshub.app/weibo/user/2131170823) |
+| C103  | 微博 | 梁博大号 | [订阅地址](https://rsshub.app/weibo/user/1497035431) |
+
