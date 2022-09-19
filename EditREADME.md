@@ -16,4 +16,6 @@ Rss num: {{new_num}}  Date: {{ga_rss_datetime}} <br/>
 | A103  | 新闻 | 微博热搜榜 | [订阅地址](https://rsshub.app/weibo/search/hot) |
 | A104  | 新闻 | SinaNews | [订阅地址](https://sina-news.vercel.app/rss.xml) |
 | A105  | 新闻 | 风投圈 | [订阅地址](https://crazy.capital/feed) |
-| B102  | 软件 | V2  | [订阅地址](http://www.v2ex.com/index.xml) |
+| B102  | 社区 | V2  | [订阅地址](http://www.v2ex.com/index.xml) |
+| B103  | 社区 | 水木-创业  | [订阅地址](https://www.mysmth.net/nForum/rss/board-Entrepreneur) |
+| B104  | 社区 | 水木-二手 | [订阅地址](https://www.mysmth.net/nForum/#!board/SecondMarket) |
