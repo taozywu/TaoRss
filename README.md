@@ -1,55 +1,57 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 47  Date: 2022-10-05 11:04:34 <br/>
+Rss num: 49  Date: 2022-10-06 11:02:54 <br/>
 
-<a href='https://36kr.com/p/1937287369984649'>半年没去电影院，是票价太「疯狂」还是「好片难求」</a><br/>
-<a href='https://36kr.com/newsflashes/1944239203273349'>元丰电控：拟冲刺创业板IPO上市，预计募资4.06亿元</a><br/>
-<a href='https://36kr.com/newsflashes/1944237955385988'>亚马逊零售业务冻结招聘，应对业绩放缓</a><br/>
-<a href='https://36kr.com/newsflashes/1944235187391111'>腾讯投资《死亡链接》开发商Gruby Entertainment，成后者少数股东</a><br/>
-<a href='https://36kr.com/newsflashes/1944226039253632'>电子烟公司Juul准备为潜在破产程序而寻求融资</a><br/>
-<a href='https://36kr.com/newsflashes/1944223950408327'>桥水基金管理层完成交接：达利欧放弃控制权，移交运营董事会</a><br/>
-<a href='https://36kr.com/newsflashes/1944222649174665'>海天味业再发声明否认“双标”：国内外酱油内控标准一致</a><br/>
-<a href='https://36kr.com/newsflashes/1944186484738689'>美国石油商致信能源部长，呼吁勿对燃料出口施加限制</a><br/>
-<a href='https://36kr.com/newsflashes/1944184793778822'>芯微电子：拟冲刺创业板IPO上市，预计募资5.5亿元</a><br/>
-<a href='https://36kr.com/newsflashes/1944183353477765'>港股比亚迪股份涨超9%</a><br/>
-<a href='https://36kr.com/newsflashes/1944182573009537'>高通、台积电等苹果供应商增加在美生产设施数量</a><br/>
-<a href='https://36kr.com/newsflashes/1944180319275653'>德国和荷兰将加强可再生能源合作</a><br/>
-<a href='https://36kr.com/newsflashes/1944179078007433'>比亚迪：汉家族9月销量31497辆，累计销量超33万辆</a><br/>
-<a href='https://36kr.com/newsflashes/1944138233072009'>欧盟将统一便携智能设备充电接口</a><br/>
-<a href='https://36kr.com/newsflashes/1944137020492425'>闲鱼：部分卖家10月8日起需支持7天无理由退货</a><br/>
-<a href='https://36kr.com/newsflashes/1944135705889416'>马斯克据称将以每股54.20美元推进收购案</a><br/>
-<a href='https://36kr.com/newsflashes/1944131032025735'>华策影视：针对短视频平台上版权问题，公司已有专门部门和法律维权团队在进行维权工作</a><br/>
-<a href='https://36kr.com/newsflashes/1944129512376710'>杭州国芯：拟冲刺创业板IPO上市，预计募资4.59亿元</a><br/>
-<a href='https://36kr.com/newsflashes/1944127702616452'>前三季度内地股票市场IPO等全口径募资事件共660起，股权融资总额11714亿元</a><br/>
-<a href='https://36kr.com/newsflashes/1944126690740615'>世界银行预测：能源危机持续影响东欧中亚经济</a><br/>
-<a href='https://blog.archive.org/2022/10/04/internet-archive-seeks-donations-of-materials-to-build-a-digital-library-of-amateur-radio-and-communications/'>Internet Archive Seeks Material for Library of Amateur Radio and Communications</a><br/>
-<a href='https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters'>Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters</a><br/>
-<a href='https://www.v2ex.com/t/884701#reply0'>[问与答] 请问大家戴尔新出的 DA305 扩展坞咋样？</a><br/>
-<a href='https://www.v2ex.com/t/884700#reply0'>[Apple] APPLE MUSIC 上一秒还在听的歌，下一秒就不在该国家提供了</a><br/>
-<a href='https://www.v2ex.com/t/884699#reply0'>[分享发现] 喜欢这个功能吗? 喜欢就砍了: OneNote 2016</a><br/>
-<a href='https://www.v2ex.com/t/884698#reply2'>[分享发现] V2EX 发帖和回帖已经可以显示来源了</a><br/>
-<a href='https://www.v2ex.com/t/884697#reply1'>[V2EX] v2ex 账号被降权了会自动恢复吗？</a><br/>
-<a href='https://www.v2ex.com/t/884696#reply0'>[Chrome] Mac 系统，如何优雅的安装多个不同版本的 Chrome？</a><br/>
-<a href='https://www.v2ex.com/t/884694#reply5'>[分享发现] 网站加 SSL 证书后打不开</a><br/>
-<a href='https://www.v2ex.com/t/884693#reply7'>[Linux] 个人电脑装 Linux ，文件系统选 ext4 还是 btrfs</a><br/>
-<a href='https://www.v2ex.com/t/884692#reply0'>[问与答] JavaScript（油猴脚本）中跨域通讯能用一个异步函数搞定吗？</a><br/>
-<a href='https://www.v2ex.com/t/884691#reply0'>[问与答] [提问]哪里有可以生成关键词词云的在线工具</a><br/>
-<a href='https://www.v2ex.com/t/884689#reply13'>[Apple] 价格差不多，买 iPhone 还是 Mac？</a><br/>
-<a href='https://www.v2ex.com/t/884687#reply18'>[问与答] Bitwarden 支持把密码本和 TOTP 放在一起，这是出于什么考虑？</a><br/>
-<a href='https://www.v2ex.com/t/884686#reply2'>[Apple] 你们有没有遇到 AirPods pro 2 盒子有自己掉电的情况？</a><br/>
-<a href='https://www.v2ex.com/t/884684#reply5'>[OpenWrt] win 10 和 Android 、openwrt 上有类似于 Quantumult X 软件吗？</a><br/>
-<a href='https://www.v2ex.com/t/884683#reply0'>[Jekyll] 在 macOS Big Sur / Monterey 上适用的 Jekyll 安装过程</a><br/>
-<a href='https://www.v2ex.com/t/884682#reply22'>[Linux] 各位 lnmp 是怎么装的</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069198'>[转让]转让电风扇、热水壶</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069197'>求2万京东E卡</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069194'>260元出AO史密斯电热水器，成色比较新，已经拆下来了，有需要的</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069192'>转让捷安特钢架公路自行车</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069191'>甩出凤阳床垫1.8*2m</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069187'>转让: 家乐福购物卡</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069186'>[转让]捷安特女式变速山地车</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069185'>[转让]儿童安全座椅</a><br/>
-<a href='https://weibo.com/1088413295/M8ROCqBbe'>每天一个Linux上会用到的命令：今天是「kill」，你用过吗 网页链接 [图片]</a><br/>
+<a href='https://36kr.com/p/1931697060596101'>多家企业跨界布局、磷酸锰铁锂异军突起，锂电池正极材料产业格局正持续变动 | 未来能源创投风向标</a><br/>
+<a href='https://36kr.com/newsflashes/1945644892670598'>内蒙古昨日新增本土确诊病例26例、本土无症状感染者445例</a><br/>
+<a href='https://36kr.com/newsflashes/1945643662903684'>上美集团再度递表申请港股IPO</a><br/>
+<a href='https://36kr.com/newsflashes/1945642295396741'>国星光电：自主研发MicroLED巨量转移技术现处于小批验证阶段</a><br/>
+<a href='https://36kr.com/newsflashes/1945560982784644'>通用电气针对陆上风力业务裁员</a><br/>
+<a href='https://36kr.com/newsflashes/1945559678437766'>深圳昨日新增6例确诊病例和4例无症状感染者</a><br/>
+<a href='https://36kr.com/newsflashes/1945558848620936'>上海昨日无新增本土确诊病例、新增本土无症状感染者11例</a><br/>
+<a href='https://36kr.com/newsflashes/1945557664926336'>市场消息：特斯拉CEO埃隆·马斯克在推特收购中寻求高达30％的折扣。</a><br/>
+<a href='https://36kr.com/newsflashes/1945538549827977'>北京昨日新增2例本土确诊病例，2例本土无症状感染者</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1620685.d.html'>市场消息：特斯拉CEO马斯克周四的作证延后，因其和twitter的谈判继续。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9908666.d.html'>【兴科蓉医药短暂停牌 原因待公布】根据公告，兴科蓉医药(06833.HK)将于上午9时正起短暂停止买卖。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1620448.d.html'>【上美集团再度递表申请港股IPO】护肤品企业上海上美化妆品股份有限公司(上美集团)10月5日向港交所主板提交上市申请，摩根大通、中金公司和中信证券为联席保荐人。该公司2022 年1月17日曾向港交所递表。上美集团创立于上海，拥有韩束、一叶子、红色小象等知名品牌，进行多品牌布局、多渠道销售、全媒体营销，涵盖护肤、母婴、洗护等。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1620187.d.html'>【内蒙古昨日新增本土确诊病例26例、本土无症状感染者445例】5日0—24时，内蒙古自治区新增本土确诊病例26例，其中呼和浩特市19例（含14例由无症状感染者转为确诊病例）、包头市1例（在青山区）、通辽市1例（在科尔沁区）、赤峰市1例（在林西县）、锡林郭勒盟1例（在阿巴嘎旗）、鄂尔多斯市3例（东胜区1例、准格尔旗1例、伊金霍洛旗1例）；无症状感染者445例，其中呼和浩特市441例、通辽市1例（在科尔沁左翼中旗）、巴彦淖尔市2例（五原县1例、磴口县1例）、阿拉善盟1例（在阿拉善左旗）。境外输入无症状感染者1例，由首都机场国际航班分流至呼和浩特白塔国际机场。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9907614.d.html'>【巨星传奇三度递表申请港交所IPO 周杰伦母亲叶惠美为创始人】巨星传奇集团有限公司10月5日向港交所主板提交上市申请，民银资本为独家保荐人。该公司于 2021 年 9 月 30 日、2022 年 3 月 31 日曾向港交所递表。周杰伦的母亲叶惠美是公司的控股股东及创始人。公司已与周杰伦、杰威尔音乐（其艺人经纪公司）及Archstone（周杰伦的有关一次性或项目委任业务磋商代表）建立长期合作关系。公司业务营运包括新零售分部，及IP创造及营运分部。2018年至2021年及2022年前6月，公司实现收入分别是9468.2万元、8658.5万元、4.57亿元、3.65亿元、1.25亿元；实现归属于母公司拥有人应占利润分别是923.5万元、2355.9万元、7806.4万元、4364.9万元、1451.2万元。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9907599.d.html'>【四川昨日新增外省返川感染者46例 新增省内感染者18例】5日0—24时，四川全省新增外省返川感染者46例，其中闭环转运32例（确诊病例7例，无症状感染者25例），非闭环管理14例（确诊病例2例，乐山1例，达州1例；无症状感染者12例，南充3例，宜宾3例，广元2例，达州1例，德阳1例，泸州1例，资阳1例）。新增省内感染者18例，其中确诊病例12例（绵阳9例，广元2例，眉山1例），无症状感染者6例（德阳2例，绵阳2例，泸州1例，广元1例）。 （央视）</a><br/>
+<a href='2819527'>市场消息，通用电气针对陆上风力业务裁员，涉及北美、拉丁美洲、中东和非洲地区。通用电气裁减了20%的美国陆上风电业务员工；通用电气还计划削减欧洲和亚太地区的陆上风力发电业务劳动力。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9906649.d.html'>【广东昨日新增本土确诊病例29例 新增本土无症状感染者27例】5日0-24时，广东全省新增本土确诊病例29例（广州10例，深圳6例，佛山1例，韶关6例，惠州6例）；新增本土无症状感染者27例（广州13例，深圳4例，韶关2例，惠州4例，东莞2例，中山1例，清远1例）；另有8例本土无症状感染者转确诊病例（广州4例，东莞4例）。（央视）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9906564.d.html'>【河南昨日新增本土确诊病例3例 本土无症状感染者22例】5日0—24时，河南全省新增本土确诊病例3例（郑州市中牟县2例、省外返豫人员点对点闭环管理1例），新增本土无症状感染者22例（郑州市中牟县3例；平顶山市汝州市6例、鹤壁市浚县3例、洛阳市新安县1例、安阳市滑县1例、省外返豫人员5例，均为隔离管控发现；省外返豫人员2例、省外协查过境人员1例，均为点对点闭环管理）。（央视）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9906505.d.html'>【湖北昨日新增本土无症状感染者46例】5日0到24时，湖北省新增本土确诊病例0例，新增本土无症状感染者46例（武汉市11例，襄阳市1例，宜昌市1例，荆州市13例、荆门市6例，鄂州市1例，随州市3例，仙桃市9例，天门市1例）。（央视）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1618308.d.html'>【广西昨日新增外省来桂无症状感染者7例、新增区内本土无症状感染者2例】5日0-24时，广西新增外省来桂无症状感染者7例，其中桂林市3例，北海市1例，玉林市1例，贺州市1例，河池市1例。新增区内本土无症状感染者2例，其中防城港市防城区1例，东兴市1例。（央视）</a><br/>
+<a href='2819521'>澳大利亚国家统计局：澳大利亚8月煤炭出口量环比增加0.8%，铁矿石出口量环比减少3.3%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9905482.d.html'>【新疆昨日新增本土无症状感染者97例】5日0至24时，新疆维吾尔自治区无新增确诊病例；新增本土无症状感染者97例，其中，乌鲁木齐市天山区9例、沙依巴克区8例、高新区6例、水磨沟区8例、经开区4例、米东区5例，伊犁州伊宁市28例，塔城地区乌苏市5例，吐鲁番市高昌区10例，哈密市伊州区1例（为外省输入），巴州库尔勒市13例。（央视）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1617434.d.html'>【黑龙江昨日新增本土确诊病例5例 本土无症状感染者7例】5日0—24时，黑龙江省新增本土确诊病例5例，其中哈尔滨市4例（南岗区2例，平房区1例，巴彦县1例，均为集中隔离发现），黑河市1例（在爱辉区，为无症状感染者转确诊病例）；新增本土无症状感染者7例，哈尔滨市7例（均在南岗区，均为集中隔离发现）。</a><br/>
+<a href='2819518'>澳大利亚8月进口月率 4%，预期-1%，前值5%。澳大利亚8月出口月率 3%，预期2%，前值-10%。澳大利亚8月商品及服务贸易帐 83.24亿澳元，预期101亿澳元，前值87.33亿澳元。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1616525.d.html'>【海南昨日新增本土确诊病例2例】5日0时到24时，海南省新增本土确诊病例2例，均为海口市报告。（央视）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1615700.d.html'>【宁夏昨日新增本土确诊病例3例 本土无症状感染者32例】5日0时到24时，宁夏全区新增本土确诊病例3例（中宁县3例），新增无症状感染者32例，其中中卫市20例（中宁县16例、沙坡头区1例，海原县3例为区外输入病例），吴忠市7例（利通区2例，同心县3例和红寺堡区2例均为区外输入病例），银川市5例（兴庆区2例，灵武市3例为区外输入病例），无新增疑似病例。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1615640.d.html'>【重庆昨日新增本土确诊病例13例、本土无症状感染者24例】5日0—24时，重庆市新增本土确诊病例13例，其中，沙坪坝区3例、万州区1例、九龙坡区1例、合川区1例、铜梁区1例，均在隔离管控人员中发现；巫山县6例，5例在隔离管控人员中发现，1例由无症状感染者转为确诊病例。新增本土无症状感染者24例，其中，秀山县5例、彭水县3例、南岸区2例、璧山区2例、丰都县2例、巫山县2例、渝北区1例、长寿区1例、合川区1例、潼南区1例，均在隔离管控人员中发现；垫江县4例，均在重点人员核酸检测中发现。</a><br/>
+<a href='https://www.science.org/content/article/department-energy-requires-plans-promote-diversity-grant-applicants'>DOE requires plans to promote diversity from grant applicants</a><br/>
+<a href='https://erikexplores.substack.com/p/what-makes-the-zig-programming-language'>What Makes the Zig Programming Language Unique?</a><br/>
+<a href='https://www.splunk.com/en_us/blog/bulletins/splunk-files-intellectual-property-complaint-against-cribl.html'>Splunk IP suit against Cribl</a><br/>
+<a href='https://discourse.llvm.org/t/rfc-c-buffer-hardening/65734'>RFC: C++ Buffer Hardening</a><br/>
+<a href='https://www.v2ex.com/t/884852#reply1'>[问与答] C++ 数组自增相关问题</a><br/>
+<a href='https://www.v2ex.com/t/884851#reply0'>[分享发现] 分享一个纽约本地博主的油管频道</a><br/>
+<a href='https://www.v2ex.com/t/884850#reply0'>[问与答] 如果不是因为相爱，而是父母和环境所迫，还有必要结婚吗？如果有朋友这样结婚了，还要去祝福他吗？</a><br/>
+<a href='https://www.v2ex.com/t/884849#reply5'>[问与答] 带宽马上破千兆了，墙里的网线怎么办</a><br/>
+<a href='https://www.v2ex.com/t/884848#reply3'>[程序员] 有什么框架能够把本地命令包装成 web api 的吗？</a><br/>
+<a href='https://www.v2ex.com/t/884847#reply2'>[程序员] 如何低成本选择瘦客户机连接远程桌面</a><br/>
+<a href='https://www.v2ex.com/t/884846#reply6'>[问与答] 天气凉了，有需要毛衣的吗？款式还是挺多的。</a><br/>
+<a href='https://www.v2ex.com/t/884844#reply0'>[分享创造] 毕业纪元，做了个 VS Code 摸鱼拓展辅助摆烂： VSCode Artstation</a><br/>
+<a href='https://www.v2ex.com/t/884843#reply1'>[路由器] 小米 4C 路由器下各节点 PING 不通</a><br/>
+<a href='https://www.v2ex.com/t/884841#reply3'>[Apple] airpod pro2 的位置提醒</a><br/>
+<a href='https://www.v2ex.com/t/884840#reply7'>[macOS] 在 Mac 上， iCloud 钥匙串不能在除 Safari 浏览器以外的 App 里填充</a><br/>
+<a href='https://www.v2ex.com/t/884839#reply6'>[问与答] 什么 AI，人工智能，机器学习，这些是不是很难啊？非科班专业方向，能学会么？</a><br/>
+<a href='https://www.v2ex.com/t/884838#reply1'>[iPad] Stage Manager 将支持 A12X 和 A12Z 的 iPad Pro (2018, 2020)</a><br/>
+<a href='https://www.v2ex.com/t/884836#reply9'>[Apple] 有朋友在 Coodoo 返厂售后过 AirPods Pro 吗？</a><br/>
+<a href='https://www.v2ex.com/t/884835#reply16'>[问与答] 来来来，让大学生看看这道二年级的题怎么做</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2069221'>收个鱼缸</a><br/>
+<a href='https://weibo.com/1088413295/M91f91Vqg'>每天一个Linux上会用到的命令：今天是「showmount」，你用过吗 网页链接 [图片]</a><br/>
+<a href='https://weibo.com/2131170823/M91Js68TO'>如果我做新能源车，价位上不会考虑30岁以上老同志，价格做到10万以内，承诺开5年回收，不做长续航，150公里足够了，长续航那是老同志的需求，发力做快充，只在市...</a><br/>
 
 
 <邮件内容区结束
