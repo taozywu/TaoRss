@@ -26,6 +26,12 @@ Rss num: {{new_num}}  Date: {{ga_rss_datetime}} <br/>
 | C102  | 微博 | 梁博小号 | [订阅地址](https://rsshub.app/weibo/user/2131170823) |
 | C103  | 微博 | 梁博大号 | [订阅地址](https://rsshub.app/weibo/user/1497035431) |
 | C104  | 博客 | 王登科 | [订阅地址](https://greatdk.com/feed) |
+| C105  | 博客 | 饭统戴老板 | [订阅地址](https://api.feeddd.org/feeds/6131b9e01269c358aa0df19e) |
+| C106  | 博客 | 巴伦周刊 | [订阅地址](https://api.feeddd.org/feeds/6131b5301269c358aa0dec2e) |
+| C107  | 博客 | 远川研究所 | [订阅地址](https://api.feeddd.org/feeds/616102e99b888e41f5cb64fb) |
+| C108  | 博客 | 兽楼处 | [订阅地址](https://api.feeddd.org/feeds/6131e1421269c358aa0e1b6b) |
+| C109  | 博客 | Jack Cui | [订阅地址](https://api.feeddd.org/feeds/613381f91269c358aa0eabc9) |
+| D101  | 游戏 | 游戏研究社 | [订阅地址](https://api.feeddd.org/feeds/612328f851e2511a827a171f) |
 
 
 
