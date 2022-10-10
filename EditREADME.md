@@ -17,6 +17,8 @@ Rss num: {{new_num}}  Date: {{ga_rss_datetime}} <br/>
 | A104  | 新闻 | SinaNews | [订阅地址](https://sina-news.vercel.app/rss.xml) |
 | A105  | 新闻 | 风投圈 | [订阅地址](https://crazy.capital/feed) |
 | A106  | 新闻 | HackNews | [订阅地址](https://news.ycombinator.com/rss) |
+| A107  | 新闻 | 晚点LatePost | [订阅地址](https://api.feeddd.org/feeds/6121d8a451e2511a8279faaf) |
+| A108  | 新闻 | 睡前消息编辑部 | [订阅地址](https://api.feeddd.org/feeds/612320c451e2511a827a11d6) |
 | B101  | 社区 | 少数派 | [订阅地址](https://sspai.com/feed) |
 | B102  | 社区 | V2  | [订阅地址](http://www.v2ex.com/index.xml) |
 | B103  | 社区 | 水木-创业  | [订阅地址](https://www.mysmth.net/nForum/rss/board-Entrepreneur) |
@@ -31,6 +33,8 @@ Rss num: {{new_num}}  Date: {{ga_rss_datetime}} <br/>
 | C107  | 博客 | 远川研究所 | [订阅地址](https://api.feeddd.org/feeds/616102e99b888e41f5cb64fb) |
 | C108  | 博客 | 兽楼处 | [订阅地址](https://api.feeddd.org/feeds/6131e1421269c358aa0e1b6b) |
 | C109  | 博客 | Jack Cui | [订阅地址](https://api.feeddd.org/feeds/613381f91269c358aa0eabc9) |
+| C110  | 博客 | 差评 | [订阅地址](https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1) |
+| C111  | 博客 | 胡萝卜周 | [订阅地址](https://api.feeddd.org/feeds/613381f91269c358aa0eab79) |
 | D101  | 游戏 | 游戏研究社 | [订阅地址](https://api.feeddd.org/feeds/612328f851e2511a827a171f) |
 
 
