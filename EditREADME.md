@@ -35,7 +35,13 @@ Rss num: {{new_num}}  Date: {{ga_rss_datetime}} <br/>
 | C109  | 博客 | Jack Cui | [订阅地址](https://api.feeddd.org/feeds/613381f91269c358aa0eabc9) |
 | C110  | 博客 | 差评 | [订阅地址](https://api.feeddd.org/feeds/6110783449ef7514d0b91ae1) |
 | C111  | 博客 | 胡萝卜周 | [订阅地址](https://api.feeddd.org/feeds/613381f91269c358aa0eab79) |
+| C112  | 博客 | 纯洁的微笑 | [订阅地址](http://www.ityouknow.com/feed.xml) |
+| C113  | 博客 | 阮一峰 | [订阅地址](https://feeds.feedburner.com/ruanyifeng) |
+| C114  | 博客 | 马大伟 | [订阅地址](https://www.bmpi.dev/index.xml) |
 | D101  | 游戏 | 游戏研究社 | [订阅地址](https://api.feeddd.org/feeds/612328f851e2511a827a171f) |
+
+
+
 
 
 
