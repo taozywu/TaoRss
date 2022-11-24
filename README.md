@@ -1,106 +1,100 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 98  Date: 2022-11-23 10:28:16 <br/>
+Rss num: 92  Date: 2022-11-24 10:23:21 <br/>
 
-<a href='https://36kr.com/p/2013551059337730?f=rss'>社科院金融所张明：房地产的高收益资产时代已终结</a><br/>
-<a href='https://36kr.com/p/2013521405379328?f=rss'>焦点分析｜百度三季度财报：一边止血，一边扩张</a><br/>
-<a href='https://36kr.com/p/2012056510736002?f=rss'>焦点分析｜我们在李佳琦的新直播间蹲了12小时，发现了「所有女生」的3个秘密</a><br/>
-<a href='https://36kr.com/p/2012598784632194?f=rss'>延期两天的COP27终于落幕，一文梳理大会成果｜36碳深度</a><br/>
-<a href='https://36kr.com/p/2013481095315973?f=rss'>智氪｜编故事、炒概念、存货激增，跌去60%的正泰电器造假还是爆雷？</a><br/>
-<a href='https://36kr.com/p/2012240888899205?f=rss'>36氪首发 |「普法芬」短期内再获近千万融资，进一步扩大和夯实先进汽车热管理算法、联合仿真及车云智慧空调平台</a><br/>
-<a href='https://36kr.com/p/2011189824513666?f=rss'>36氪首发｜维发电子获数千万A轮融资，专注新能源汽车高压配电核心部件</a><br/>
-<a href='https://36kr.com/p/2012760872429191?f=rss'>业绩快报｜本地消费贡献新增长点，同程旅行Q3收入20.48亿元</a><br/>
-<a href='https://36kr.com/p/2012624847349125?f=rss'>巴菲特再度减持比亚迪，持股比例降至15.99%；交通运输部：大力推动新能源清洁能源在航运领域应用 | 36氪新能源日报1122</a><br/>
-<a href='https://36kr.com/p/2012664988870277?f=rss'>中国人在新加坡:富豪party夜，创业梦醒时 | 深氪</a><br/>
-<a href='https://36kr.com/newsflashes/2013564579267337?f=rss'>格力南京公司新增发电输电业务</a><br/>
-<a href='https://36kr.com/newsflashes/2013559160553987?f=rss'>银行、保险等大金融板块再度拉升，中信银行涨超5%</a><br/>
-<a href='https://36kr.com/newsflashes/2013555665158658?f=rss'>AR创业公司“细红线科技”完成约5000万美元的天使轮融资</a><br/>
-<a href='https://36kr.com/newsflashes/2013551840887554?f=rss'>信创���块震荡走低，信雅达跌停</a><br/>
-<a href='https://36kr.com/newsflashes/2013550076690946?f=rss'>创业板指跌超1%</a><br/>
-<a href='https://36kr.com/newsflashes/2013546951082501?f=rss'>工业母机概念股震荡走弱，昊志机电跌超15%</a><br/>
-<a href='https://36kr.com/newsflashes/2013541880890121?f=rss'>中汽协：1-10月汽车销量排名前十位的企业共销售1898.3万辆</a><br/>
-<a href='https://36kr.com/newsflashes/2013533292528391?f=rss'>国企改革概念股持续走强，多股涨停</a><br/>
-<a href='https://36kr.com/newsflashes/2013527333863937?f=rss'>教育板块走低，多股跌超4%</a><br/>
-<a href='https://36kr.com/newsflashes/2013525960327942?f=rss'>安旭生物：第三季度常规业务收入占比超50%</a><br/>
-<a href='https://36kr.com/newsflashes/2013525318500871?f=rss'>web3.0概念股震荡走弱，三湘印象、天地在线双双跌停</a><br/>
-<a href='https://36kr.com/newsflashes/2013523973538563?f=rss'>人造太阳概念股开盘走强，天沃科技涨停</a><br/>
-<a href='https://36kr.com/newsflashes/2013518933771009?f=rss'>复合集流体概念继续走强，英联股份3连板</a><br/>
-<a href='https://36kr.com/newsflashes/2013517854949891?f=rss'>医药股继续下挫，丰原药业跌停</a><br/>
-<a href='https://36kr.com/newsflashes/2013516646580740?f=rss'>中字头个股开盘继续活跃，中国科传、中成股份涨停</a><br/>
-<a href='https://36kr.com/newsflashes/2013515063460361?f=rss'>旅游板块开盘走低，西安饮食再度跌停</a><br/>
-<a href='https://36kr.com/newsflashes/2013510219727617?f=rss'>A股三大指数集体低开，恩捷股份继续跌停</a><br/>
-<a href='https://36kr.com/newsflashes/2013506758525704?f=rss'>央行今日开展20亿元7天期逆回购操作</a><br/>
-<a href='https://36kr.com/newsflashes/2013506309260036?f=rss'>恒指开盘涨0.21%，快手涨近2%</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqqsmrp7213948.d.html'>【红杉资本就投资FTX一事向投资者致歉】知情人士透露，风险投资巨头红杉资本的顶级合伙人在周二的一次电话会议上就投资FTX一事向投资者致歉。 红杉资本掌门人Roelof Botha及其同僚为投资FTX一事感到懊悔，该公司两只基金对FTX.com和FTX.us的投资总计达到2.14亿美元。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5645691.d.html'>【湖北昨日新增本土确诊病例9例、本土无症状感染者389例】22日0-24时，湖北全省新增本土确诊病例9例（武汉市8例，均为重点人群筛查检出；神农架林区1例），新增本土无症状感染者389例。</a><br/>
-<a href='2876482'>【赣锋锂业：位于阿根廷的Cauchari-Olaroz锂盐湖项目预计2022年底至2023上半年逐渐释放产能】赣锋锂业11月22日在投资者互动平台表示，公司位于阿根廷的Cauchari-Olaroz锂盐湖项目正在建设中，预计2022年底至2023上半年逐渐释放产能。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5644808.d.html'>【沙特全国放假一天 庆祝世界杯击败阿根廷 沙特证券交易所也在周三停止交易】11月22日，卡塔尔世界杯小组赛阿根廷队爆冷1:2不敌沙特阿拉伯队。据沙特阿拉伯电视台报道，沙特国王萨勒曼宣布11月23日（周三）为所有员工和学生放假。报道称，国王萨勒曼批准了王储提出的放假来庆祝沙特国家队战胜阿根廷队的建议。放假人群包括所有公共部门和私企的员工，和所有教育阶段的学生。原定于周三举行的考试也将推迟。此外，沙特证券交易所也在周三停止交易。  （中国日报）</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqqsmrp7212712.d.html'>【两市融资余额小幅增加0.2亿元】截止11月22日，上交所融资余额报7768.35亿元，较前一交易日减少2.43亿元；深交所融资余额报6943.42亿元，较前一交易日增加2.64亿元；两市合计1.47万亿元，较前一交易日增加2092.05万元。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqqsmrp7212435.d.html'>【康菲石油将收购桑普拉能源LNG终端30%的股份】康菲石油同意收购桑普拉能源在得克萨斯州拟建的亚瑟港液化天然气终端一期工程30%的股份。该交易涉及一项为期20年的具有约束力的协议，桑普拉能源每年将向康菲石油提供500万吨的液化天然气。亚瑟港液化天然气终端有望成为美国下一批开工建设的主要液化天然气出口终端之一，预计包括两辆天然气液化列车和液化天然气储罐，产量高达1350万吨。市场认为，提高美国的天然气出口能力是欧洲取代俄气供应的关键。桑普拉能源周二表示，将在2023年第一季度对该项目的一期工程做出最终投资决定。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5643506.d.html'>中汽协：暂停举办《2022中国汽车海外发展高峰论坛》。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqqsmrp7211408.d.html'>【保银投资：计划以1亿元申购公司旗下管理的基金产品】保银投资在官微发布公告，基于对资本市场长期健康稳定发展的预期和对自身投资管理能力的信心，本公司计划于本年度以自有资金及员工资金合计1亿元人民币申购公司旗下管理的基金产品。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5642919.d.html'>【新疆昨日新增确诊病例19例、无症状感染者928例】22日0时至24时，新疆维吾尔自治区新增确诊病例19例，新增无症状感染者928例，新增确诊病例治愈出院9例，新增无症状感染者解除隔离医学观察655例。  （央视）</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5642870.d.html'>【大众汽车中国区负责人称将继续投资中国市场】大众汽车中国区负责人Ralf Brandstätter在接受采访时表示，尽管外界担心该汽车制造商过于依赖中国市场，但大众汽车仍将致力于投资中国市场。Brandstätter表示，“如果我们现在不对该地区进行更多投资，三年后我们将无法再在这个重要的市场上发挥作用。”他称，企业只有适应了市场的高速发展，变得更加灵活，才有长远的发展前景。</a><br/>
-<a href='2876471'>【纽约州法官宣布将于明年10月开审特朗普涉财务欺诈案】当地时间22日，美国纽约州最高法院法官恩戈隆（Arthur Engoron）在一场听证会上宣布，将于2023年10月开始审理指控前总统特朗普、他的三个成年子女以及特朗普集团涉嫌财务欺诈的民事诉讼案。这项民事诉讼由纽约州总检察长詹乐霞（Letitia James）提起。根据诉讼，特朗普在其成年子女以及特朗普集团高管的帮助下，在2011年至2021年间通过虚报净资产和虚假夸大净资产价值，诱使银行向该集团提供条件更有利的贷款，诱使保险公司提供更高保额却收取更低保费，以及获取税收优惠等，获得了数亿美元不当收益。（中新社）</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5642149.d.html'>【印度尼西亚就世贸组织对镍出口的裁决提出上诉】世贸组织称印度尼西亚对镍出口的禁令违反了规则，印尼就此裁决提出上诉。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5641894.d.html'>【高盛将因ESG误导性声明支付400万美元罚款】高盛已同意就美国监管机构指控该行资产管理部门在环境、社会和治理（ESG）投资方面误导客户支付400万美元罚款。与美国证交会（SEC）达成的和解突显出，在涉及关系到社会的投资产品时，金融集团做出的可能没有依据的陈述正受到广泛打压。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5640962.d.html'>【曼联宣布将启动探索战略选项的程序 股价大涨15%】曼联表示，将启动一项探索该英超足球俱乐部战略选项的程序。曼联股价在盘后交易上涨5%，周二收盘大涨15%。董事会将考虑所有选项，包括新投资、出售或其他交易。Raine Group担任曼联的财务顾问，Latham ＆ Watkins LLP担任法律顾问。Rothschild and Co.是曼联股东Glazer家族的财务顾问。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5640783.d.html'>【辽宁昨日新增本土阳性感染者137例】据辽宁卫健委，11月22日0-24时，辽宁省新增本土阳性感染者137例（84例为隔离医学观察场所检出人员）。其中新增本土确诊病例22例（沈阳市17例，阜新市1例，铁岭市3例，盘锦市1例）。新增本土无症状感染者115例（沈阳市23例，大连市16例，鞍山市1例，抚顺市3例，本溪市2例，丹东市4例，锦州市16例，阜新市7例，辽阳市4例，铁岭市15例，朝阳市10例，盘锦市6例，葫芦岛市8例）。</a><br/>
-<a href='2876457'>安徽省卫健委：2022年11月22日0-24时，安徽省报告新增确诊病例2例（合肥市肥西县1例，铜陵市郊区1例），新增无症状感染者85例（合肥市肥东县1例、肥西县7例、长丰县3例、庐江县1例、巢湖市4例、蜀山区1例、包河区2例，淮北市濉溪县3例，亳州市谯城区2例，宿州市埇桥区5例，蚌埠市蚌山区1例、淮上区1例，阜阳市界首市2例、临泉县1例、颍州区6例、颍泉区3例，淮南市寿县3例，六安市金安区3例，马鞍山市含山县1例，芜湖市湾沚区3例、镜湖区2例、弋江区9例、鸠江区9例，宣城市郎溪县2例、宁国市1例，铜陵市枞阳县2例，安庆市怀宁县2例、岳西县3例、望江县1例、迎江区1例）。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqqsmrp7208553.d.html'>【黑龙江昨日新增本土确诊病例63例、本土无症状感染者250例】据黑龙江卫健委，11月22日0-24时，黑龙江省新增本土确诊病例63例（含无症状感染者转确诊病例1例）。哈尔滨市59例（南岗区24例、香坊区23例、道外区5例、道里区3例、松北区3例、五常市1例），其中：25例集中隔离发现、20例社区筛查发现、8例居家隔离医学观察发现、4例非闭环管理重点人员筛查发现、1例闭环管理重点人员筛查发现、1例密切接触者筛查发现；绥化市2例（北林区1例、安达市1例），其中：1例无症状感染者转归、1例集中隔离发现；鸡西市2例（虎林市2例），均为集中隔离发现。新增本土无症状感染者250例。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5640014.d.html'>新加坡预计2023年GDP增长0.5％-2.5％。</a><br/>
-<a href='2876454'>【经济日报：房地产代建模式将成新趋势】处于深度调整周期中的房地产行业，在强有力政策支持下有望实现回暖复苏。同时，一些顺应行业新形势的模式，如房地产行业的代建模式正逐步发展壮大。从国际经验看，专业细化与分工是房地产行业发展的大势所趋，而轻资产代建模式顺应房地产开发细分化趋势。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-11-23/detail-imqmmthc5639851.d.html'>【河北昨日新增确诊病例45例、无症状感染者912例】据河北卫健委，11月22日0—24时，河北省新增新型冠状病毒肺炎确诊病例45例（石家庄市，含1例无症状感染者转为确诊病例）；新增无症状感染者912例，其中石家庄市763例、廊坊市29例、秦皇岛市23例、邯郸市17例、张家口市16例、雄安新区15例、沧州市9例、邢台市9例、承德市8例、保定市8例、衡水市8例、唐山市7例。无症状感染者解除医学观察121例。</a><br/>
-<a href='2876449'>新加坡第三季度GDP环比增长1.1%，预估为1.5%。新加坡第三季度GDP同比增长4.1%，预估4.3%。</a><br/>
-<a href='https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454'>Using Rust at a startup: A cautionary tale</a><br/>
-<a href='https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/'>Department of Defense Releases Zero Trust Strategy and Roadmap</a><br/>
-<a href='http://cliffle.com/blog/not-thread-safe/'>Safely writing code that isn't thread-safe: An under-appreciated Rust feature</a><br/>
-<a href='https://sspai.com/post/76942'>派早报：vivo X90 系列正式发布、荣耀推出 MagicOS 7.0 等</a><br/>
-<a href='https://www.v2ex.com/t/897265#reply0'>[问与答] 有没有什么比较厉害的模拟器，不被检测到的</a><br/>
-<a href='https://www.v2ex.com/t/897264#reply0'>[音乐] Spotify connect 公司内网代理登录的电脑，不能和手机同步</a><br/>
-<a href='https://www.v2ex.com/t/897263#reply1'>[酷工作] 关于职业方向的请教？</a><br/>
-<a href='https://www.v2ex.com/t/897261#reply0'>[Chrome] 新创建的标签页自动打开开发工具是什么原因</a><br/>
-<a href='https://www.v2ex.com/t/897259#reply0'>[优惠信息] 1password 家庭组老车补位，到 23 年 11.28，人均 6 刀两车位</a><br/>
-<a href='https://www.v2ex.com/t/897258#reply3'>[问与答] 博客搭建</a><br/>
-<a href='https://www.v2ex.com/t/897257#reply0'>[酷工作] [新加坡]知名自动驾驶智能公司，现招聘资深开发工程师 C++（有嵌入式经验）， base 新加坡，国际化团队，要求中英文良好，国际化办公环境。</a><br/>
-<a href='https://www.v2ex.com/t/897255#reply7'>[程序员] 大容量硬盘应该使用什么文件系统比较好？</a><br/>
-<a href='https://www.v2ex.com/t/897254#reply2'>[问与答] 单电源服务器如何实现冗余？</a><br/>
-<a href='https://www.v2ex.com/t/897253#reply5'>[Apple] 抖音让我觉得我的平板该换了</a><br/>
-<a href='https://www.v2ex.com/t/897252#reply4'>[程序员] 请教各位大佬，如果想更改一个程序发出请求的返回值，该如何操作？</a><br/>
-<a href='https://www.v2ex.com/t/897251#reply3'>[程序员] 谷歌是怎么爬 React 网站的？</a><br/>
-<a href='https://www.v2ex.com/t/897249#reply0'>[分享发现] 最近套 cf 是不是也不稳啊</a><br/>
-<a href='https://www.v2ex.com/t/897248#reply5'>[程序员] M1 电脑无法安装 centos7，大家知道是什么原因吗？</a><br/>
-<a href='https://www.v2ex.com/t/897247#reply6'>[分享发现] zlibrary .onion 正式下线了</a><br/>
-<a href='https://www.v2ex.com/t/897246#reply0'>[程序员] 蜂窝数据的 ipv6 端口还能公网正常使用的吗？</a><br/>
-<a href='https://www.v2ex.com/t/897245#reply24'>[问与答] 和同事吃饭，获得了不同的“人生观”，请大家指教</a><br/>
-<a href='https://www.v2ex.com/t/897244#reply4'>[Apple] 最后的 macbook 无刘海是哪一款?</a><br/>
-<a href='https://www.v2ex.com/t/897240#reply2'>[HTML] 在 Chrome 中浏览某网页，怎么删除或屏蔽 translate="no"，正常使用网页翻译？</a><br/>
-<a href='https://www.v2ex.com/t/897239#reply15'>[优惠信息] Walmrt 有锁苹果小钢炮 SE2 黑五优惠</a><br/>
-<a href='https://www.v2ex.com/t/897238#reply10'>[Apple] 如何用 Mac 共享 iPad 的屏幕</a><br/>
-<a href='https://www.v2ex.com/t/897236#reply13'>[程序员] 快要被小米 iqunix 联名的这个 F60L 这个键盘逼疯了</a><br/>
-<a href='https://www.v2ex.com/t/897235#reply1'>[分享创造] 浮力清单， GTD 工具自荐，欢迎大家再次品鉴！</a><br/>
-<a href='https://www.v2ex.com/t/897234#reply9'>[Vim] git 用 vi，而我的 vimrc 是 vim 的</a><br/>
-<a href='https://www.v2ex.com/t/897233#reply10'>[问与答] 2022 年底，想买一台支持桌面模式（接显示器使用键鼠控制）的便携设备（包括但不限于手机），请问有推荐吗？</a><br/>
-<a href='https://www.v2ex.com/t/897231#reply8'>[Mastodon] 分享一个我新建的实例「跑路微博」——Weibo.RUN</a><br/>
-<a href='https://www.v2ex.com/t/897229#reply10'>[宽带症候群] 移动任意资费宽带 10 元提速 1000M</a><br/>
-<a href='https://www.v2ex.com/t/897228#reply61'>[问与答] 聊聊大家的业余收入</a><br/>
-<a href='http://www.newsmth.net/nForum/article/Entrepreneur/685340'>直供羟丙纤维素、聚维酮、交联聚维酮、共聚维酮、乙基纤维素等</a><br/>
-<a href='https://weibo.com/1497035431/Mgkjbhoqv'>就我这一段时间观察苹果手机销量情况，不大行。iphone14的产品力不行，也没有什么可靠数据公布，虽然有网友说下单的交付时间比下单时承诺的推迟了，好像是火爆的...</a><br/>
-<a href='https://weibo.com/1497035431/MgkhgzwvR'>什么31省平均工资，我觉得很有误导性，群众不可轻信，非私营经济哪有那么高收入，北京的国企，央企平均收入19万，那大学生还不打破头进国企，央企啊。。至少我研...</a><br/>
-<a href='https://weibo.com/1497035431/Mgk8ackxA'>私营单位这么拉垮？我不信 - 转发 @第一财经日报:&ensp;【#31省平均工资发布#：京沪非私营单位超19万元】国家统计局编著出版的《中国统计年鉴2022》公布了2021年...</a><br/>
-<a href='https://weibo.com/1497035431/MgjZH1vd8'>百度收购91助手这个案例特别值得思考。失去了19亿美金是小，更大的是失去了战略上宝贵的时间。当年收购hao123吃到了甜头，百度对这种无脑型入口特别迷恋，但是后...</a><br/>
-<a href='https://weibo.com/1497035431/MgjxJ93fP'>离婚了，还每年给对方4000万台币（差不多1000万人民币）生活费，那可想而知，没离婚这个家庭一年花销有多大？离婚都能支付这么多生活费，这个感情有多深？现在突...</a><br/>
-<a href='https://weibo.com/1497035431/MgjucqPSl'>这属于 “爱而不得，得而不爱”，彼此长期消耗，这是最大的痛苦之一了。。 - 转发 @灵魂机器:&ensp;汪小菲的这种苦，在富人的各种苦类型里，属于啥类别？有破解...</a><br/>
-<a href='https://mp.weixin.qq.com/s/Xj7u5ChRDqbrGlDfCF0z6A'>特斯拉股价可能跌到100美元</a><br/>
-<a href='https://mp.weixin.qq.com/s/6EqaZbfYEGfsrPYOaNX8ow'>嘉信理财首席策略师：美股最糟糕的时期还没过去</a><br/>
-<a href='https://mp.weixin.qq.com/s/PIOu1rUctp8S3VvQuxhk0g'>如何投资全球第四大股市：印度 | 巴伦投资圆桌</a><br/>
-<a href='https://mp.weixin.qq.com/s/StIx9FfqbtDRdxlh_J0nDQ'>刘强东投入数百亿给员工买房，特斯拉否认将推出新降价手段，威马上海全员工资打5到7折，抖音上线应用商店，这就是今天的其它大新闻！</a><br/>
-<a href='https://mp.weixin.qq.com/s/fZEnMWnsOoeH1GkiwRdOjQ'>聊一聊：你希望哪些社区重新上线？</a><br/>
-<a href='https://mp.weixin.qq.com/s/BCtcVkVzb7reeVi1lJWFog'>今日最佳：海底捞4个人多少钱？</a><br/>
-<a href='https://mp.weixin.qq.com/s/UDvKbpRNQ7VH8CDENtBlEQ'>全网都在问世界杯直播去哪看？这么挑就不会错。</a><br/>
-<a href='https://mp.weixin.qq.com/s/crFmg4o67ccmwVxwHabZqA'>由于市面上的免费字体太少，这个百万UP主决定自己做一个。。。</a><br/>
-<a href='https://mp.weixin.qq.com/s/zcV7G5QRH6w2Ett_T8119A'>设计师用个颜色还要付钱，潘通这是想钱想疯了?</a><br/>
+<a href='https://36kr.com/p/2014948242899462?f=rss'>36氪项目报道 | 「慧拓」携“中国方案”助力“一带一路”，国内矿区自动驾驶首个海外订单落地泰国</a><br/>
+<a href='https://36kr.com/p/2014896316596992?f=rss'>最前线 | “云计算春晚”re:Invent下周开幕，亚马逊云科技CEO剧透今年创新方向</a><br/>
+<a href='https://36kr.com/p/2011184509576577?f=rss'>早期项目 | 对标40亿美金Webflow，「Towify」想用无代码方式搭建小程序</a><br/>
+<a href='https://36kr.com/p/2009671153280644?f=rss'>36氪首发 | 老虎ESOP业务正式分拆为品牌“一心向上”，获小米、创新工场等天使轮融资</a><br/>
+<a href='https://36kr.com/p/2013885563601673?f=rss'>36氪首发 ｜ 「云创智行」获BV百度资本独家Pre-A+轮融资，从半封闭场景向市政道路场景拓展</a><br/>
+<a href='https://36kr.com/p/2012376368653957?f=rss'>焦点分析 | 世界杯的保质期只有28天？抖音：我不信</a><br/>
+<a href='https://36kr.com/p/2014036375306760?f=rss'>比亚迪年内第三次涨价，涨幅2000-6000元；上海：全力打造未来能源产业集群 | 36氪新能源日报1123</a><br/>
+<a href='https://36kr.com/p/2012581569160577?f=rss'>36氪首发｜深耕智能汽车软件研发底层，「怿星科技」获数千万元A1轮融资</a><br/>
+<a href='https://36kr.com/p/2014856165917441?f=rss'>8点1氪丨比亚迪涨价2000到6000元不等；iPhone 15或告别纯直边；星巴克回应0.01元抢券不兑换</a><br/>
+<a href='https://36kr.com/newsflashes/2014978976875015?f=rss'>芯片股异动反弹，光刻胶方向领涨</a><br/>
+<a href='https://36kr.com/newsflashes/2014975639667463?f=rss'>邮储银行与碧桂园签约战略合作，提供不超500亿元授信额度</a><br/>
+<a href='https://36kr.com/newsflashes/2014966379102976?f=rss'>上海迪士尼乐园将于11月25日起重新开放</a><br/>
+<a href='https://36kr.com/newsflashes/2014956076892681?f=rss'>应对物价上涨，韩国央行宣布再度加息</a><br/>
+<a href='https://36kr.com/newsflashes/2014938805732104?f=rss'>中药板块异动拉升</a><br/>
+<a href='https://36kr.com/newsflashes/2014934577251081?f=rss'>大基建板块开盘拉升</a><br/>
+<a href='https://36kr.com/newsflashes/2014932415873538?f=rss'>国企改革概念股继续活跃，中成股份、中国海诚3连板</a><br/>
+<a href='https://36kr.com/newsflashes/2014930060444168?f=rss'>新冠药概念股开盘反弹，前沿生物涨超9%</a><br/>
+<a href='https://36kr.com/newsflashes/2014925615333891?f=rss'>A股三大指数集体高开，房地产板块领涨</a><br/>
+<a href='https://36kr.com/newsflashes/2014921741156870?f=rss'>央行公开市场开展80亿元7天期逆回购操作</a><br/>
+<a href='https://36kr.com/newsflashes/2014918764118536?f=rss'>香港恒生指数开盘涨0.92%，地产股走高</a><br/>
+<a href='https://36kr.com/newsflashes/2014915053077254?f=rss'>11月24日人民币对美元中间价调升80个基点</a><br/>
+<a href='https://36kr.com/newsflashes/2014909326787074?f=rss'>“怿星科技”获数千万元A1轮融资</a><br/>
+<a href='https://36kr.com/newsflashes/2014907195458312?f=rss'>国家卫健委：11月23日新增本土确诊病例3927例，新增本土无症状感染者27517例</a><br/>
+<a href='https://36kr.com/newsflashes/2014905823805960?f=rss'>中信建投：黄金将迎来新一轮上涨</a><br/>
+<a href='https://36kr.com/newsflashes/2014905249464840?f=rss'>四川健康码崩了，官方紧急提示：流量过大，正逐步恢复</a><br/>
+<a href='https://36kr.com/newsflashes/2014903104226057?f=rss'>无人环卫公司“云创智行”获BV百度资本独家Pre-A+轮融资</a><br/>
+<a href='https://36kr.com/newsflashes/2014898901385736?f=rss'>中信证券：处于估值底部的建筑央企配置价值已经凸显</a><br/>
+<a href='https://36kr.com/newsflashes/2014898439979521?f=rss'>水电机组核心控制系统首次实现全国产化</a><br/>
+<a href='http://www.huxiu.com/article/723170.html?f=wangzhan'>赚钱的爱奇艺，还没逃出“爆款周期”</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5782249.d.html'>【河南昨日新增本土确诊病例159例 本土无症状感染者536例】23日0—24时，河南新增本土确诊病例159例（郑州市153例，其中75例为隔离管控发现、47例为社区筛查发现、23例为主动就诊发现、8例为无症状感染者转确诊；济源示范区4例，其中3例为隔离管控发现、1例为重点人群筛查发现；信阳市1例，为隔离管控发现；漯河市1例，为重点人群筛查发现）。新增本土无症状感染者536例。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7347060.d.html'>【开拓药业：GT20029完成I期临床试验】开拓药业在港交所公告，其自主研发的新型靶向雄激素受体（「AR」）的蛋白降解嵌合体（「PROTAC」）化合物GT20029治疗雄激素性脱发和痤疮的中国I期临床试验主要结果，显示其在健康受试者中具有良好的安全性、耐受性和药代动力学特征。GT20029基于公司自有PROTAC平台开发，为全球首个完成I期临床试验的外用PROTAC化合物。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7346085.d.html'>【重大突破！水电机组核心控制系统首次实现全国产化】据央视新闻，今天（24日），由我国企业自主研发的新一代继电保护系统在澜沧江中下游的小湾水电站正式投运。这意味着被称为水电站“大脑”的核心控制系统全面实现国产化，这也是我国水电控制系统一项重大技术突破。</a><br/>
+<a href='2877453'>【上海立法推进无驾驶人智能网联汽车创新应用】据每日经济新闻，23日闭幕的上海市十五届人大常委会第四十六次会议表决通过了《上海市浦东新区促进无驾驶人智能网联汽车创新应用规定》，这是上海市人大常委会根据全国人大常委会授权制定的第14部浦东新区法规。本次会议表决通过的这部智能网联汽车浦东新区法规，对发挥浦东新区先行先试作用，增强智能网联汽车技术创新能力和产业竞争力，打造智能网联汽车发展的制高点，具有重要意义。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7345820.d.html'>今日期货研报精选。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5778823.d.html'>【开拓药业宣布完成全球首个外用PROTAC(GT20029)I期临床试验】开拓药业微信公众号发文称，自主研发的新型靶向雄激素受体（AR）的蛋白降解嵌合体（PROTAC）化合物GT20029治疗雄激素性脱发（AGA）和痤疮的中国I期临床试验积极结果，显示其在健康受试者中具有良好的安全性、耐受性和药代动力学特征。GT20029是全球首个完成I期临床试验的外用PROTAC化合物。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7345052.d.html'>【伊朗外长：伊美对伊核谈判存在三个分歧】当地时间23日，伊朗外长阿卜杜拉希扬说，伊朗与美国在伊朗核问题全面协议恢复履约谈判中主要在三个问题上存在分歧。第一个分歧在于解决伊朗与国际原子能机构之间的遗留问题；第二个分歧在于伊朗要求获得经济保障，使外国公司有信心到伊朗投资；第三个分歧在于要求西方国家不能将制裁扩大到第三方。阿卜杜拉希扬说，欧洲方面正在就这些分歧在伊朗和美国之间进行斡旋。伊朗与美国仍在通过中间方交换信息，但美国间接传递的信息中立场反复，加深了伊朗对美国的不信任。（央视）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5778566.d.html'>【网传“北京站建站63来第一次闭站”是谣言】23日晚，网传“北京站建站63来第一次闭站，将载入站史”，记者从北京站了解到，此消息是谣言。今天凌晨，北京站官方微博发布，由于北京站夜间无旅客列车始发终到，车站结合客流实际从当晚23:00至次日6:00采取临时闭站措施，早6:00后车站将有序组织旅客正常乘降。 (北京新闻广播)</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5778243.d.html'>【新疆昨日新增确诊病例18例、无症状感染者943例】23日0时至24时，新疆维吾尔自治区新增确诊病例18例，新增无症状感染者943例，新增确诊病例治愈出院15例，新增无症状感染者解除隔离医学观察812例。</a><br/>
+<a href='2877443'>日本11月制造业PMI初值 49.4，前值50.7。日本11月Markit服务业PMI 50，前值53.2。日本11月Markit综合PMI 48.9，前值51.8。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7343744.d.html'>【金海高科：公司抗病毒材料具备量产能力，目前已量产客户包括三菱电机、日立、富士通等】金海高科11月23日在互动平台表示，公司生产的抗病毒材料为自主研发，具备量产能力，且已远销国内外，目前已经量产客户包括三菱电机、日立、富士通等。</a><br/>
+<a href='2877440'>【金与正发表谈话谴责美韩】据朝中社当地时间24日报道，朝鲜劳动党中央委员会副部长金与正当天发表谈话。谈话称，22日韩国外交部表示考虑追加对朝单边制裁，这是追随美国的仆从行为。朝鲜不惧美韩的制裁，这是完全无用的行为。金与正警告称，美韩越是打压制裁，朝鲜的反制就会越强烈。（央视）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7343117.d.html'>【同兴环保：公司正在开展钠离子电池正极材料及电池产品中试放大实验】同兴环保11月23日在互动平台表示，公司和中国科大组建的联合实验室正在开展钠离子电池正极材料及电池产品的中试放大实验。钠离子电池的主要应用场景包括储能、低速电动车等。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5776907.d.html'>【凯伦股份：成为青岛国信发展(集团)有限责任公司入库供应商】据凯伦股份消息，近日，凯伦股份成为青岛国信发展(集团)有限责任公司G080116防水材料-1（房建）类别的入库供应商。此次入库国信集团供应商名录，为凯伦股份深耕青岛城市综合建设打下坚实基础。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7342926.d.html'>【泽连斯基：俄军袭击造成乌克兰11个行政区供电完全中断】 当地时间24日，乌克兰总统泽连斯基凌晨在社交媒体发布消息称，俄罗斯23日向乌克兰发射了67枚导弹，破坏了乌基础设施，导致乌克兰全国缺电，一度有11个行政区全区断电。泽连斯基表示，经过抢修，到23日午夜，基辅州的民用供电已经恢复了20%，敖德萨州的供水和供热已全面恢复，但只有10%的家庭接通了民用电。基辅市的情况非常困难，维修人员正在连夜抢修。（央视新闻）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7342715.d.html'>【早间公告：禾盛新材控股股东所持股份将全部被司法拍卖】①禾盛新材：公司控股股东深圳市中科创资产管理有限公司持有的公司7766.79万股股份，占公司总股本的31.3%，将全部进行公开拍卖。若拍卖成功，将导致公司控股股东及实控人发生变更。②大北农：控股子公司转基因抗虫大豆产品获得阿根廷种植许可。获得的该种植许可，未来在南美区域具有较大的市场转化应用价值和市场开发潜力，短期内对公司经营不会立即产生重大影响。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5776111.d.html'>【辽宁昨日新增本土阳性感染者302例】据辽宁卫健委，11月23日0-24时，辽宁省新增本土阳性感染者302例（184例为隔离医学观察场所检出人员）。 其中新增本土确诊病例39例（沈阳市28例，抚顺市1例，辽阳市1例，铁岭市9例）。新增本土无症状感染者263例（沈阳市70例，大连市70例，鞍山市8例，抚顺市1例，丹东市9例，锦州市32例，阜新市16例，辽阳市8例，铁岭市27例，朝阳市5例，盘锦市9例，葫芦岛市8例）。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5775190.d.html'>【移动电源车计划于2025年前登陆月球】据科技日报，美国太空网近日报道，加拿大一家初创公司计划于2025年前，将一辆可以为探索月球南极阴影坑的机器人供电的“移动电源车1号”送上月球。目前，科学家们对南极附近被永久遮蔽的陨石坑特别感兴趣，因为它们的内部未被破坏，可能潜伏着能揭示太阳系过往的证据。但太阳光线永远无法到达这些陨石坑内部，任何探测它们的漫游车都必须依靠其车载电池供电，而这些电池能量有限。为提供稳定的电力来源，斯特尔斯航天公司计划2025年前让一辆移动电源车在月球表面着陆，该车可以向陨石坑发射能量，给机器人探测器充电。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5775163.d.html'>【微小磁涡流或成下一代内存材料】磁铁可在计算机中存储数据，利用磁场的方向，每个微型条形磁铁都可将一位内存存储为零或一。美国能源部阿贡国家实验室研究人员希望用微小的磁涡流取代条形磁铁。这些被称为斯格明子的涡流小到十亿分之一米，形成于某些磁性材料中。未来，它们可能会在新一代微电子技术中用于高性能计算机的内存。这项研究近日发表在《纳米快报》上。（科技日报）</a><br/>
+<a href='2877431'>【新型超导双量子比特处理器问世】俄罗斯国家研究型技术大学和莫斯科国立鲍曼技术大学成功使用新型超导fluxonium量子比特实现了双量子比特操作。其设计并制造的处理器，单量子比特操控精度达99.97%，双量子比特操控精度最高达99.22%。近日发表在《npj量子信息》上的该成果将量子计算机的创建离现实更进一步。（科技日报）</a><br/>
+<a href='https://stability.ai/blog/stable-diffusion-v2-release'>Stable Diffusion 2.0 Release</a><br/>
+<a href='https://asteriskmag.com/issues/1/rebuilding-after-the-replication-crisis'>Rebuilding after the replication crisis</a><br/>
+<a href='https://sspai.com/post/76958'>派早报：荣耀发布多款新品、Steam 秋季特惠已开启等</a><br/>
+<a href='https://www.v2ex.com/t/897519#reply0'>[DotA] 昨夜复古 emo——哥，咱家有钱了</a><br/>
+<a href='https://www.v2ex.com/t/897518#reply1'>[macOS] idea 2022.2.4 正式版发布</a><br/>
+<a href='https://www.v2ex.com/t/897517#reply4'>[NAS] 更换蜗牛星际的主板并重装 Ubuntu20.04 ， zfs 硬盘需要重新 rebuild 吗？</a><br/>
+<a href='https://www.v2ex.com/t/897515#reply0'>[酷工作] 字节跳动-基础架构团队-服务端研发工程师</a><br/>
+<a href='https://www.v2ex.com/t/897514#reply1'>[问与答] 请问： Typora 和 Total Commander 不注册也不影响使用？</a><br/>
+<a href='https://www.v2ex.com/t/897513#reply0'>[问与答] 关于 Paypal 的账户问题</a><br/>
+<a href='https://www.v2ex.com/t/897512#reply6'>[Apple] 『咨询』大家 apple.com.cn 能正常打开吗</a><br/>
+<a href='https://www.v2ex.com/t/897511#reply0'>[HTML] 招兼职, 来一个能帮忙改写 html</a><br/>
+<a href='https://www.v2ex.com/t/897510#reply1'>[微信] 微信小程序接口 302 错误</a><br/>
+<a href='https://www.v2ex.com/t/897508#reply11'>[Apple TV] Apple TV 128GB 初体验</a><br/>
+<a href='https://www.v2ex.com/t/897506#reply17'>[Apple] faceid 解锁手机后一定要划一下吗</a><br/>
+<a href='https://www.v2ex.com/t/897505#reply0'>[Surge] Surge Mac 5 人车，人齐发车🚗</a><br/>
+<a href='https://www.v2ex.com/t/897503#reply0'>[分享创造] Noise Route: 将手机和其他设备变成电脑的喇叭</a><br/>
+<a href='https://www.v2ex.com/t/897501#reply3'>[Java] Java 爬虫类库推荐？</a><br/>
+<a href='https://www.v2ex.com/t/897500#reply8'>[问与答] 小米加湿器的电源线，被狗子咬断了。这个能单独配吗？</a><br/>
+<a href='https://www.v2ex.com/t/897499#reply2'>[分享创造] 写了一个 IP 查询/IPV6 检测的小程序</a><br/>
+<a href='https://www.v2ex.com/t/897498#reply0'>[分享发现] [心盲症] 各位看看自己有没有，确诊的进来交流下病情 🐶</a><br/>
+<a href='https://www.v2ex.com/t/897497#reply5'>[问与答] 大家黑五都买啥了?</a><br/>
+<a href='https://www.v2ex.com/t/897496#reply5'>[Apple] Apple 官网 上不去了？</a><br/>
+<a href='https://www.v2ex.com/t/897495#reply2'>[问与答] esxi 安装配置求助</a><br/>
+<a href='https://www.v2ex.com/t/897494#reply10'>[Windows] Windows 的 Microsoft 账号现在这么拉胯了？</a><br/>
+<a href='https://www.v2ex.com/t/897493#reply11'>[VPS] 出一个 CC VPS</a><br/>
+<a href='https://www.v2ex.com/t/897491#reply1'>[问与答] 请教：联想威 6 PRO-14IWL 能支持单条 32G 内存吗？</a><br/>
+<a href='https://www.v2ex.com/t/897490#reply6'>[奇思妙想] 有没有快捷搜索框类的浏览器扩展</a><br/>
+<a href='https://www.v2ex.com/t/897489#reply2'>[问与答] Cloudflare 一些百思不得其解的问题</a><br/>
+<a href='https://www.v2ex.com/t/897487#reply13'>[分享创造] 再次认真的探讨 IT 行业的其它盈利方式，以及我做出的一次尝试</a><br/>
+<a href='http://www.newsmth.net/nForum/article/Entrepreneur/685366'>工业区全封了，只让物业的人进</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2071862'>北京地区出未安装的广汽埃安充电桩（含安装权益）</a><br/>
+<a href='https://weibo.com/1088413295/MgtbsdNa2'>每天学点Linux上能用到的命令，今天是lha，你用过吗 网页链接 [图片]</a><br/>
+<a href='https://mp.weixin.qq.com/s/vad_LbTYuyPc21j_Pw2Daw'>5家有潜力长成“十倍股”的科技公司</a><br/>
+<a href='https://mp.weixin.qq.com/s/MlHUlSBpwkKCKuZ9a42hGw'>借日元买日股，巴菲特神操作两年回报65%</a><br/>
+<a href='https://mp.weixin.qq.com/s/9wh2tXlpWMxgBl26R_HLbA'>肖志刚：未来出现整体牛市的概率很小了｜巴伦访谈</a><br/>
+<a href='https://mp.weixin.qq.com/s/7hv-bEdK9Ej9g3vM5gf4Yg'>暴雪战网国服今日停止注册，比亚迪部分车型将涨价，高通公布骁龙782G参数，iCloud被曝重大Bug，这就是今天的其它大新闻！</a><br/>
+<a href='https://mp.weixin.qq.com/s/10xI-h0FHj7v0x7LUw8FfA'>聊一聊：你的第一个机械键盘是什么？</a><br/>
+<a href='https://mp.weixin.qq.com/s/C8jn5W4xSLVsOG2B9hb2HA'>今日最佳：谁的学校有大脑蚕？</a><br/>
+<a href='https://mp.weixin.qq.com/s/wSwOYw5z7Bd00IckK1KCqg'>为什么都2022年了，还有人在折腾谷歌相机？</a><br/>
+<a href='https://mp.weixin.qq.com/s/FNGw0mf2b9DOy0oFFGodnQ'>居然有10万名外国网友，每天在研究用Mac玩游戏。。。</a><br/>
+<a href='https://mp.weixin.qq.com/s/MgqbBXEdz8Vhb51Rz2C3gA'>到了2022年，国产显卡总算可以打游戏了？</a><br/>
+<a href='https://mp.weixin.qq.com/s/ZHHxKcnjwEek6_X5sgqtbw'>微软进一步限制 IE11，明年起将被禁止访问 OneDrive 等网站</a><br/>
+<a href='https://mp.weixin.qq.com/s/jk8pHQh4x73O8OjRUwJnIw'>iPhone 14 系列价格大跳水，狂降1600 元！</a><br/>
 
 
 <邮件内容区结束
