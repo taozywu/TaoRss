@@ -1,90 +1,89 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 82  Date: 2022-12-13 10:19:24 <br/>
+Rss num: 81  Date: 2022-12-14 10:17:34 <br/>
 
-<a href='https://36kr.com/p/2040992920530185?f=rss'>不差钱的卫龙也焦虑了：亏损2.6亿元，估值打三折丨氪金 · 大消费</a><br/>
-<a href='https://36kr.com/p/2041807083080712?f=rss'>PropTech周刊｜邻里代收包裹平台融资百万美元、新加坡虚拟偶像Rae源自凯德集团、全国首笔数字人民币公积金贷款发放</a><br/>
-<a href='https://36kr.com/p/2041800998145027?f=rss'>巨头下注生物医药园区的投资逻辑</a><br/>
-<a href='https://36kr.com/p/2040921086356480?f=rss'>蔚来秦力洪：要在中档主流电动车市场插入一个品牌；上期所将加快氢氧化锂、钴期货的研发工作 | 36氪新能源日报1212</a><br/>
-<a href='https://36kr.com/p/2041734157503746?f=rss'>8点1氪丨顺丰、腾讯会议回应系统崩了； 叮当快药回应网传有药不卖；北京确保研究生招生考试如期举行</a><br/>
-<a href='https://36kr.com/p/2033815119097096?f=rss'>高瓴投了一家智能硬件公司，「流数DiFluid」正将咖啡好口感“数字化”</a><br/>
-<a href='https://36kr.com/newsflashes/2041843866373129?f=rss'>高盛将再次裁掉数百名员工，超过常规裁员规模</a><br/>
-<a href='https://36kr.com/newsflashes/2041842458938632?f=rss'>中银证券：关注建筑央企，细分赛道成长性更优</a><br/>
-<a href='https://36kr.com/newsflashes/2041844586089730?f=rss'>抗原检测、新冠检测概念全线下挫</a><br/>
-<a href='https://36kr.com/newsflashes/2041839287503874?f=rss'>SpaceX估值升至约1400亿美元</a><br/>
-<a href='https://36kr.com/newsflashes/2041837907840264?f=rss'>亚马逊推迟应届生入职日期，努力控制员工人数</a><br/>
-<a href='https://36kr.com/newsflashes/2041831643090178?f=rss'>航运板块开盘走强</a><br/>
-<a href='https://36kr.com/newsflashes/2041829593107718?f=rss'>核酸结果显示待复核怎么办？防疫药品怎么保供？上海发布回应</a><br/>
-<a href='https://36kr.com/newsflashes/2041826522795269?f=rss'>抗原检测股开盘走低</a><br/>
-<a href='https://36kr.com/newsflashes/2041822933617667?f=rss'>A股三大指数开盘涨跌不一，新华制药一字涨停</a><br/>
-<a href='https://36kr.com/newsflashes/2041816525753349?f=rss'>恒指开盘跌0.03%，恒生科技指数跌0.6%</a><br/>
-<a href='https://36kr.com/newsflashes/2041812204244226?f=rss'>12月13日人民币对美元中间价调贬181个基点</a><br/>
-<a href='https://36kr.com/newsflashes/2041788723186946?f=rss'>中金：锂电设备企业估值持续下行，或迎中长期逢低吸纳机遇</a><br/>
-<a href='https://36kr.com/newsflashes/2041802451979265?f=rss'>国家卫健委：12月12日新增确诊病例2315例，其中本土病例2270例</a><br/>
-<a href='https://36kr.com/newsflashes/2041787785284865?f=rss'>特斯拉已获得批准在得克萨斯州开始建设“全州范围的市场设计试点”虚拟发电厂</a><br/>
-<a href='https://36kr.com/newsflashes/2041783945333769?f=rss'>两市融资余额增加52.87亿元，融资客交易活跃度下降</a><br/>
-<a href='https://36kr.com/newsflashes/2041782958361858?f=rss'>中金：旅游酒店及餐饮中长期空间可观，恢复路径曲折向好</a><br/>
-<a href='https://36kr.com/newsflashes/2041782239857926?f=rss'>公募基金经理频繁离职，今年以来离职数量已超300人</a><br/>
-<a href='https://36kr.com/newsflashes/2041781254655233?f=rss'>今年已有数十家公司收到证监会罚单</a><br/>
-<a href='https://36kr.com/newsflashes/2041780444630280?f=rss'>华泰证券：医药行业低点已过，关注三大主线</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2283132.d.html'>【正泰电器：正泰安能从事户用光伏业务 累计用户已突破80万户】正泰电器在互动平台表示，公司全资子公司正泰新能源为集开发、建设、运营、服务于一体的清洁能源解决方案提供商，具备集电站设计、采购、施工和调试并网，运营维护于一体的总承包能力，可提供一站式系统解决方案。公司控股子公司正泰安能从事户用光伏业务，累计用户已突破80万户。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2278614.d.html'>【两市融资余额增加52.86亿元】截至12月12日，上交所融资余额报7794.78亿元，较前一交易日增加33.39亿元；深交所融资余额报6973.76亿元，较前一交易日增加19.47亿元；两市合计14768.54亿元，较前一交易日增加52.86亿元。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2277748.d.html'>【天津港集团：港航桩业公司装配式工艺取得突破性应用成果】据天津港集团消息，日前，港航工程公司及旗下港航桩业公司在承建的太平洋国际公司堆场场地改造二期工程中，通过创新装配式工艺，完成12个箱区、2722块箱角块的预制及安装任务，取得了突破性的应用成果。港航桩业公司根据项目建设实际，大大减少了现场作业的时间和空间，解决了现浇混凝土质量难以控制等诸多问题，具有很强的推广价值。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupw9053597.d.html'>【全国高速公路货车通行量环比增长13.76%】根据国务院物流保通保畅工作领导小组办公室监测汇总数据显示，12月12日，国家铁路货运继续保持高位运行，运输货物1113.3万吨，环比下降0.87%；全国高速公路货车通行758.59万辆，环比增长13.76%；监测港口完成货物吞吐量3388.7万吨，环比下降4.2%，完成集装箱吞吐量77.9万标箱，环比增长8.4%；民航保障货运航班541班（其中国际货运航班364班，国内货运航班177班），环比下降8.9%；邮政快递揽收量约4.53亿件，环比增长3.0%；投递量约4.03亿件，环比增长3.9%。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2274847.d.html'>【广东昨日新增本土668+1264】广东省卫健委：12月12日0-24时，全省新增本土确诊病例668例（广州291例，深圳78例）；新增本土无症状感染者1264例（广州434例，深圳37例）；另有107例本土无症状感染者转确诊病例。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2273807.d.html'>【马斯克旗下SpaceX估值达1400亿美元】市场消息：马斯克旗下SpaceX以每股77美元的价格出售内部股票，对公司的估值为1400亿美元。</a><br/>
-<a href='2902267'>【31省份11月CPI出炉：25地重回“1时代”】梳理发现，11月，31省份CPI同比均为上涨。从涨幅来看，仅有海南涨幅高于10月，西藏与上月持平，29省份CPI同比涨幅低于上月。此外，值得注意的是，25地重回“1时代”，上月仅有8地。中泰宏观陈兴团队指出，11月CPI同比增速延续大幅回落，降至2%以下，一方面是因为基数仍高，另一方面CPI环比增速转负也拖累了增长，主要仍是食品环比增速超季节性回落。防疫政策优化，元旦、春节临近，机构普遍预计通胀短期无虞。（中新经纬）</a><br/>
-<a href='2902266'>【133年来首位女掌门！《华尔街日报》任命Emma Tucker为下一任总编辑】新闻集团12月12日任命56岁的Emma Tucker为《华尔街日报》下一任总编辑。这位英国媒体人自2020年1月以来一直担任新闻集团旗下兄弟媒体《星期日泰晤士报》的主编，她也曾在英国《金融时报》担任领导职务。Tucker将是有着133年历史的《华尔街日报》的第一位女主编。根据一篇新闻稿，她将于2月1日接替Matt Murray。（界面新闻）</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupw9041819.d.html'>澳大利亚11月NAB商业信心指数 -4，前值0。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupw9040284.d.html'>【欧盟盯上Teams 微软拟让步避免反垄断调查】知情人士披露，美国商用云计算软件开发商Salesforce旗下企业聊天协作工具Slack曾向欧盟委员会投诉软件巨头微软存在的软件套餐捆绑不公平商业行为。目前，微软正在积极回应欧盟的反垄断质疑，避免这一投诉的处理变得更糟糕。微软的目的，是不希望欧盟委员会再一次对微软展开反垄断调查。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2262338.d.html'>港交所文件显示，亿华通将评估投资者对其香港IPO的需求。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2259362.d.html'>【100亿！中国人寿携手江西交投助力建设交通强国】中国人寿消息，为深入贯彻落实交通强国战略，推动长江经济带区域协同发展，支持服务实体经济，中国人寿集团旗下国寿投资公司携手江西省交通投资集团有限责任公司（简称“江西交投”）及江西交通发展基金，共同发起江西交投高速公路投资基金，总规模100.01亿元，已于近日完成签约及基金设立。国寿投资公司所属国寿金石公司担任基金管理人。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupw9032550.d.html'>【中国科大在氧化镓半导体器件领域取得重要进展】据中国科大发布，在世界顶级的半导体和电子器件技术论坛IEEE IEDM上，中国科大国家示范性微电子学院龙世兵教授课题组两篇关于氧化镓器件的研究论文（高功率氧化镓肖特基二极管和氧化镓光电探测器）成功被大会接收，这也是中国科大首次以第一作者单位在IEEE IEDM上发表论文。该研究通过合理设计优化JTE区域的电荷浓度，确保不影响二极管正向特性的同时最大化削弱肖特基边缘电场，从而有效提高器件的耐压能力。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2254193.d.html'>【Grab等三大东南亚互联网独角兽自上市以来市值损失510亿美元】对东南亚三家热门科技公司抱有信心的国际投资者正面临严峻的现实。自上市以来，这三家公司在过去一年半的时间里损失了510亿美元的市值。来自新加坡的东南亚网约车巨头Grab大约一年前前往美国上市。目前，Grab的市值缩水超过70%。GoTo和Bukalapak自上市以来股价跌幅分别为74%和69%。两家公司的股价表现都远差于当地的基准指数。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupw9024735.d.html'>【机构：Q4苹果iPhone出货量将超越三星 市场份额或达24.6%】TrendForce数据显示，Q3全球智能手机市场出货量为2.89亿部，环比下降0.9%，同比11%。预计iPhone市场份额将从Q3的17.6%升至Q4的24.6%，这将有助于苹果Q4超越三星，成为全球智能手机市场份额第一。</a><br/>
-<a href='2902256'>德信中国在港交所公告，拟以每股0.881港元配售2.68亿股股份，拟通过配股筹资2.361亿港元。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupw9019020.d.html'>【巨头再战音乐：TME测试WeBand，网易重上“妙时”，汽水音乐月活破千万】腾讯音乐娱乐集团（TME）正在测试一款全新的音乐社交产品“WeBand”，这是一款2D风格的用户共创虚拟空间的社交App。网易云音乐推出过一款音乐社交产品“MUS”，这是一款匹配音乐同好的社交App，如今，已经更名为“妙时”并重新上线。此外，截止到今年10月，字节今年推出的汽水音乐，其月活已接近1000万，日活用户数近200万，预计11月份月活突破1000万。（Tech星球）</a><br/>
-<a href='2902254'>中国地震台网自动测定：12月13日08时04分在新疆昌吉州奇台县附近（北纬43.58度，东经89.37度）发生4.9级左右地震，最终结果以正式速报为准。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2238265.d.html'>【富力地产：并无就张力保释提供任何保证金，案件不会对本公司有重大不利影响】富力地产公告称，本公司知悉有媒体报导伦敦法院就于美国一宗有关Z＆L Properties Inc.的待决案件向本公司董事张力先生授出保释。本公司澄清：其并无就保释提供任何保证金、其于 Z＆L Properties Inc. (由张力先生及其关联方拥有）并无权益及该案件将不会对本公司的业务及营运有任何重大不利影响。</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupw9014542.d.html'>【微软同意向索尼提供《使命召唤》授权：涵盖订阅服务】为了推动690亿美元收购动视暴雪的交易获批，微软同意授权竞争对手索尼以游戏订阅服务模式出售《使命召唤》游戏。微软之前公开宣称，已经向索尼提议达成10亿美元的交易，以便《使命召唤》可以在后者的PlayStation游戏机上运行。知情人士表示，这项提议还包含在PlayStation Plus服务上出售该游戏的权利——用户只要每月支付一笔费用，即可通过这项服务获取一组游戏。但索尼尚未接受这项提议。</a><br/>
-<a href='2902249'>【深圳首次个人碳普惠减排量交易完成】12月12日，在2022碳达峰碳中和论坛暨深圳国际低碳城论坛上，由深圳市生态环境局、深圳排放权交易所与腾讯联合打造的“低碳星球”小程序宣布完成首次碳普惠核证减排量交易，这也是深圳市民个人碳普惠减排量的首次交易。“低碳星球”将用户积累的减排量挂牌至深圳排放权交易所并完成交易，以地铁乘车券的形式全额返还用户。过去一年，有超100万深圳市民通过“低碳星球”积累碳积分，记录公共出行减排量。（南方日报）</a><br/>
-<a href='https://finance.sina.cn/7x24/2022-12-13/detail-imxwnupv2232292.d.html'>【贵州茅台：茅台酒2023年度一轮次酒开烤 丁雄军到制酒生产一线调研】据贵州茅台消息，12月12日，茅台酒一轮次生产开烤第一天，茅台集团董事长丁雄军到制酒生产一线调研，详细了解制酒生产情况。丁雄军强调，要科学把握“控前期、稳中期、提后期”目标要求，确保全年生产优质稳产。据悉，茅台酒制酒生产一年一个周期，下沙和造沙两次投料是夯实生产基础，一轮次酒则是“收获”的起始。</a><br/>
-<a href='https://github.com/odnoletkov/advent-of-code-jq'>Solving Advent of Code with jq</a><br/>
-<a href='https://news.ycombinator.com/item?id=33963269'>Ask HN: If I get locked out of everything, please try to help me</a><br/>
-<a href='https://fosshost.org/founder.html'>Statement from Fosshost's Founder</a><br/>
-<a href='https://www.datocms-assets.com/65181/1667327773-iconiq-analytics-insights-engineering-in-a-hybrid-world.pdf'>Data behind high-functioning engineering organizations [pdf]</a><br/>
-<a href='https://every.to/cybernaut/on-twitch-you-can-never-log-off'>On Twitch, You Can Never Log Off</a><br/>
-<a href='https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/'>What I learned at Gitlab that I don't want to forget</a><br/>
-<a href='https://sspai.com/post/77248'>派早报：三大运营商同步删除通信行程卡相关数据等</a><br/>
-<a href='https://www.v2ex.com/t/902115#reply0'>[问与答] HDMI2.0、2.1 线缆的判别(未通电状态）</a><br/>
-<a href='https://www.v2ex.com/t/902114#reply0'>[问与答] Sapmming？</a><br/>
-<a href='https://www.v2ex.com/t/902113#reply0'>[问与答] 微信支付，支付宝到账刷脸红包怎么实现的？</a><br/>
-<a href='https://www.v2ex.com/t/902111#reply1'>[问与答] 我发现老罗的遗产：锤子便签 没有非常合适的平替</a><br/>
-<a href='https://www.v2ex.com/t/902109#reply4'>[问与答] 很好奇，那些退休的高官，现在怎么预防被感染？</a><br/>
-<a href='https://www.v2ex.com/t/902108#reply7'>[生活] 喉咙疼，几块钱的风油精是真的缓解啊 🐑后的第四天，亲测好用。</a><br/>
-<a href='https://www.v2ex.com/t/902107#reply0'>[宽带症候群] 位置上海，关于联通商/家宽</a><br/>
-<a href='https://www.v2ex.com/t/902106#reply6'>[开源软件] CentOS 即将停止服务？你找到国产操作系统的最佳替代方案了么？</a><br/>
-<a href='https://www.v2ex.com/t/902105#reply35'>[问与答] 真的要防疫一辈子吗？</a><br/>
-<a href='https://www.v2ex.com/t/902103#reply10'>[问与答] 安卓上有可以后台播放 YouTube 的浏览器吗？除了 firefox</a><br/>
-<a href='https://www.v2ex.com/t/902102#reply2'>[问与答] 内网设备一部分有 公网 ipv6 一部分没有咋办</a><br/>
-<a href='https://www.v2ex.com/t/902101#reply0'>[分享创造] 开源一个 ChatGPT Go SDK，稳定可用，今早还能正常回复内容</a><br/>
-<a href='https://www.v2ex.com/t/902099#reply11'>[程序员] 请问 mac 端有没有好用的 C#和 Java 的反编译软件工具</a><br/>
-<a href='https://www.v2ex.com/t/902098#reply23'>[生活] 一个哭笑不得的问题，如何从无症状变成确诊？</a><br/>
-<a href='https://www.v2ex.com/t/902097#reply11'>[宽带症候群] 无线组网有没有办法跑满 300M 宽带？</a><br/>
-<a href='https://www.v2ex.com/t/902095#reply11'>[问与答] 现在出入境防疫政策有松动吗</a><br/>
-<a href='https://www.v2ex.com/t/902094#reply16'>[生活] 昨天去打了第一针，北京生物</a><br/>
-<a href='https://www.v2ex.com/t/902093#reply7'>[宽带症候群] PT、BT 下载如何利用 P2P 打洞获得上传速度。</a><br/>
-<a href='https://www.v2ex.com/t/902090#reply4'>[问与答] 马粑粑家下载一个已下架商品的选项图怎么这么难！头大如斗</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2072556'>转山姆副卡100元</a><br/>
-<a href='https://weibo.com/1088413295/Mjmrr0Aeo'>每天学点Linux上能用到的命令，今天是clock，你用过吗 网页链接 [图片]</a><br/>
-<a href='https://weibo.com/1088413295/MjmnfwJ1u'>//@来去之间:“命运会区别对待知识水平不同的人”//@李清晨:民间传说中的烧坏了脑子，其实是因为原发病就是某种脑膜炎或脑炎，在因果关系上，是脑子先坏了，才出...</a><br/>
-<a href='https://weibo.com/1088413295/MjmiSzQ80'>用 HTTP Status Code测试今天的运势如何。我今天的运程是504。你也来试试？→ 网页链接 [图片]</a><br/>
-<a href='https://mp.weixin.qq.com/s/lV9TwaY8I8JzqjBoNZSing'>久违的教培公司重回港股｜巴伦IPO观察</a><br/>
-<a href='https://mp.weixin.qq.com/s/J1oH0hquwl93fHWlQNxx0Q'>姚洋+何刚：中国经济的新挑战与必要的常识</a><br/>
-<a href='https://mp.weixin.qq.com/s/YnRTlMKhHIIoPp6F3F7BpA'>看对2022年的宏观大师祖洛夫如何预测2023年 | 巴伦专访</a><br/>
-<a href='https://mp.weixin.qq.com/s/kBIOLK32-_I6IKX89Nftwg'>小新桌面助手测试版上线！教你如何安装使用</a><br/>
-<a href='https://mp.weixin.qq.com/s/E-xW_w9BZOcE2PmNGc4S8A'>你们要了很久的资源它来了，全网最良心绝不吹牛！</a><br/>
+<a href='https://36kr.com/p/2043272449412099?f=rss'>36氪首发｜盎锐科技获数千万元A轮融资，远距离UCL360测量机器人将上线</a><br/>
+<a href='https://36kr.com/p/2033743832050953?f=rss'>36氪独家丨西贝将推快餐子品牌“贾国龙酒酿空气馍”，定位“中式汉堡”，2023年计划开300-500家</a><br/>
+<a href='https://36kr.com/p/2042088320830473?f=rss'>36氪独家丨「劢微机器人」获近2亿元B轮融资，产品持续创新，全球业务布局加速</a><br/>
+<a href='https://36kr.com/p/2042333821619203?f=rss'>特斯拉获批在得州投建“虚拟发电厂”；四部门：深入推进黄河流域工业绿色发展 | 36氪新能源日报1213</a><br/>
+<a href='https://36kr.com/p/2043159785393156?f=rss'>8点1氪丨马航MH370起落架舱门残骸被发现；香港前往内地和澳门无须在口岸核酸检测；网传辉瑞新冠特效药开启网售</a><br/>
+<a href='https://36kr.com/p/2035148251147266?f=rss'>36氪首发丨「国巡机器人」完成数千万级融资，专注轨道巡检机器人</a><br/>
+<a href='https://36kr.com/p/2036720828738817?f=rss'>定位目的地充电运营，「汇充电」今年已累计融资超2.4亿元 | 36氪首发</a><br/>
+<a href='https://36kr.com/newsflashes/2043283918032129?f=rss'>国家统计局调整11月份国民经济运行情况发布方式</a><br/>
+<a href='https://36kr.com/newsflashes/2043283147754753?f=rss'>酿酒、食品等消费股继续活跃</a><br/>
+<a href='https://36kr.com/newsflashes/2043282828545024?f=rss'>医药股全线走低，中药、熊去氧胆酸概念领跌</a><br/>
+<a href='https://36kr.com/newsflashes/2043282634820608?f=rss'>信创、软件板块异动拉升，数据要素方向领涨</a><br/>
+<a href='https://36kr.com/newsflashes/2043269437394178?f=rss'>黑芝麻智能获得东风集团多款车型项目定点及战略投资</a><br/>
+<a href='https://36kr.com/newsflashes/2043268019981313?f=rss'>零售股再度走强，人人乐7连板</a><br/>
+<a href='https://36kr.com/newsflashes/2043260372274182?f=rss'>美国多州要求谷歌和苹果提高TikTok内容年龄评级</a><br/>
+<a href='https://36kr.com/newsflashes/2043251406032136?f=rss'>Chiplet概念股持续拉升，文一科技、同兴达涨停</a><br/>
+<a href='https://36kr.com/newsflashes/2043250729061383?f=rss'>旅游板块继续活跃，西安饮食3连板</a><br/>
+<a href='https://36kr.com/newsflashes/2043249842670594?f=rss'>央行将在香港发行50亿元人民币的6个月期票据</a><br/>
+<a href='https://36kr.com/newsflashes/2043243040034051?f=rss'>医药股开盘大幅分化，上海凯宝、以岭药业等跌超6%</a><br/>
+<a href='https://36kr.com/newsflashes/2043240731512071?f=rss'>光刻胶概念股拉升走高，安泰科技涨停</a><br/>
+<a href='https://36kr.com/newsflashes/2043240304102407?f=rss'>半导体芯片板块走高</a><br/>
+<a href='https://36kr.com/newsflashes/2043237277879559?f=rss'>A股三大指数集体高开，半导体、贵金属板块领涨</a><br/>
+<a href='https://36kr.com/newsflashes/2043231480007683?f=rss'>央行今日进行20亿元7天期逆回购操作</a><br/>
+<a href='https://36kr.com/newsflashes/2043230289955846?f=rss'>香港恒生指数开盘涨0.91%，恒生科技指数涨1.09%</a><br/>
+<a href='https://36kr.com/newsflashes/2043226793184518?f=rss'>12月14日人民币对美元中间价调升211个基点</a><br/>
+<a href='https://36kr.com/newsflashes/2043225422712065?f=rss'>中国疾控中心：近期各地出现报告数据下降，主要原因有两点</a><br/>
+<a href='https://36kr.com/newsflashes/2043224165731590?f=rss'>阿里巴巴100万股在香港通过大宗交易以每股88.666港元成交</a><br/>
+<a href='2903713'>#新浪金麒麟论坛#【新浪财经2022年会暨第15届金麒麟论坛】12月14日-16日，新浪财经2022年会暨第十五届金麒麟论坛举行。本届年会的主题为“高质量发展、新机遇共享”。屠光绍、朱光耀、刘世锦、刘尚希、李稻葵等共议高质量发展中的新机遇；宗庆后、丁雄军、刘永好、张文中等探讨新时代中国企业发展新实践，更多精彩内容>>https://finance.sina.com.cn/zt_d/xljqllt/</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-12-14/detail-imxwqxpc9600237.d.html'>【广东昨日新增本土“1013+1817”，另有31例本土无症状感染者转确诊病例】广东省卫健委：12月13日0-24时，全省新增本土确诊病例1013例（广州533例，深圳83例）；新增本土无症状感染者1817例（广州741例，深圳29例）；另有31例本土无症状感染者转确诊病例。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-12-14/detail-imxwqxpf6375610.d.html'>【两市融资余额增加0.88亿元】截至12月13日，上交所融资余额报7787.06亿元，较前一交易日减少7.72亿元；深交所融资余额报6982.36亿元，较前一交易日增加8.6亿元；两市合计14769.42亿元，较前一交易日增加0.88亿元。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-12-14/detail-imxwqxpf6369792.d.html'>山东：今起，对进入全省各级各类医疗机构人员不再查验核酸。（澎湃）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-12-14/detail-imxwqxpc9581772.d.html'>【高测股份单月第1亿张硅片今日下线】据高测股份最新消息，今天早上，高测股份12月单月第1亿张硅片在盐城切片基地下线，继11月月产突破2亿片后，公司各切片基地持续满产运行。至此，高测股份2022年硅片累计总产量超12亿片。目前，公司已与通威股份、美科股份、京运通、双良节能、润阳光伏、爱旭股份、英发、华晟、华耀、亿晶等公司建立了长期切片合作关系，并与隆基绿能、晶澳科技等公司建立了切片业务合作关系。</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-12-14/detail-imxwqxpc9568037.d.html'>【长三角“海外抢单团”扩容 温州多路径推进境外商务洽谈】 连日来，长三角“海外抢单团”不断扩容。12月12日中午，浙江温州首趟赴海外“促招引、拓市场、抢订单”的商务专机启程，多家温州企业共170余人组成的温商团队奔赴意大利米兰拓展市场。这是继浙江嘉兴、宁波，江苏苏州、无锡、常州之后，又一出发的长三角区域海外抢单团。（上证报）</a><br/>
+<a href='https://finance.sina.cn/7x24/2022-12-14/detail-imxwqxpc9552083.d.html'>【报告称推特2年内将流失5%用户】市场研究机构Insider Intelligence发布报告预测，由于马斯克对推特作出诸多改变，预计2023推特全球月活跃用户数量将下降近4%，2024年将下降5%，总计超过3200万人；广告收入增长预期也下调为持平。该机构自2008年开始跟踪推特用户数量。</a><br/>
+<a href='2903686'>【百济神州：百悦泽对比亿珂在治疗慢性淋巴细胞白血病患者中所取得的无进展生存期(PFS)优效性结果】百济神州港交所公告称，于2022年12月13日公布了其ALPINE试验的最终PFS分析结果：在这项针对复发╱难治性(R/R)慢性淋巴细胞白血病(CLL)╱小淋巴细胞淋巴瘤(SLL)患者的全球3期试验中，百悦泽对比亿珂取得了优效性结果，表现出更具优势的心脏功能相关的安全性特征。</a><br/>
+<a href='https://skamille.medium.com/okrs-are-hard-b4a6a8491af0'>OKRs Are Hard</a><br/>
+<a href='https://mp.weixin.qq.com/s/jcfnbMy-N0u_w-zkNBO-qA'>药厂三班倒生产布洛芬；线下客流如何？我们看了五个地方</a><br/>
+<a href='https://mp.weixin.qq.com/s/JiMpj0s8OR5pBQnDLnGPxg'>对话李想：大部分企业做产品最大的问题是懒惰</a><br/>
+<a href='https://sspai.com/post/77270'>派早报：iOS/iPadOS 16.2 与 macOS 13.1 等正式版推送、PlayStation 2022 年度回顾上线</a><br/>
+<a href='https://www.v2ex.com/t/902381#reply0'>[程序员] 微信在封 ChatGPT 机器人吗？</a><br/>
+<a href='https://www.v2ex.com/t/902380#reply0'>[Node.js] 开发 nodejs 机器人框架，有没有好用的模块内置</a><br/>
+<a href='https://www.v2ex.com/t/902377#reply0'>[分享创造] 利用催眠技巧绕开 OpenAI 的内容政策限制（仅供研究使用）</a><br/>
+<a href='https://www.v2ex.com/t/902376#reply9'>[程序员] 除了中英，你的三外是什么？</a><br/>
+<a href='https://www.v2ex.com/t/902375#reply12'>[生活] 你说说，生孩子干嘛啊</a><br/>
+<a href='https://www.v2ex.com/t/902373#reply0'>[问与答] 你们手机电量续航能力如何，以及交流下大家的”省电“技巧</a><br/>
+<a href='https://www.v2ex.com/t/902372#reply1'>[MacBook Pro] M1 上的 Asahi Linux 支持 GPU 加速了</a><br/>
+<a href='https://www.v2ex.com/t/902371#reply0'>[Apple] 最新版 ios 怎么才能批量卸载 app。或者批量整理 app</a><br/>
+<a href='https://www.v2ex.com/t/902370#reply0'>[macOS] macOS 13.1 (22C65) 终于修复了快速访问 Passwords.prefPane 跳转问题。</a><br/>
+<a href='https://www.v2ex.com/t/902367#reply2'>[问与答] chatGPT 针对国内封号？</a><br/>
+<a href='https://www.v2ex.com/t/902364#reply2'>[程序员] 工程制图笔记本求推荐</a><br/>
+<a href='https://www.v2ex.com/t/902362#reply23'>[奇思妙想] 家用汽车未来有没有可能发展为独立的电竞空间</a><br/>
+<a href='https://www.v2ex.com/t/902361#reply15'>[分享创造] 自制玻璃水</a><br/>
+<a href='https://www.v2ex.com/t/902360#reply5'>[问与答] 感觉目前的工作技术含量太低，业务也简单，要不要再找找机会？</a><br/>
+<a href='https://www.v2ex.com/t/902359#reply11'>[问与答] 入了一台新笔记本，请教几个问题。</a><br/>
+<a href='https://www.v2ex.com/t/902358#reply17'>[程序员] 现在去成都旅游有没有什么建议？</a><br/>
+<a href='https://www.v2ex.com/t/902356#reply73'>[程序员] 好奇大家吃饭时看什么下饭？</a><br/>
+<a href='https://www.v2ex.com/t/902355#reply30'>[职场话题] 大家公司对新冠的态度是怎么样的？</a><br/>
+<a href='https://www.v2ex.com/t/902354#reply1'>[iPad] 外接显示器，声音输出为“基座接口”，好难受啊</a><br/>
+<a href='https://www.v2ex.com/t/902353#reply6'>[分享创造] PasteQ 剪切板历史工具(自动提示快捷键操作，无需记忆，无需鼠标)</a><br/>
+<a href='https://www.v2ex.com/t/902352#reply1'>[Apple] HomePod 升级到最新 16.2 正式版之后，家庭还是不能更新</a><br/>
+<a href='https://www.v2ex.com/t/902351#reply10'>[Apple] ios16.2 更新了</a><br/>
+<a href='https://www.v2ex.com/t/902350#reply71'>[职场话题] 身边的同事羊了，我说说我的经历和想法</a><br/>
+<a href='https://www.v2ex.com/t/902349#reply6'>[问与答] 请问脸大/头大戴哪种 n95 不会勒得疼，能发个链接吗</a><br/>
+<a href='https://www.v2ex.com/t/902347#reply27'>[程序员] paxlovid 在国内上架马上又下架，是否还有任何渠道可以买到这个药？</a><br/>
+<a href='https://www.v2ex.com/t/902346#reply29'>[问与答] 求帮看下这个户型的，分析下优缺点？</a><br/>
+<a href='https://www.v2ex.com/t/902345#reply10'>[问与答] iOS 无法在大版本内更新了？现为 15.7.1，想更新到 15.7.2，但检查更新只提供 16.2。记得以前是有两个选择的</a><br/>
+<a href='https://www.v2ex.com/t/902344#reply2'>[Android] [求助]Google Play 服务异常耗电的问题</a><br/>
+<a href='http://www.newsmth.net/nForum/article/Entrepreneur/685685'>有了解白酒一级代理的朋友吗</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2072599'>honeypeachs被取消在SecondMarket版的发文权限</a><br/>
+<a href='https://weibo.com/1088413295/MjvRTaONu'>每天学点Linux上能用到的命令，今天是shopt，你用过吗 网页链接 [图片]</a><br/>
+<a href='https://weibo.com/1088413295/MjvJo2vQo'>用 HTTP Status Code测试今天的运势如何。我今天的运程是409。你也来试试？→ 网页链接 [图片]</a><br/>
+<a href='https://weibo.com/1497035431/MjvIbxmvu'>决赛阿根廷vs法国。法国赢，再信我一次，同志们[泪][泪] 梁斌penny的微博视频</a><br/>
+<a href='https://weibo.com/1497035431/MjvA0feAJ'>将来报道出现了重大偏差。。。要提高自己的知识水平，闷声发大财是最好的。//@桂曙光:媒体的商业化本质是流量，而流量依赖的不是专业性，反而越专业路越窄。缺少...</a><br/>
+<a href='https://mp.weixin.qq.com/s/ewVhnkUY-ZJGJK-Dgcz2bA'>台积电：寒气已经传递给我了</a><br/>
+<a href='https://mp.weixin.qq.com/s/AIqj7Djs8AVyWN948-pMXw'>可控核聚变或迎来重大突破，辉瑞新冠特效药每盒超两千元，苹果在印或提高三倍产量，暴雪或将信息存至个人设备，这就是今天的其它大新闻！</a><br/>
+<a href='https://mp.weixin.qq.com/s/b-ZfjQ4QSrRZl7eQqoiUMg'>聊一聊：你为哪些电子产品的颜值买过单？</a><br/>
+<a href='https://mp.weixin.qq.com/s/3NrkEokiRuzSsYBLw31SWg'>今日最佳：没关系，我会出手。</a><br/>
+<a href='https://mp.weixin.qq.com/s/Hd0kZI07NAjkiQGVGQ208Q'>刚刚上线的《三体》动画，画面怎么被网友喷成了这样。。。</a><br/>
+<a href='https://mp.weixin.qq.com/s/HP2VuO4GUun_Bm-jg_g5UA'>看完最近发布的新机，我觉得国产厂商冲击高端稳了！</a><br/>
+<a href='https://mp.weixin.qq.com/s/t40SQAYTnHDnCHSZfwZOrw'>斯柯达要退出中国？当年的大众平替，怎么给自己玩没了？</a><br/>
+<a href='https://mp.weixin.qq.com/s/-kDr5hZO3rnJKPsT2OERiA'>宫崎骏动画电影新作《你想活出怎样的人生》，将于明年 7 月上映</a><br/>
+<a href='https://mp.weixin.qq.com/s/LiY1N1WUuEctDKFGxiQPdQ'>太强了！内置10多条资源引擎接口，资源应有尽有</a><br/>
 
 
 <邮件内容区结束
