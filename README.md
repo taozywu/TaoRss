@@ -1,50 +1,43 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 42  Date: 2023-01-01 10:22:05 <br/>
+Rss num: 35  Date: 2023-01-02 10:06:44 <br/>
 
-<a href='https://36kr.com/newsflashes/2068767814499456?f=rss'>理想汽车：2022年累计交付133,246辆，同比增长47.2%</a><br/>
-<a href='https://36kr.com/newsflashes/2068751774579846?f=rss'>极氪汽车：2022年累计交付71,941辆</a><br/>
-<a href='https://36kr.com/newsflashes/2068746818141065?f=rss'>瑞典将接任欧盟轮值主席国</a><br/>
-<a href='https://36kr.com/newsflashes/2068745102359685?f=rss'>马克龙表示2023年法国将进行退休制度改革</a><br/>
-<a href='https://36kr.com/newsflashes/2068743804828547?f=rss'>《想见你》票房破2.1亿，助许光汉主演作品票房破10亿</a><br/>
-<a href='https://36kr.com/newsflashes/2068720092576901?f=rss'>元旦档总票房（含预售）突破3亿元</a><br/>
-<a href='https://36kr.com/newsflashes/2068719559179394?f=rss'>元旦假期旅游市场供需同时发力，游客出游热情攀升</a><br/>
-<a href='https://36kr.com/newsflashes/2068718826306438?f=rss'>韩国去年贸易逆差472亿美元，创历史新高</a><br/>
-<a href='https://36kr.com/newsflashes/2068716319865990?f=rss'>马斯克向投资者保证：特斯拉的“长期基本面极其强大”</a><br/>
-<a href='https://36kr.com/newsflashes/2068711253736577?f=rss'>“澳车北上”政策正式落地实施</a><br/>
-<a href='https://36kr.com/newsflashes/2068710074186632?f=rss'>冬季风暴致加州多条高速封闭</a><br/>
-<a href='https://36kr.com/newsflashes/2068705875836041?f=rss'>中国人寿首笔商业养老金业务在京落地</a><br/>
-<a href='https://36kr.com/newsflashes/2068704220953737?f=rss'>侯凯正式履任联合国审计委员会主席</a><br/>
-<a href='https://36kr.com/newsflashes/2068699931655042?f=rss'>2022年全国电影总票房300.67亿元</a><br/>
-<a href='https://36kr.com/newsflashes/2068695373462402?f=rss'>东航全球首架C919客机新年首飞</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrp2455682.d.html'>【侯凯正式履任联合国审计委员会主席】据“审计署”微信公众号消息，2023年1月1日，侯凯审计长正式履任联合国审计委员会主席，标志着中国审计师在履行国际审计职责、共同推动国际审计事业发展方面，进入一个新时期和新阶段。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrp2451659.d.html'>【布局新一年，多位明星基金经理最新调仓曝光】 近期，随着上市公司定增、重大资产重组、股份回购等公告的披露，多位明星基金经理的调仓动作随之曝光。比如，上投摩根王牌基金经理杜猛管理的多只基金参与了天华超净的定增，朱少醒的代表作富国天惠则对重庆百货进行了小幅减仓，而谢治宇带队管理的兴全趋势则加仓了招商蛇口和苏文电能。（券商中国）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrq9227648.d.html'>【普京新年致辞：2022年成为俄真正独立奠定基础的分界线】俄罗斯总统普京当地时间12月31日发表新年致辞时表示，2022年成为为俄罗斯的未来、真正独立奠定基础的分界线。据克里姆林宫网站消息，普京当天视察了俄南部军区，期间向新组建的部队授予战旗、为特别军事行动中的官兵颁授奖章。普京在致辞中表示，2022年是充满艰难但必须抉择的一年，是为捍卫俄罗斯主权完整、保持社会团结做出最重要行动的一年。这一年充满真正意义的转折和足以改变命运的事件，成为为俄罗斯的未来、真正独立奠定基础的分界线。今天俄罗斯也正为这一目标而战。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrp2450225.d.html'>【东航全球首架C919客机新年首飞】全球首架国产大飞机C919今天的验证飞行，在上午8点30分正式开始。这是自2022年12月26日以来，C919的第9架次验证飞行，也是在2023年的新年首飞。据了解，C919总计要进行100小时的验证飞行。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrp2433007.d.html'>【张国华与中国卫星网络集团有限公司党组书记、董事长张冬辰一行举行工作座谈】据雄安发布，2022年12月31日，中国卫星网络集团有限公司党组书记、董事长张冬辰一行到雄安新区调研考察。省委常委、副省长，雄安新区党工委书记、管委会主任张国华与张冬辰一行举行工作座谈。张国华表示，希望双方在新的一年，全面深化务实合作，加快中国星网集团总部大楼建设，统筹推动产业链上下游企业和项目落地新区，打造卫星互联网数字科技创新和应用产业平台，推动空天技术产业集群发展。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrp2429761.d.html'>【中国人寿首笔商业养老金业务在京落地】1月1日，中国人寿集团旗下养老险公司首笔商业养老金业务在北京率先落地。中国人寿养老险公司是银保监会确定的首批商业养老金业务试点机构之一，公司目前已正式开放商业养老金线上平台，北京、上海等10个试点地区18周岁以上个人客户均可购买。</a><br/>
-<a href='2926691'>除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、外交部发言人：中国将继续加快实施创新驱动发展战略，同世界共享创新发展成果；2、中老国际货运班列（攀枝花）首发；3、推动经济运行整体好转（权威访谈）——访国家发展改革委党组成员、副主任赵辰昕；4、锚定奋斗目标 创造新的伟业（社论）；5、国家乡村振兴局印发通知部署扎实做好巩固拓展脱贫攻坚成果工作。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrq9200715.d.html'>【拜登在推特发布简短新年致辞：期待在新的一年取得更大进步】 据英国《卫报》消息，美国总统拜登当地时间2022年12月31日在推特发布了一段简短的新年致辞，称“期待在新的一年取得更大进步”。“我们还有很多工作要做，但今年，我们签署了历史性法案，降低了工薪家庭和老年人的（生活）成本，继续帮助我们的社区免受枪支暴力的侵害，并在全国各地创造了高薪就业机会。我期待在新的一年取得更大进步。”拜登称。（环球网）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrq9192177.d.html'>韩国12月进口年率 -2.4%，预期0.6%，前值2.70%。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrp2414937.d.html'>韩国12月出口年率 -9.5%，预期-10.1%，前值-14.00%。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-01/detail-imxyrtrq9191836.d.html'>韩国12月贸易帐初值 -47亿美元，预期-67.4亿美元，前值-70.1亿美元。</a><br/>
-<a href='https://www.v2ex.com/t/905882#reply0'>[程序员] 请教： nodejs 怎么打包成 exe， apk</a><br/>
-<a href='https://www.v2ex.com/t/905881#reply0'>[分享发现] 圆角等宽字体 Maple Mono 更新 V6.0</a><br/>
-<a href='https://www.v2ex.com/t/905880#reply0'>[宽带症候群] 求个大佬的柠檬💊</a><br/>
-<a href='https://www.v2ex.com/t/905879#reply4'>[问与答] 怎么买到二手靠谱 pixel 手机？</a><br/>
-<a href='https://www.v2ex.com/t/905878#reply8'>[问与答] 笑死，自己把自己焊死了，求解</a><br/>
-<a href='https://www.v2ex.com/t/905877#reply0'>[问与答] 求购 Paxlovid</a><br/>
-<a href='https://www.v2ex.com/t/905875#reply0'>[宽带症候群] 可以向 V 友求个 lemonhd 邀请 么？</a><br/>
-<a href='https://www.v2ex.com/t/905874#reply8'>[iOS] iOS 16.2 正式版值得刷入吗？</a><br/>
-<a href='https://www.v2ex.com/t/905873#reply4'>[Android] Pixel6a 无法发送短信</a><br/>
-<a href='https://www.v2ex.com/t/905870#reply2'>[问与答] 求推荐 win10 精简版</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073077'>转让物美+家乐福+华联购物卡</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073076'>40出百度网盘会员</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073075'>[转让]乐歌升降电脑桌</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073073'>京东e卡交换电信充值卡</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073071'>9.9出一个二手松下电饭煲DH152</a><br/>
-<a href='https://weibo.com/1088413295/Mmf5arFFd'>大家新年好，发张刚整理完的「全栈路线图」，今年的这个版本把商业模式、设计、开发、运营、增长都放进来了，更适合独立开发和副业创业。[2023] 高清PDF和源文件...</a><br/>
+<a href='https://36kr.com/newsflashes/2070165069167749?f=rss'>2022年超20家券商董事长变动</a><br/>
+<a href='https://36kr.com/newsflashes/2070157052624007?f=rss'>中国人寿发起首单保险资管权益类资产支持计划，总规模64.04亿元</a><br/>
+<a href='https://36kr.com/newsflashes/2070130273729412?f=rss'>布达拉宫1月3日起恢复对外开放，3月15日前实行免费参观</a><br/>
+<a href='https://36kr.com/newsflashes/2070127567633545?f=rss'>海南三亚豪华酒店万元套房订满，机票预订达近5年来峰值</a><br/>
+<a href='https://36kr.com/newsflashes/2070125986937733?f=rss'>物流保通保畅：国家铁路货运继续保持高位运行</a><br/>
+<a href='https://36kr.com/newsflashes/2070122809392259?f=rss'>中国市值TOP20公司座次变化，美团、宁德时代市值缩水明显</a><br/>
+<a href='https://36kr.com/newsflashes/2070120271854466?f=rss'>龙建股份：中标哈尔滨都市圈环线高速公路项目</a><br/>
+<a href='https://36kr.com/newsflashes/2070113690303361?f=rss'>中科创达：畅行智驾将在2023年CES展上正式发布中间件产品</a><br/>
+<a href='https://36kr.com/newsflashes/2070112422361986?f=rss'>哪吒汽车2022年实现全系交付超15.2万台，同比增长118%</a><br/>
+<a href='https://36kr.com/newsflashes/2070109568384137?f=rss'>帝尔激光：帝尔TOPCon SE一次激光掺杂设备再次中标头部客户大单</a><br/>
+<a href='https://36kr.com/newsflashes/2070104309889925?f=rss'>三超新材：半导体用产品总体处于投入研发阶段，营业收入不高</a><br/>
+<a href='https://36kr.com/newsflashes/2070102599449476?f=rss'>苹果公司正式关停天气应用“Dark Sky”</a><br/>
+<a href='https://36kr.com/newsflashes/2070100667301000?f=rss'>科大讯飞：公司现金流整体运行健康</a><br/>
+<a href='https://36kr.com/newsflashes/2070096133766276?f=rss'>康恩贝：布洛芬颗粒生产量首次达到120万袋</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2204983.d.html'>【中国百部十亿电影 国产片占64席】2010年《阿凡达》票房突破十亿，开启了中国内地电影单片票房的新时代。而后的2012年，《人再囧途之泰囧》也为国产电影创下首部十亿票房。2015年至2017年，中国电影市场快速发展，国产电影实现与进口电影并驾齐驱之势；随后两年，国产十亿电影单年度增速甩开进口电影，彻底拉开差距；2020年及复工以来的三年，十亿电影的增长主要以国产电影为主。截至《阿凡达：水之道》破十亿之际，在100部十亿电影中，国产电影占据64部（含合拍），进口电影占据36部。（北京青年报）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8977823.d.html'>【三超新材：下游客户金刚线订单逐月甚至逐周下达 不存在停止接单情况】 有投资者在互动平台向三超新材提问：“金刚线供不应求，公司停止接单了吗？”三超新材回复：下游客户金刚线的订单，是采用逐月甚至逐周下达的，不存在停止接单的情况。另外，关于扩产进度，三超新材表示，公司金湖扩产项目正按计划有序推进，预计在2023年一季度末可实现硅切片线新增产能150万km/月。目前现有硅切片产能约100万-120万km/月， 基本接近满负荷生产状态。（证券时报）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2196128.d.html'>【山东首份对印尼RCEP原产地证书在青岛签发】2023年1月2日，《区域全面经济伙伴关系协定》(RCEP)对印度尼西亚正式生效。零时刚过，在位于市北区的RCEP山东企业服务中心内，青岛三木水产股份有限公司总经理孙军志拿到了山东首份对印度尼西亚RCEP原产地证书。凭着这份原产地证书，该公司出口到印度尼西亚的一批冷冻大马哈鱼段缴纳的关税税率可由10%降为零关税。（证券时报网）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8968838.d.html'>【IMF总裁警告称，2023年将是全球经济艰难的一年】国际货币基金组织（IMF）总裁格奥尔基耶娃周日表示，对于大部分全球经济来说，2023年将是艰难的一年，因为全球增长的主要引擎美国、欧洲和都经历了经济活动减弱，新的一年将“比过去的一年还要艰难”。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2190250.d.html'>【帝尔激光：帝尔TOPCon SE一次激光掺杂设备再次中标头部客户大单】据帝尔激光消息，2023年元旦，帝尔激光收到头部客户近20GW产能的TOPCon光伏电池SE一次激光掺杂设备中标通知书。截至目前，公司TOPCon SE一次激光掺杂设备在手订单和中标产能累计已经超过50GW。TOPCon SE一次激光掺杂设备主要是利用激光能量推动硼原子在硅片内扩散，实现选择性发射极SE结构。这种技术能提高太阳能电池的光电转化效率。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2189962.d.html'>【康恩贝：布洛芬颗粒日生产量首次达到120万袋】康恩贝官微1月2日消息，2022年12月31日，康恩贝植物药产业园退热解痛产品布洛芬颗粒的日生产量首次达到120万袋。短短一个月时间，从日产30万袋提升到目前的120万袋，日产量整整翻了两番。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8961032.d.html'>【专家：蒙脱石散未必是止泻首选，诺氟沙星对病毒性腹泻没效果】 1月1日，止泻药“蒙脱石散”登上热搜，有说法称奥密克戎新变种容易导致腹泻，于是很多人开始盲目囤药。多位专家提醒，出现腹泻后，优先使用的药物并不一定是蒙脱石散。至于诺氟沙星、盐酸小檗碱片，李志玲认为，如果为了治疗病毒导致的腹泻，就更没有必要抢购这些药物。她说，这两款药均针对细菌导致的腹泻，对于病毒性腹泻没有效果。（澎湃新闻）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8960665.d.html'>【中科创达：畅行智驾将在2023年CES展上正式发布中间件产品】中科创达在业绩说明会表示，畅行智驾是公司成立的专注于开发智能驾驶域控制器以及大算力中央计算(HPC)的软硬件平台企业。已成功推出了RazorDCX Takla域控制器和RazorWareX中间件产品方案，并获得了来自高通创投和立讯精密的战略投资。畅行智驾将在2023年CES展上正式发布中间件产品。（e公司）</a><br/>
+<a href='2927469'>【科大讯飞：公司现金流整体运行健康】科大讯飞在互动平台回复投资者提问时表示，公司严格按照企业会计准则及公司会计政策的规定编制定期报告。讯飞AI学习机已经形成的口碑以及植入其中的教研能力和教育理念，使其具备很强的产品竞争力。公司经营性现金流及销售回款均保持良好态势。因经营的季节性因素，公司现金流具有显著的季节特征，根据公司已发布的最近的定期报告，公司2022年第三季度，实现单季度正向现金流6.06亿元。此外，公司2022年前三季度实现销售回款128亿元，同比增长26.84%。公司现金流整体运行健康。（第一财经）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8955375.d.html'>【苹果公司正式关停天气应用“Dark Sky”】据美国科技博客MacRumors报道，当地时间1月1日，苹果正式关闭天气应用“Dark Sky”，对现有用户停止运营。该款应用已于2022年9月在App Store下架。苹果还将于3月31日关闭Dark Sky面向第三方天气应用程序的API，并推出自有WeatherKit API作为替代。（界面新闻）</a><br/>
+<a href='https://www.youtube.com/watch?v=x2IQNsLuikw'>Automatic snow tires throw chains at your wheels [video]</a><br/>
+<a href='https://www.instructables.com/Orrery-Earth-Moon-and-Sun/'>Orrery (Earth, Moon, and Sun)</a><br/>
+<a href='https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1'>Blog series on building an air sensor with Arduino</a><br/>
+<a href='https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/'>Should this paper in Psychological Science be retracted?</a><br/>
+<a href='https://www.v2ex.com/t/906010#reply2'>[MySQL] 求各位大佬给些报表优化的思路?</a><br/>
+<a href='https://www.v2ex.com/t/906008#reply1'>[NAS] 请教各位 极空间 z4s 怎么刷机？</a><br/>
+<a href='https://www.v2ex.com/t/906007#reply0'>[深圳] 马上逃离深圳了，乱七八糟的便宜出</a><br/>
+<a href='https://www.v2ex.com/t/906005#reply2'>[程序员] 请问 AWS Certified Developer Associate 认证如何备考?</a><br/>
+<a href='https://www.v2ex.com/t/906004#reply3'>[问与答] 车开始烧机油之后是不是只能定期加机油了， 1.8T 的帕萨特 11 年的。</a><br/>
+<a href='https://www.v2ex.com/t/906003#reply1'>[问与答] 百度网盘扫码登录问题</a><br/>
+<a href='https://weibo.com/1497035431/MmoYGksxI'>布林肯也是棋子，坐在这个位置上就得耍流氓。//@caozenghui:还是得沟通对话//@沈东军:改变战狼外交是对的。 - 转发 @王冰汝:&ensp;秦刚1号致电布林肯道别，对任...</a><br/>
 
 
 <邮件内容区结束
