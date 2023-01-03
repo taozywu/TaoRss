@@ -1,43 +1,68 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 35  Date: 2023-01-02 10:06:44 <br/>
+Rss num: 60  Date: 2023-01-03 10:05:40 <br/>
 
-<a href='https://36kr.com/newsflashes/2070165069167749?f=rss'>2022年超20家券商董事长变动</a><br/>
-<a href='https://36kr.com/newsflashes/2070157052624007?f=rss'>中国人寿发起首单保险资管权益类资产支持计划，总规模64.04亿元</a><br/>
-<a href='https://36kr.com/newsflashes/2070130273729412?f=rss'>布达拉宫1月3日起恢复对外开放，3月15日前实行免费参观</a><br/>
-<a href='https://36kr.com/newsflashes/2070127567633545?f=rss'>海南三亚豪华酒店万元套房订满，机票预订达近5年来峰值</a><br/>
-<a href='https://36kr.com/newsflashes/2070125986937733?f=rss'>物流保通保畅：国家铁路货运继续保持高位运行</a><br/>
-<a href='https://36kr.com/newsflashes/2070122809392259?f=rss'>中国市值TOP20公司座次变化，美团、宁德时代市值缩水明显</a><br/>
-<a href='https://36kr.com/newsflashes/2070120271854466?f=rss'>龙建股份：中标哈尔滨都市圈环线高速公路项目</a><br/>
-<a href='https://36kr.com/newsflashes/2070113690303361?f=rss'>中科创达：畅行智驾将在2023年CES展上正式发布中间件产品</a><br/>
-<a href='https://36kr.com/newsflashes/2070112422361986?f=rss'>哪吒汽车2022年实现全系交付超15.2万台，同比增长118%</a><br/>
-<a href='https://36kr.com/newsflashes/2070109568384137?f=rss'>帝尔激光：帝尔TOPCon SE一次激光掺杂设备再次中标头部客户大单</a><br/>
-<a href='https://36kr.com/newsflashes/2070104309889925?f=rss'>三超新材：半导体用产品总体处于投入研发阶段，营业收入不高</a><br/>
-<a href='https://36kr.com/newsflashes/2070102599449476?f=rss'>苹果公司正式关停天气应用“Dark Sky”</a><br/>
-<a href='https://36kr.com/newsflashes/2070100667301000?f=rss'>科大讯飞：公司现金流整体运行健康</a><br/>
-<a href='https://36kr.com/newsflashes/2070096133766276?f=rss'>康恩贝：布洛芬颗粒生产量首次达到120万袋</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2204983.d.html'>【中国百部十亿电影 国产片占64席】2010年《阿凡达》票房突破十亿，开启了中国内地电影单片票房的新时代。而后的2012年，《人再囧途之泰囧》也为国产电影创下首部十亿票房。2015年至2017年，中国电影市场快速发展，国产电影实现与进口电影并驾齐驱之势；随后两年，国产十亿电影单年度增速甩开进口电影，彻底拉开差距；2020年及复工以来的三年，十亿电影的增长主要以国产电影为主。截至《阿凡达：水之道》破十亿之际，在100部十亿电影中，国产电影占据64部（含合拍），进口电影占据36部。（北京青年报）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8977823.d.html'>【三超新材：下游客户金刚线订单逐月甚至逐周下达 不存在停止接单情况】 有投资者在互动平台向三超新材提问：“金刚线供不应求，公司停止接单了吗？”三超新材回复：下游客户金刚线的订单，是采用逐月甚至逐周下达的，不存在停止接单的情况。另外，关于扩产进度，三超新材表示，公司金湖扩产项目正按计划有序推进，预计在2023年一季度末可实现硅切片线新增产能150万km/月。目前现有硅切片产能约100万-120万km/月， 基本接近满负荷生产状态。（证券时报）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2196128.d.html'>【山东首份对印尼RCEP原产地证书在青岛签发】2023年1月2日，《区域全面经济伙伴关系协定》(RCEP)对印度尼西亚正式生效。零时刚过，在位于市北区的RCEP山东企业服务中心内，青岛三木水产股份有限公司总经理孙军志拿到了山东首份对印度尼西亚RCEP原产地证书。凭着这份原产地证书，该公司出口到印度尼西亚的一批冷冻大马哈鱼段缴纳的关税税率可由10%降为零关税。（证券时报网）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8968838.d.html'>【IMF总裁警告称，2023年将是全球经济艰难的一年】国际货币基金组织（IMF）总裁格奥尔基耶娃周日表示，对于大部分全球经济来说，2023年将是艰难的一年，因为全球增长的主要引擎美国、欧洲和都经历了经济活动减弱，新的一年将“比过去的一年还要艰难”。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2190250.d.html'>【帝尔激光：帝尔TOPCon SE一次激光掺杂设备再次中标头部客户大单】据帝尔激光消息，2023年元旦，帝尔激光收到头部客户近20GW产能的TOPCon光伏电池SE一次激光掺杂设备中标通知书。截至目前，公司TOPCon SE一次激光掺杂设备在手订单和中标产能累计已经超过50GW。TOPCon SE一次激光掺杂设备主要是利用激光能量推动硼原子在硅片内扩散，实现选择性发射极SE结构。这种技术能提高太阳能电池的光电转化效率。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2189962.d.html'>【康恩贝：布洛芬颗粒日生产量首次达到120万袋】康恩贝官微1月2日消息，2022年12月31日，康恩贝植物药产业园退热解痛产品布洛芬颗粒的日生产量首次达到120万袋。短短一个月时间，从日产30万袋提升到目前的120万袋，日产量整整翻了两番。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8961032.d.html'>【专家：蒙脱石散未必是止泻首选，诺氟沙星对病毒性腹泻没效果】 1月1日，止泻药“蒙脱石散”登上热搜，有说法称奥密克戎新变种容易导致腹泻，于是很多人开始盲目囤药。多位专家提醒，出现腹泻后，优先使用的药物并不一定是蒙脱石散。至于诺氟沙星、盐酸小檗碱片，李志玲认为，如果为了治疗病毒导致的腹泻，就更没有必要抢购这些药物。她说，这两款药均针对细菌导致的腹泻，对于病毒性腹泻没有效果。（澎湃新闻）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8960665.d.html'>【中科创达：畅行智驾将在2023年CES展上正式发布中间件产品】中科创达在业绩说明会表示，畅行智驾是公司成立的专注于开发智能驾驶域控制器以及大算力中央计算(HPC)的软硬件平台企业。已成功推出了RazorDCX Takla域控制器和RazorWareX中间件产品方案，并获得了来自高通创投和立讯精密的战略投资。畅行智驾将在2023年CES展上正式发布中间件产品。（e公司）</a><br/>
-<a href='2927469'>【科大讯飞：公司现金流整体运行健康】科大讯飞在互动平台回复投资者提问时表示，公司严格按照企业会计准则及公司会计政策的规定编制定期报告。讯飞AI学习机已经形成的口碑以及植入其中的教研能力和教育理念，使其具备很强的产品竞争力。公司经营性现金流及销售回款均保持良好态势。因经营的季节性因素，公司现金流具有显著的季节特征，根据公司已发布的最近的定期报告，公司2022年第三季度，实现单季度正向现金流6.06亿元。此外，公司2022年前三季度实现销售回款128亿元，同比增长26.84%。公司现金流整体运行健康。（第一财经）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn8955375.d.html'>【苹果公司正式关停天气应用“Dark Sky”】据美国科技博客MacRumors报道，当地时间1月1日，苹果正式关闭天气应用“Dark Sky”，对现有用户停止运营。该款应用已于2022年9月在App Store下架。苹果还将于3月31日关闭Dark Sky面向第三方天气应用程序的API，并推出自有WeatherKit API作为替代。（界面新闻）</a><br/>
-<a href='https://www.youtube.com/watch?v=x2IQNsLuikw'>Automatic snow tires throw chains at your wheels [video]</a><br/>
-<a href='https://www.instructables.com/Orrery-Earth-Moon-and-Sun/'>Orrery (Earth, Moon, and Sun)</a><br/>
-<a href='https://www.airdeets.com/blog/diy-arduino-based-air-sensor-pt1'>Blog series on building an air sensor with Arduino</a><br/>
-<a href='https://statmodeling.stat.columbia.edu/2016/06/28/khkhkj/'>Should this paper in Psychological Science be retracted?</a><br/>
-<a href='https://www.v2ex.com/t/906010#reply2'>[MySQL] 求各位大佬给些报表优化的思路?</a><br/>
-<a href='https://www.v2ex.com/t/906008#reply1'>[NAS] 请教各位 极空间 z4s 怎么刷机？</a><br/>
-<a href='https://www.v2ex.com/t/906007#reply0'>[深圳] 马上逃离深圳了，乱七八糟的便宜出</a><br/>
-<a href='https://www.v2ex.com/t/906005#reply2'>[程序员] 请问 AWS Certified Developer Associate 认证如何备考?</a><br/>
-<a href='https://www.v2ex.com/t/906004#reply3'>[问与答] 车开始烧机油之后是不是只能定期加机油了， 1.8T 的帕萨特 11 年的。</a><br/>
-<a href='https://www.v2ex.com/t/906003#reply1'>[问与答] 百度网盘扫码登录问题</a><br/>
-<a href='https://weibo.com/1497035431/MmoYGksxI'>布林肯也是棋子，坐在这个位置上就得耍流氓。//@caozenghui:还是得沟通对话//@沈东军:改变战狼外交是对的。 - 转发 @王冰汝:&ensp;秦刚1号致电布林肯道别，对任...</a><br/>
+<a href='https://36kr.com/p/2071476280605576?f=rss'>8点1氪丨元旦3天国内旅游出游5271.34万人次；许家印称2023年一定能偿还债务；消息称李子柒短期内或不考虑复出</a><br/>
+<a href='https://36kr.com/p/2070590365072257?f=rss'>2022年半导体行业十大“芯事”</a><br/>
+<a href='https://36kr.com/newsflashes/2071585403140998?f=rss'>韩国政府将扩大芯片投资税收减免</a><br/>
+<a href='https://36kr.com/newsflashes/2066216641067908?f=rss'>联想SMB&36氪企服点评年度战略合作获“中国数字营销实战大赛”年度营销服务优秀案例</a><br/>
+<a href='https://36kr.com/newsflashes/2071515136949123?f=rss'>微软回应FTC诉讼：不知道动视暴雪《使命召唤》为何如此特别</a><br/>
+<a href='https://36kr.com/newsflashes/2071568148478850?f=rss'>12月财新中国制造业PMI降至49.0</a><br/>
+<a href='https://36kr.com/newsflashes/2071563324537991?f=rss'>港股盘初走低，恒指、恒生科技指数跌超2%</a><br/>
+<a href='https://36kr.com/newsflashes/2071555066952836?f=rss'>券商股开盘集体走低</a><br/>
+<a href='https://36kr.com/newsflashes/2071553707932547?f=rss'>新冠药板块开盘活跃，蒙脱石散方向领涨</a><br/>
+<a href='https://36kr.com/newsflashes/2071548515957637?f=rss'>A股2023年首个交易日，三大指数小幅低开</a><br/>
+<a href='https://36kr.com/newsflashes/2071543395892098?f=rss'>港股2023年首个交易日：恒指开跌1.07%，科指跌1.15%</a><br/>
+<a href='https://36kr.com/newsflashes/2071535848160390?f=rss'>华山医院感染科副主任王新宇：阳过的人短期内会再感染XBB几率非常低</a><br/>
+<a href='https://36kr.com/newsflashes/2071512569789317?f=rss'>中信证券：预计2023年房地产销售前低后高，有望重回正增长</a><br/>
+<a href='https://36kr.com/newsflashes/2071530396335234?f=rss'>张文宏：接种疫苗对重症有非常确定的保护作用</a><br/>
+<a href='https://36kr.com/newsflashes/2071518094163073?f=rss'>两市融资余额减少79.37亿元，融资客保持连续4日净卖出</a><br/>
+<a href='https://36kr.com/newsflashes/2071480319327111?f=rss'>Facebook“吹哨人”��言马斯克：推特必须开源才能成为公共广场</a><br/>
+<a href='https://36kr.com/newsflashes/2071478278700169?f=rss'>苹果隐私政策影响电商广告，Shopify有意填补空白</a><br/>
+<a href='https://36kr.com/newsflashes/2071486151752833?f=rss'>广汽丰田2022全年产销量首次超100万</a><br/>
+<a href='https://36kr.com/newsflashes/2071484184214656?f=rss'>梦网科技：子公司与联通在线签订智信技术服务合同</a><br/>
+<a href='https://36kr.com/newsflashes/2071476600306823?f=rss'>中信建投：高分十一号遥感卫星发射成功，关注卫星应用产业链投资机会</a><br/>
+<a href='https://36kr.com/newsflashes/2071475765001089?f=rss'>理想汽车：按计划向员工授出逾1083万股股份</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvt9182465.d.html'>【腾势汽车：腾势D9累计销售9803辆】1月3日，腾势汽车官方微博宣布，腾势D9于2022年12月销量6002辆，环比增长73.9%；累计销售9803辆。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvt9182440.d.html'>【秦刚大使向全美各界道别：将一如既往关心支持中美关系发展】当地时间1月2日，秦刚大使通过社交媒体向美国各界人士道别，全文如下：我即将结束中国驻美大使任期。去年到任时，中美关系面临着诸多严峻挑战。到任以来，我认真落实两国元首共识，努力做中美之间沟通的桥梁和纽带，致力于探索中美之间正确的相处之道。在此期间，我本人和驻美使馆得到了美国各界人民的大力支持和帮助。对此，我表示衷心感谢。在过去的500多天，我访问了美国22个州，足迹遍布政府、国会、智库、企业、车间、码头、农田、学校、球场，交了很多朋友。美国人民的勤劳、热情和友善深深地感染了我。凡是过往，皆为序章。我将一如既往地关心支持中美关系发展，推进中美对话交流和人民相知相亲，推动两国实现相互尊重、和平共处、合作共赢，为两国人民福祉和世界和平、稳定和发展做出应尽努力。（澎湃）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvt9181359.d.html'>【韩国去年12月电力需求创历史新高，或受到最强寒潮和暴雪影响】据韩国电力交易所1月3日消息，去年12月韩国平均最大电力（24小时内用电量最大时刻的电力需求）为8.2176万兆瓦（MW），刷新去年7月创下的最高纪录，同比上升5.1%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvt9180175.d.html'>【伊朗外交部：已做好完成伊核协议相关谈判的准备】据央视新闻，当地时间1月2日，伊朗外交部发言人卡纳尼就恢复履行伊朗核问题全面协议的相关谈判进展、美伊关系等问题举行新闻发布会。卡纳尼指出，伊朗已经做好完成维也纳会谈的准备，但是否能够达成最终协议，决定权在美国等西方国家手中。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvv5944960.d.html'>【广电运通：配合推进数字人民币试点进程 拓展多种场景应用】广电运通在互动平台回复投资者表示，数字人民币相关业务由中国人民银行主导，市场推广进度将遵照国家规划与主管部门部署逐渐展开。公司将紧跟国家政策导向，积极配合推进数字人民币试点进程，拓展多种场景应用，稳扎稳打推进数字人民币场景落地。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvv5942097.d.html'>【节后返岗首日全国大部升温为主 华北黄淮局地有重度霾】今天（1月3日）至5日，我国大部地区升温为主，最高气温20℃线可达长江沿线。由于冷空气缺席，华北、黄淮等地雾和霾天气发展，局地有重度霾，能见度较低，公众外出需做好防护，注意交通安全。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvt9164113.d.html'>【微软回应FTC诉讼：不知动视暴雪《使命召唤》为何如此特别】去年1月，微软宣布将斥资687亿美元收购动视暴雪，并强调这笔收购将帮助该公司获得多个“标志性的游戏IP”，包括《使命召唤》、《魔兽争霸》和《糖果粉碎传奇》等。随后，游戏玩家和监管机构担心，微软可能会停止在索尼PlayStation上提供《使命召唤》系列游戏。近期微软的律师突然表示，微软不知道为什么《使命召唤》如此特别，甚至不知道《使命召唤》最初的发布时间。</a><br/>
+<a href='2928119'>【国际货币基金组织：世界经济将面临“艰难的一年”占世界经济体量三分之一的经济体 都有可能在今年陷入衰退】2023年伊始，国际货币基金组织、也就是IMF总裁格奥尔基耶娃在接受采访时表示，刚刚过去的2022年充满挑战，而世界经济在2023年很可能还将更加艰难。IMF预计，占世界经济体量三分之一的经济体，都有可能在今年陷入衰退。IMF预估，世界经济今年增速低于2%的可能性正在上升，2%是IMF界定世界经济增长和衰退的分界线。（央视财经）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvv5935546.d.html'>【涂鸦智能-W：12月30日斥资42.09万美元回购23.01万股】涂鸦智能-W发布公告，于2022年12月30日斥资42.09万美元回购23.01万股，回购价格每股为1.73-1.88美元。</a><br/>
+<a href='2928081'>【FTX余波未息：加密货币交易所Genisis被指恶意拖延，欠34万名投资人超9亿美元】据报道，Gemini交易所之前和数字货币集团旗下的加密货币借贷企业Genesis合作，推出了一款名为“Earn”的加密货币贷款产品。然而，随着美国著名加密货币交易所FTX突然破产倒闭，Genesis公司在11月份停止了上述贷款产品的一些投资人撤出资金。Gemini创始人卡梅隆·文克莱沃斯表示，Genesis公司拖欠34万名Earn产品投资人超9亿美元资金，且Genesis在双方合作中进行了“恶意拖延战术”。卡梅隆称要求Genesis在1月8日之前解决此问题。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvv5927825.d.html'>【理想汽车：按计划向员工授出逾1083万股股份】理想汽车公告，于2023年1月1日，公司根据其2020年计划向一名高级管理层成员及678名雇员授出10,831,600份受限制股份，占本公司已发行股份总数约0.52%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvt9144368.d.html'>【基石药业：舒格利单抗注射液一线治疗食管鳞癌的注册性临床研究达到主要终点】基石药业港交所公告称，舒格利单抗注射液一线治疗食管鳞癌的注册性临床研究达到主要终点，拟向中国国家药品监督管理局递交新适应症上市申请。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvt9143996.d.html'>【币安拟收购韩国加密货币交易所Gopax超40%股份】币安近日已完成对Gopax的尽职调查。消息人士透露，该公司原计划在2022年圣诞节前后宣布收购，但由于双方仍在就股权价值计算展开磋商，有关交易的谈判不得不持续到2023年。</a><br/>
+<a href='2928048'>新加坡第四季度GDP同比增长 2.2%，预期2.10%，前值4.10%。新加坡2022年全年GDP同比增长3.8%，超过政府预期。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-03/detail-imxywfvt9143228.d.html'>新加坡去年第四季度GDP环比增长0.2%，预估为0.2%。</a><br/>
+<a href='https://sspai.com/post/77585'>派早报：Dark Sky 停止运营、海信 Hi Reader Pro 发布等</a><br/>
+<a href='https://www.v2ex.com/t/906171#reply0'>[求职] 容器， k8s 找兼职（年后计划跳槽可以全职）</a><br/>
+<a href='https://www.v2ex.com/t/906170#reply0'>[Windows] Windows SMB 权限故障</a><br/>
+<a href='https://www.v2ex.com/t/906169#reply0'>[Apple] ATV 怎么看卫视和流媒体网站</a><br/>
+<a href='https://www.v2ex.com/t/906168#reply0'>[VPS] 出一个 vu 家已经绝版 月付 2.5 东京小鸡</a><br/>
+<a href='https://www.v2ex.com/t/906167#reply2'>[分享发现] 晒太阳 治肺炎</a><br/>
+<a href='https://www.v2ex.com/t/906165#reply2'>[问与答] AWS Certified Developer Associate 认证: 请问哪里能购买到最新最全的题库?</a><br/>
+<a href='https://www.v2ex.com/t/906164#reply3'>[YouTube] 油管咖喱区 45/年，后续随着涨价调整，空余 2 个车位。</a><br/>
+<a href='https://www.v2ex.com/t/906163#reply1'>[问与答] 闲鱼上买了张 6800xt，跑分有点拉胯</a><br/>
+<a href='https://www.v2ex.com/t/906162#reply2'>[MacBook Pro] 求推荐 外接多显示器管理软件？</a><br/>
+<a href='https://www.v2ex.com/t/906161#reply0'>[宽带症候群] 山东电信仍然可以申请公网 IP</a><br/>
+<a href='https://www.v2ex.com/t/906160#reply7'>[MacBook] MacBook 动不动卡死/彩虹圈圈</a><br/>
+<a href='https://www.v2ex.com/t/906159#reply12'>[问与答] 现在用电视看 NetFlix, 需要如何操作</a><br/>
+<a href='https://www.v2ex.com/t/906156#reply9'>[Linux] 请问有大佬知道怎么在服务器中预装 Linux 操作系统么</a><br/>
+<a href='https://www.v2ex.com/t/906155#reply7'>[分享发现] 小妖怪的夏天真的好好看，安利给我的朋友们！</a><br/>
+<a href='https://www.v2ex.com/t/906154#reply17'>[问与答] 2023 了，各位有没有穿越感？</a><br/>
+<a href='https://www.v2ex.com/t/906153#reply0'>[Surge] Surge for ios 拼车，缺一位</a><br/>
+<a href='https://www.v2ex.com/t/906151#reply32'>[酷工作] 想问一下各位大佬怎么在公司能建立完善的代码管理机制</a><br/>
+<a href='https://www.v2ex.com/t/906150#reply4'>[路由器] qbittorrent webui 无法访问</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073123'>[转让]全新米家手持挂烫机，几乎全新ACE电脑包，美的电饭煲</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073120'>转让京东e卡，5000元</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073119'>转让飞利浦医用制氧机 经典款医用EverFlo 5L</a><br/>
+<a href='https://mp.weixin.qq.com/s/3_ORWqdmOtHs-J2leMM5tQ'>道往以明来：2022年度好书20种 | 《财经》书单</a><br/>
+<a href='https://mp.weixin.qq.com/s/X62QDYz71baWPy1sch_4pw'>黄海洲：2023通胀看美国，增长看中国｜巴伦圆桌</a><br/>
 
 
 <邮件内容区结束
