@@ -1,80 +1,103 @@
 # TaoRss
 
 邮件内容区开始>
-Rss num: 72  Date: 2023-01-09 10:08:56 <br/>
+Rss num: 95  Date: 2023-01-10 10:15:35 <br/>
 
-<a href='https://36kr.com/p/2080052112085256?f=rss'>36氪首发 | 西恩科技完成千万级天使轮融资，主攻高端伺服系统及驱动芯片研发</a><br/>
-<a href='https://36kr.com/p/2078700041605127?f=rss'>36氪首发 | 一年完成三轮近亿元融资，「范特科技」又获数千万元A轮投资，由中美���色基金投资</a><br/>
-<a href='https://36kr.com/p/2076040866746373?f=rss'>博世子公司联手北汽福田设立卡文汽车，布局纯电与氢燃料商用车核心零部件及整车制造 | 最前线</a><br/>
-<a href='https://36kr.com/p/2079502153486600?f=rss'>36氪首发｜致力核心电子材料国产化 ，「盈科材料」获北极光创投数千万元融资</a><br/>
-<a href='https://36kr.com/p/2079968135499782?f=rss'>8点1氪丨蚂蚁集团回应重启IPO猜测；国考报名人数达近十年之最；新冠感染乙类乙管正式实施</a><br/>
-<a href='https://36kr.com/p/2079137562693892?f=rss'>36氪首发 | 专注牙科器械制造，「赛乐医疗」获数亿元人民币B轮融资</a><br/>
-<a href='https://36kr.com/p/2079244176593154?f=rss'>36氪独家 | E-bike赛道火热，TENWAYS获3亿人民币A轮融资</a><br/>
-<a href='https://36kr.com/newsflashes/2080080291287046?f=rss'>恒生科技指数涨超3%，阿里系走高</a><br/>
-<a href='https://36kr.com/newsflashes/2080076524998656?f=rss'>离岸人民币兑美元收复6.8关口</a><br/>
-<a href='https://36kr.com/newsflashes/2080074870558723?f=rss'>优宁维：公司暂无产品直接被纳入新冠医保政策范畴</a><br/>
-<a href='https://36kr.com/newsflashes/2080067545125128?f=rss'>光伏板块继续活跃，南网能源、博威合金涨停</a><br/>
-<a href='https://36kr.com/newsflashes/2080065412665606?f=rss'>半导体芯片股快速拉升，聚辰股份涨超10%</a><br/>
-<a href='https://36kr.com/newsflashes/2080061789851911?f=rss'>创业板指涨逾1%，上涨个股近3600只</a><br/>
-<a href='https://36kr.com/newsflashes/2080061322137601?f=rss'>中红医疗：输注类产品确实供不应求，正努力增加产量</a><br/>
-<a href='https://36kr.com/newsflashes/2080059784155142?f=rss'>“互联网职教第一股”粉笔港交所挂牌上市</a><br/>
-<a href='https://36kr.com/newsflashes/2080059107086597?f=rss'>券商股异动拉升，东方证券涨超7%</a><br/>
-<a href='https://36kr.com/newsflashes/2080058754224129?f=rss'>恒生科技指数涨幅扩大至超2%，阿里巴巴涨超5%</a><br/>
-<a href='https://36kr.com/newsflashes/2080055763505409?f=rss'>数字经济概念股继续活跃，英飞拓快速封板</a><br/>
-<a href='https://36kr.com/newsflashes/2080054679507204?f=rss'>汽配股继续活跃，一体化压铸方向领涨</a><br/>
-<a href='https://36kr.com/newsflashes/2080053041287171?f=rss'>特高压板块开盘走高，通达动力3连板</a><br/>
-<a href='https://36kr.com/newsflashes/2080050778198022?f=rss'>裕兴股份：有产品可用于医疗胶片，已批量供货</a><br/>
-<a href='https://36kr.com/newsflashes/2080047292878851?f=rss'>黄金概念股开盘冲高，金一文化涨停</a><br/>
-<a href='https://36kr.com/newsflashes/2080045615878409?f=rss'>“范特科技”又获数千万元A轮投资</a><br/>
-<a href='https://36kr.com/newsflashes/2080041340883202?f=rss'>A股三大指数集体高开，孚日股份竞价一字涨停</a><br/>
-<a href='https://36kr.com/newsflashes/2080038174904322?f=rss'>央行公开市场开展20亿元7天期逆回购操作</a><br/>
-<a href='https://36kr.com/newsflashes/2080037338075398?f=rss'>恒指开盘涨1.45%，阿里巴巴涨近4%</a><br/>
-<a href='2936868'>【卡塔尔能源公司与美企签署协议 将共同建设大型石化项目】卡塔尔能源公司当地时间1月8日与美国雪佛龙菲利普斯化工有限公司签署总价值60亿美元的合作协议。双方将成立一家合资公司，共同建设卡塔尔拉斯拉凡石化项目，其中卡方持股70%，美方持股30%。拉斯拉凡石化项目是全球最大的乙烷裂解项目之一，可以将天然气转化为乙烯、聚乙烯和其他化工品，预计2026年建成投产，每年可生产210万吨乙烯和170万吨聚乙烯衍生物。</a><br/>
-<a href='2936823'>【外媒：福特和SK On取消在土耳其建造电动汽车电池厂的计划】 彭博1月9日援引《韩国经济日报》报道称，在全球利率上升和欧洲电动车需求疲软的情况下，福特汽车和SK On取消了在土耳其建造电动汽车电池厂的计划。该工厂预计最快于2025年开始运营，是福特公司推动的到2026年年产200万辆电动汽车计划的一部分。（界面新闻）</a><br/>
-<a href='2936785'>【外媒：巴西国会、最高法院和总统府均已被安全部队夺回，约400人被捕】综合法新社、英国《卫报》援引巴西媒体消息，巴西国会、最高法院和总统府于当地时间8日均已被安全部队夺回，目前有约400人被捕。法新社称，巴西前总统博索纳罗支持者在巴西各地的抗议活动在8日升级，当天下午数千示威者强行闯入位于首都巴西利亚的巴西国会、联邦最高法院和总统府等国家权力机构所在地，并与军警发生冲突。报道称，巴西安全部队周日（8日）从前总统博索纳罗的支持者手中夺回了国会大楼，稍早前有数百名支持者冲进国会大楼，闯入立法大厅。法新社介绍，最高法院总部和总统府“高原宫”疏散暴徒的行动仍在进行中，此前，支持博索纳罗的强硬派也在抗议现任总统卢拉就职典礼时“入侵”了这些地方。（环球网）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpumw2339577.d.html'>【安洁科技：公司为终端汽车品牌提供新能源汽车大功率无线充电系统】安洁科技在互动平台表示，公司消费电子产品的小功率无线充电是为终端客户提供配套产品，不是提供终端产品。公司为终端汽车品牌提供新能源汽车大功率无线充电系统。</a><br/>
-<a href='2936761'>【消息称微软将把OpenAI人工智能技术整合至Office：或可编写电子邮件】据报道，知情人士透露，微软希望将OpenAI的人工智能技术整合到Word、Outlook和Powerpoint等应用中，为Office用户提供一种新的编写文本的方式。目前，人工智能在创意领域正变得越来越普遍，类似Stable Diffusion的工具可以根据简单的提示创作艺术作品。微软似乎正在考虑使用类似技术，来帮助用户在页面或演示文稿上组织文字。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpums8781079.d.html'>【皓宸医疗：德伦口腔已向广东省医保局上报2023年度各品牌植体采购量】皓宸医疗1月9日在互动平台表示，公司高度关注口腔种植体耗材集采事宜。根据广东省医疗保障局发布的《关于开展口腔种植体集中带量采购工作的预通知》，德伦口腔在该文件中作为广州市被提名的大型连锁口腔医疗机构，将积极响应医保局各类举措，在保证医疗服务质量的前提下进行差异化经营，以满足不同客户的个性需求。德伦口腔已向广东省医保局上报了2023年度各品牌植体的采购量，待医保局下发正式采购通知文件后，公司启动采购工作。2022年，德伦口腔已经对种植体集采带来的业务影响进行充分论证，并按试点价格对公司产品结构、营销渠道及内容进行了相应调整，以提前适应种植体集采实施后带来的市场价格体系变动。在已做好充分准备的情况下，德伦有信心迎接并参与到本次种植牙集采的工作中。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpumw2333430.d.html'>【中信建投：白酒中长期改善回升的确定性较高】中信建投指出，白酒中长期改善回升的确定性较高，2023年业绩及估值均有提升空间，并重申看多白酒的四大理由。1）基本面春节可能超预期。2）春节酒企回款情况稳定，1季报有支撑。3）景气度回升，估值具备提升空间。4）宏观环境预期向好有利于外资回流。要重视白酒投资机遇，尤其是长线来看目前具备明显的上涨空间。首推高端贵州茅台、五粮液、泸州老窖，地产龙头古井贡酒、洋河股份、今世缘、山西汾酒、迎驾贡酒等。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpums8776936.d.html'>【鸿海已启动高端iPhone 15新机试产导入服务】苹果今年秋天将推出iPhone 15系列新机，近期，苹果最大代工伙伴鸿海集团深圳观澜厂已开始进入高端iPhone 15新机试产导入服务（NPI），为量产暖身。值得注意的是，大陆与印度iPhone量产时间差距将拉近，往年两地量产时间相隔约六到九个月，去年缩短至两个月，今年将再缩短至几周。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpums8776610.d.html'>【机构：预计台积电2023年第一季度营收环比减14-15％】随着台积电1月12日法说会临近，摩根士丹利近日发布对台积电2023年营收预测，认为该公司全年将“温和成长”，营收或微增1%。第一季度则将环比减14-15％，主因是高端智能手机和数据中心订单削减，但由于代工价格提高，因此第一季度毛利率可保持在55％。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpums8774800.d.html'>【俄称对乌军造成大量伤亡 乌方暂未回应】据央视军事，俄罗斯国防部发言人科纳申科夫在1月8日通报说，俄军对乌军在克拉马托尔斯克的临时部署点进行了大规模导弹打击，造成600多名乌方军人死亡。对此，乌方暂未作出回应。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpums8773250.d.html'>【美国流行的XBB毒株尚未展现更强伤害性】中国疾控中心日前发布信息，介绍了国内监测到奥密克戎变异株XBB进化分支的存在情况，同时也表示，我国短期内“由XBB系列变异株(包括XBB.1.5)引发大规模流行的可能性低”。XBB系列变异株2022年8月在印度首次被发现，随后在美国、马来西亚、新加坡等多国流行。特别是近期，XBB.1.5在美国国内正快速传播。《环球时报》记者就 XBB变异株在美国的实际传播情况及相关问题进行了调查和采访。白宫卫生官员提醒民众，“不要急于对 XBB.1.5 产生恐慌”。在受XBB.1.5影响最大的美国新英格兰地区，当地民众生活如常，一些政府部门和学校强调做好戴口罩等个人防护措施。美国舆论和多位国外专家认为，XBB传播性更强，但没证据表明它会比其他变异株导致更严重的疾病。（环球时报）</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpums8772051.d.html'>【消息称微软将把OpenAI人工智能技术整合至Office：或可编写电子邮件】知情人士透露，微软希望将OpenAI的人工智能技术整合到Word、Outlook和Powerpoint等应用中，为Office用户提供一种新的编写文本的方式。对用户而言，这意味着Office工具可以根据提示自动生成文本来填充文档。人工智能技术还可以自动生成电子邮件，根据用户的需要来编写电子邮件。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpumw2321847.d.html'>【高盛本周将裁员约3200人 涉及交易等核心部门】高盛集团正着手进行堪称有史以来规模最大的一轮裁员，该行已确定本周将裁减约3200个职位，该行领导层的裁员力度比竞争对手更大。据知情人士透露，该公司预计将在本周中期启动这一程序，受影响的总人数不会超过3200人。其中超过三分之一的裁员可能来自核心的交易和银行部门，这表明裁员的范围很广。该公司还准备公布与其信用卡和分期贷款业务相关的新部门的财务状况，该部门将录得超过20亿美元的税前亏损。</a><br/>
-<a href='https://finance.sina.cn/7x24/2023-01-09/detail-imxzpumw2320435.d.html'>【2023年或成苹果混合现实头显独角戏：其他产品线将集体失声】据报道，经过历时7年的开发，苹果即将推出首款混合现实头显。为了实现这个目标，苹果从多个软硬件部门抽调了资源，因而对其他项目构成了负面影响，其中一些部门本来就因为经济下滑而推迟了既定计划并缩减了相关预算。这也从侧面反映出，苹果今年恐怕没有多少突破性产品或功能可以展示。也正因如此，其他技术几乎会在2023年集体失声。</a><br/>
-<a href='https://archive.org/details/furby-source'>Furby source code (1998)</a><br/>
-<a href='https://www.agriculture.com/news/business/kansas-research-shows-reintroducing-bison-on-tallgrass-prairie-doubles-plant-diversity'>Reintroducing bison on tallgrass prairie doubles plant diversity</a><br/>
-<a href='https://www.wsj.com/articles/and-just-like-that-america-becomes-more-rural-11672963347'>And Just Like That, America Becomes More Rural</a><br/>
-<a href='https://archive.org/details/the-complete-maus'>The Complete Maus: art spiegelman: Free</a><br/>
-<a href='https://sspai.com/post/77709'>派早报：联想发布多款新品、CES・派在现场等</a><br/>
-<a href='https://www.v2ex.com/t/907501#reply0'>[Nintendo Switch] Nintendo Switch Online 普通家庭会员拼车剩一车位</a><br/>
-<a href='https://www.v2ex.com/t/907498#reply12'>[问与答] 许多人市区开车都不顾及超速 50%会扣 12 分吗</a><br/>
-<a href='https://www.v2ex.com/t/907497#reply0'>[MacBook] 新款 MacBook 自带键盘感觉没有 15 款好用</a><br/>
-<a href='https://www.v2ex.com/t/907496#reply17'>[生活] 带了瓶定型喷雾过地铁安检被扣了</a><br/>
-<a href='https://www.v2ex.com/t/907495#reply4'>[游戏] 鼠标比摇杆好用。wasd 不如摇杆好用。为什么不出个带摇杆的键盘呢？</a><br/>
-<a href='https://www.v2ex.com/t/907494#reply10'>[程序员] 作为一个银行程序员到底是该去业务部门还是留在科技部门</a><br/>
-<a href='https://www.v2ex.com/t/907493#reply8'>[问与答] B 站流量如何变现?</a><br/>
-<a href='https://www.v2ex.com/t/907492#reply3'>[问与答] win11 图标问题</a><br/>
-<a href='https://www.v2ex.com/t/907490#reply13'>[问与答] 关于钓鱼网站个人的掉坑求助</a><br/>
-<a href='https://www.v2ex.com/t/907489#reply9'>[微信] 微信网页版似乎可以同步聊天记录了</a><br/>
-<a href='https://www.v2ex.com/t/907486#reply1'>[问与答] 如何同步两个账号的主题收藏/收藏一个作者的全部主题？</a><br/>
-<a href='https://www.v2ex.com/t/907483#reply13'>[问与答] 求助：显卡驱动更新到一半黑屏了</a><br/>
-<a href='https://www.v2ex.com/t/907482#reply1'>[问与答] 有什么免费的 audiobooks 网站推荐</a><br/>
-<a href='https://www.v2ex.com/t/907481#reply1'>[随想] 关于互联网信噪比（迟到地蹭一下 ChatGPT 的热度）</a><br/>
-<a href='https://www.v2ex.com/t/907480#reply11'>[深圳] 有没有报复性消费不清楚，“报复性塞车”是有了</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073345'>975折转让京东卡</a><br/>
-<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073344'>95折收北京移动话费300。</a><br/>
-<a href='https://mp.weixin.qq.com/s/ypA67lKvRsG9gZt_-ZjKtQ'>过去十年，投资二手劳力士的回报比股市和黄金还高</a><br/>
-<a href='https://mp.weixin.qq.com/s/WlA6c0pYijtcAfNpVnTd8Q'>迎接新一年的退休理财书｜巴伦书单</a><br/>
-<a href='https://mp.weixin.qq.com/s/O7szFl769qP4sBB0gBey_A'>今年春运可候补5张火车票，特斯拉回应降价补偿，阿里巴巴为60多万个村卫生配备血氧仪，蚂蚁回应重启IPO，这就是今天的其它大新闻！</a><br/>
-<a href='https://mp.weixin.qq.com/s/0RoyVEcymDhiE3tnbdLYvA'>聊一聊：哪些平台记录了你羞耻的过去？</a><br/>
-<a href='https://mp.weixin.qq.com/s/HGZwJxrOItGdGLOKkcttwg'>今日最佳：不然这里我填什么？</a><br/>
-<a href='https://mp.weixin.qq.com/s/xeunr8QhJbJsBje9NVZW0g'>3个W打造玩家快乐屋！全场景、全平台，真·随时随地游戏方案</a><br/>
-<a href='https://mp.weixin.qq.com/s/kb7XkQ0ClkSEO_lRv4SEmA'>买大几千元的空气消毒机防新冠？这操作多少有点愣。。。</a><br/>
-<a href='https://mp.weixin.qq.com/s/N8lvnQ-NWFh8eRrJGxQXDQ'>万柳少爷背后，大批有钱人正在自媒体上发着横财。</a><br/>
-<a href='https://mp.weixin.qq.com/s/QdEoTCuOXA8gDwp99Glz7A'>曝苹果将上调 iPhone15 Pro 售价，只为卖更多 iPhone15 Plus</a><br/>
-<a href='https://mp.weixin.qq.com/s/G4X-xOALOxViBmiyB52YnA'>你们求了很久的资源，尽快下载，随时下架！</a><br/>
+<a href='https://36kr.com/p/2080121521049608?f=rss'>自动驾驶：冰火两重天 | 氪记 2022</a><br/>
+<a href='https://36kr.com/p/2081409955554307?f=rss'>当月子中心开进高端酒店 | PropTech周刊44期</a><br/>
+<a href='https://36kr.com/p/2080476668383239?f=rss'>北京市管企业碳达峰行动方案出台，将持续淘汰燃油公交车；特斯拉开始在新加坡为库存电动车提供购买折扣｜36氪新能源日报0109</a><br/>
+<a href='https://36kr.com/p/2080532379799815?f=rss'>36氪首发｜获中科院创投领投数千万元种子轮融资，「天牧光能」主推光伏微型逆变器</a><br/>
+<a href='https://36kr.com/newsflashes/2081500427985925?f=rss'>券商、金融软件股继续冲高</a><br/>
+<a href='https://36kr.com/newsflashes/2081500202394632?f=rss'>康拓医疗回应种植牙省际联盟集采：公司没有进名单，产品原材料与集采要求不一样</a><br/>
+<a href='https://36kr.com/newsflashes/2081499208393990?f=rss'>美媒：可口可乐和百事可乐正接受FTC调查，涉嫌软饮料市场价格歧视</a><br/>
+<a href='https://36kr.com/newsflashes/2081496835515655?f=rss'>“天牧光能”获数千万元种子轮融资</a><br/>
+<a href='https://36kr.com/newsflashes/2081496636498952?f=rss'>装修建材板块异动拉升，兔宝宝直线涨停</a><br/>
+<a href='https://36kr.com/newsflashes/2081495656195081?f=rss'>百度智能驾驶事业群正启动岗位裁撤，ACE部门全员无年终奖</a><br/>
+<a href='https://36kr.com/newsflashes/2081494088033538?f=rss'>中金：维持阿里巴巴-SW“跑赢行业”评级，目标价137港元</a><br/>
+<a href='https://36kr.com/newsflashes/2080537446977800?f=rss'>追觅科技工业级四足机器人谍照流出：或面向巡检、救援等场景</a><br/>
+<a href='https://36kr.com/newsflashes/2081485701161986?f=rss'>卡塔尔体育投资公司或考虑收购英超俱乐部托特纳姆热刺、曼联或利物浦</a><br/>
+<a href='https://36kr.com/newsflashes/2081481882248198?f=rss'>京东图书与当当网达成战略合作，当当旗舰店在京东上线运营</a><br/>
+<a href='https://36kr.com/newsflashes/2081480752276483?f=rss'>字节概念股开盘活跃，广博股份直线封板</a><br/>
+<a href='https://36kr.com/newsflashes/2081466892690692?f=rss'>数字经济概念股开盘走低</a><br/>
+<a href='https://36kr.com/newsflashes/2081465549579527?f=rss'>半导体板块继续拉升，天岳先进涨超12%</a><br/>
+<a href='https://36kr.com/newsflashes/2081459322905601?f=rss'>央行今日开展20亿元7天期逆回购操作</a><br/>
+<a href='https://36kr.com/newsflashes/2081457036616705?f=rss'>A股三大指数小幅高开，券商、半导体板块走强</a><br/>
+<a href='https://36kr.com/newsflashes/2081451381138693?f=rss'>香港恒生指数开盘跌0.08%，汽车股涨幅居前</a><br/>
+<a href='https://36kr.com/newsflashes/2081447275652099?f=rss'>人民币兑美元中间价调升654个基点</a><br/>
+<a href='https://36kr.com/newsflashes/2081444820575239?f=rss'>苹果为首批印度旗舰店招人，涉及岗位超过100个</a><br/>
+<a href='https://36kr.com/newsflashes/2081441559962630?f=rss'>维珍轨道公司称“异常情况”导致卫星无法进入轨道</a><br/>
+<a href='2938178'>【维珍轨道公司称“异常情况”导致卫星无法进入轨道】格林尼治时间1月9日夜间，维珍轨道公司在社交媒体表示，由于出现“异常情况”，“宇宙女孩”号搭载的卫星，暂时无法进入预定轨道。维珍轨道公司称其正在评估相关信息，暂未就发射是否成功或失败做出表态。维珍轨道公司还表示“宇宙女孩”已经安全返回英国康沃尔郡的纽基机场。（央视新闻）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2201263.d.html'>【美国FTC调查可口可乐和百事，涉嫌价格歧视打压竞争对手】据知情人士称，可口可乐和百事正接受美国联邦贸易委员会(FTC)初步调查，原因是它们在软饮料市场可能存在价格歧视行为。据悉，FTC正根据一项名为《罗宾逊-帕特曼法案》(Robinson-Patman Act)的法律对两家公司的定价策略进行审查。该法律禁止供应商以牺牲较小竞争对手为代价向大型零售商提供更好的价格。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2200559.d.html'>【卡塔尔体育投资公司或考虑收购英超俱乐部托特纳姆热刺、曼联或利物浦】英国天空体育台、彭博1月9日报道称，巴黎圣日耳曼足球俱乐部主席、卡塔尔体育投资公司董事长纳赛尔·阿尔赫莱菲上周在伦敦一家酒店会见了托特纳姆热刺足球俱乐部的执行主席丹尼尔·列维。卡塔尔体育投资公司考虑购买托特纳姆热刺的股份，此外也考虑全面或部分收购包括曼联或利物浦在内的竞争对手的股份。托特纳姆热刺发言人否认曾就出售俱乐部股权举行过会议，曼联发言人拒绝置评。  （界面新闻）</a><br/>
+<a href='2938170'>【Facebook采取新广告技术：住房广告将更贴近目标受众】 据《华尔街日报》， Meta 1月9日表示，该公司已开始实施一项技术，旨在改善向Facebook用户展示住房广告的公平性，这是该公司去年6月与联邦官员达成的和解协议的一部分。Meta新采用的方差缩减系统依赖机器学习技术，旨在向受众展示更贴近广告条件的目标受众的住房广告。  （界面新闻）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2189548.d.html'>【西藏盐湖绿色综合开发利用与环境保护联合实验室揭牌】1月9日上午，由西藏矿业、万华化学、倍杰特、地科院资源所共同设立的西藏盐湖绿色综合开发利用与环境保护联合实验室在成都举行揭牌仪式。据悉，此次联合实验室的成立，是以科技引领推动合作各方锂资源战略发展，在充分发挥西藏矿业矿产资源与应用场景、地科院资源所矿产资源研究、万华化学材料研发与制造、倍杰特提锂技术的研发中试和工程应用经验的各方优势基础上，本着平等互利、共同发展、追求一流的原则共同设立。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2185079.d.html'>【派能科技：预计一季度完成钠电UL及IEC测试认证工作】派能科技在互动平台回复称，目前公司钠电产品在能量密度、低温性能和循环寿命等关键指标方面已达到行业先进水平，并已完成吨级试产工作。同时公司正在积极推进钠电产品相关认证工作，预计在2023年一季度完成钠电UL及IEC测试认证工作，获得相关市场准入资质。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsq8627803.d.html'>【杰富瑞第四财季净收入14.4亿美元，同比下降18%】投行杰富瑞当地时间1月9日发布四季度报，截至2022年11月30日的第四财季，杰富瑞净收入为14.4亿美元，同比下降18%；其中投行业务净收入为5.68亿美元，资本市场净收入为4.78亿美元。杰富瑞第四财季归属于普通股股东的净利润为1.4亿美元，同比下降58%，每股摊薄收益0.57美元。杰富瑞2022年投资银行业务总收入较2021年下降了38%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsq8624960.d.html'>【Facebook、谷歌等社媒将移除支持巴西民众“冲击国会”的内容】Facebook母公司Meta和谷歌视频平台YouTube 1月9日表示，他们将删除支持或赞扬巴西“冲击国会”的内容。巴西前总统博索纳罗拒绝承认选举结果，他的支持者声称选举被窃取，支持者们在Twitter、Telegram、TikTok、YouTube和Facebook等社交媒体上组织抗议活动。8日，数千名巴西前总统博索纳罗支持者强闯位于首都巴西利亚的巴西国会、联邦最高法院和总统府等国家权力机构所在地，并与军警发生冲突。（界面新闻）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2177833.d.html'>【主产区收购超2300亿斤！全国秋粮收购处于高峰期】根据国家粮食和物资储备局最新调度显示，当前，全国秋粮收购处于高峰期，进展总体平稳有序。截至1月5日，主产区各类粮食企业累计收购秋粮2324亿斤，同比基本持平；其中，中晚籼稻499亿斤、粳稻632亿斤、玉米1152亿斤、大豆40亿斤。（央视财经）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsq8622551.d.html'>【盛新锂能：公司未在尼日利亚投资锂矿项目】盛新锂能(002240)在互动平台表示，目前公司未在尼日利亚投资锂矿项目。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsq8622214.d.html'>【“镍王”据称增产 国内精炼镍产量或翻倍】据期货日报，知情者消息称，青山已经在印尼建厂，要生产精炼镍，还正在和多家中国铜生产厂家磋商，希望将青山的材料加工成更有价值的精炼镍。如果青山的计划成功实现，加上其国内同行也有类似行动，2023年中国的精炼镍产量可能较2022年的约18万吨翻一倍，使全球的精炼镍产量增加约五分之一。青山没有回应多个置评请求，铜生产厂家祥光没有回复电子邮件的置评请求。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2176009.d.html'>【谷歌母公司旗下生命科学部门Verily寻求在新加坡根除登革热】谷歌母公司Alphabet旗下的生命科学部门Verily表示，新加坡可能成为热带地区第一个没有登革热的国家，前提是该国政府决定在整个国家内使用Verily的技术来应对这种由蚊子传播的疾病。登革热每年造成3亿人受害，其中9千万人会病情严重，数万人死亡，且大多数是儿童。在新加坡，去年的病例数量激增，根据国家环境局的数据，截至12月初，平均每周的病例数比正常情况高20%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2169283.d.html'>【马斯克：SpaceX星舰或在3月进行首次轨道飞行】据报道，特斯拉CEO埃隆·马斯克表示，SpaceX的星舰（Starship）极有可能在今年3月进行首次轨道飞行。自2019年以来，SpaceX就在得克萨斯州南部的基地开发星舰，并在20公里以下的高度测试飞行了数艘星舰原型。按计划，星舰将于2022年进行首次轨道发射，但直至今日仍未发射。 如今，距离星舰的首次轨道发射似乎真的不远了。当地时间周日，兼任SpaceX CEO的马斯克在Twitter上称：“今年2月下旬就有真正的发射机会，而在3月份进行发射的可能性极高。”</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsq8614561.d.html'>【美监管部门调查特斯拉自动驾驶缺陷 称“进度非常快”】美国国家公路安全管理局（简称NHTSA）于2021年8月开始对特斯拉Autopilot展开调查。当地时间周一NHTSA称，相关调查进度非常快。NHTSA主管安·卡尔森（Ann Carlson）称：“我们正在对许多源头进行调查。”她表示：“调查源头需要大量技术知识，法律上也会触碰到一些新领域，我们正在以尽可能快的速度推进，但我们要谨慎一些，要确保机构拥有所需要的全部信息。”</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsq8613560.d.html'>【美国消费者年内通胀预期降至5%，创去年7月以来新低】纽约联邦储备银行的最新调查显示，消费者对美国一年后的通胀预期略有下降。2022年12月，美国一年后的通胀预期中值下降0.2个百分点至5%，创2021年7月以来新低。美国消费者对未来三年通胀的预期保持在3%不变，而五年后的通胀预期中值增加了0.1个百分点，至2.4%。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsq8609606.d.html'>【中焦协：各企业可以根据各自情况安排检修】2023年1月6日上午，中焦协市场委员会以视频方式召开市场分析会。与会人员反映，焦炭降价后，煤炭价格基本未变，导致焦化企业亏损加剧，陆续开始加大限产力度，与会企业一致反应，已经处于全行业亏损，部分企业亏损已经达到200元/吨。为此，会议建议：各企业可以根据各自情况安排检修，降低负荷，为春节创造良好的安全环境和空气质量，同时减少或停止高价煤炭的采购量，降低亏损；坚守“没有订单不生产、没有利润不销售、不付款不发货”三原则，抵制任何进一步加剧亏损的降价行为；优化销售渠道，向信用好、付款好、价格优的客户倾斜发货。（中国冶金报）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2163834.d.html'>【苹果高管人事再次动荡：服务业务副总裁已离职】知情人士称，苹果公司负责网络视频、云存储、“Apple One”捆绑套餐、以及苹果新闻业务的高管彼得·斯特恩（Peter Stern）已经从公司离职，这个消息给苹果公司最近的高层人事动荡，又增添了一笔。斯特恩之前的正式职务，是苹果负责服务业务的副总裁。在公司内部和外部的许多人看来，斯特恩极有可能是苹果资深高管艾迪库（负责服务业务的高级副总裁）的潜在接班人。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2161131.d.html'>【北京市代市长殷勇：要给企业一个休养生息的空间】北京市代市长殷勇在接受央视新闻采访时表示，要构建整个社会正常生产生活的服务保障能力，包括快递、外卖在内的重点行业，要帮助这些企业做好防护，以及人力上的准备。还要加大对企业的扶持力度，过去三年企业还是很不容易的，承担了整个防疫的大量社会成本，要给企业一个休养生息的空间，让企业能够有进一步发展的空间，在确定今年的经济增长、税收指标与企业相关的时候，都会考虑让企业能够有进一步的资源、财力等，去恢复和发展。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2159372.d.html'>【美国联邦航空管理局提出新规 避免5G信号影响航空安全】美国联邦航空管理局（FAA）周一表示，正在提出一项要求，推动美国的客机和货机到2024年初安装能抵御5G C频段干扰的无线电高度计，或是安装经过批准的5G信号屏蔽仪。今年早些时候，由于担心5G服务可能会影响飞机的高度计，美国的一些机场航班受到影响。高度计提供飞机距离地面的高度数据，对于恶劣天气飞机降落至关重要。</a><br/>
+<a href='2938135'>【美媒：字节跳动的抖音平台去年电商交易总额同比大增76%至1.41万亿元】美国科技媒体The Information 1月9日援引两位知情人士报道，字节跳动旗下的抖音平台去年电商交易总额（GMV）达到2080亿美元（约合1.41万亿元人民币），较2021年增长76%。字节跳动旗下的TikTok平台去年在东南亚的GMV增长逾三倍，达到44亿美元。知情人士透露，字节跳动内部讨论了今年在更多国家加强电商业务的计划，包括美国、巴西、西班牙和澳大利亚。（界面新闻）</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsu2154075.d.html'>【迈越科技三度递表申请港股主板IPO】据港交所公告，迈越科技股份有限公司三度递表申请港股主板IPO，独家保荐人是中国通海企业融资。此前，迈越科技曾在2021年4月30日，2022年4月28日两次递表。</a><br/>
+<a href='https://finance.sina.cn/7x24/2023-01-10/detail-imxzscsq8598735.d.html'>英国12月BRC同店零售销售年率 6.5%，前值4.10%。英国12月BRC总体零售销售年率 6.9%，前值4.2%。</a><br/>
+<a href='https://www.newyorker.com/magazine/2023/01/16/can-ups-still-deliver-a-middle-class-life'>UPS and the Package Wars</a><br/>
+<a href='https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/'>Old Man Yells at Cloud: Technology has gotten objectively worse</a><br/>
+<a href='https://www.aljazeera.com/news/2023/1/9/canada-finalises-deal-to-buy-dozens-of-f-35-fighter-jets-from-us'>Canada buys 88 F-35 fighter jets for $14.2B</a><br/>
+<a href='https://news.ycombinator.com/item?id=34319414'>Tell HN: Airbnb has no system in place when a host cancels on a renter</a><br/>
+<a href='https://android-developers.googleblog.com/2023/01/extending-android-sdk.html'>Extending the Android SDK</a><br/>
+<a href='https://mp.weixin.qq.com/s/8taZ6pFABJHmIXKtCuhQnA'>晚点独家丨蔚来布局百万元级别的电动车，对标路虎揽胜、奔驰 G</a><br/>
+<a href='https://sspai.com/post/77735'>派早报：腾讯游戏发布限玩日历，Steam 同时在线人数破千万等</a><br/>
+<a href='https://www.v2ex.com/t/907817#reply0'>[问与答] 车位产证办证的时候就给我了，现在怎么有短信让我去交维修基金</a><br/>
+<a href='https://www.v2ex.com/t/907816#reply0'>[问与答] 求一款能较好地播放 HDR 的播放器</a><br/>
+<a href='https://www.v2ex.com/t/907815#reply1'>[问与答] 新冠阴性已经半个多月了，咳嗽有痰，会不会有什么问题呀，你们都是什么情况</a><br/>
+<a href='https://www.v2ex.com/t/907814#reply1'>[职场话题] 华为杭州芯片设计岗和联发科北京验证岗 offer 对比</a><br/>
+<a href='https://www.v2ex.com/t/907811#reply0'>[问与答] 年终奖逐年降低带来的苦恼,想问问你们的年终奖会不会越来越少</a><br/>
+<a href='https://www.v2ex.com/t/907810#reply0'>[分享发现] 使用 Notion AI , 不仅可以智能写作, 也可以帮你写代码</a><br/>
+<a href='https://www.v2ex.com/t/907809#reply0'>[问与答] 请教 Git 仓库管理方案</a><br/>
+<a href='https://www.v2ex.com/t/907807#reply0'>[生活] 老年人的气象综合症</a><br/>
+<a href='https://www.v2ex.com/t/907805#reply2'>[Apple] 求推荐一个阅读 app</a><br/>
+<a href='https://www.v2ex.com/t/907804#reply14'>[程序员] 既然互联网电视那么多坏毛病，那买个 70 寸的显示器如何？</a><br/>
+<a href='https://www.v2ex.com/t/907802#reply14'>[NAS] 入坑 NAS 是选择 diy 还是选择成品？</a><br/>
+<a href='https://www.v2ex.com/t/907801#reply6'>[路由器] 红米 AX6000 做主路由，只要求稳定性它胜任吗？</a><br/>
+<a href='https://www.v2ex.com/t/907800#reply5'>[奇思妙想] 关于回到过去的脑洞</a><br/>
+<a href='https://www.v2ex.com/t/907799#reply0'>[问与答] 如何在 C 中使用 JSI？</a><br/>
+<a href='https://www.v2ex.com/t/907798#reply15'>[问与答] 快过年了，微信里有 3K 甲方粑粑需要我挨个问候。有什么微信群发软件可以实现？不想建 15 次 200 人群发，选人太累，还容易选重。求教大佬们出出招。</a><br/>
+<a href='https://www.v2ex.com/t/907797#reply10'>[职场话题] 2022-我的外包之路</a><br/>
+<a href='https://www.v2ex.com/t/907792#reply14'>[NAS] Pt-time 今天开放注册，新手可以玩玩</a><br/>
+<a href='https://www.v2ex.com/t/907790#reply20'>[问与答] 有没有治疗过失眠，快速入睡的办法分享</a><br/>
+<a href='https://www.v2ex.com/t/907789#reply5'>[Surge] Surge ios 去 YouTube 广告</a><br/>
+<a href='https://www.v2ex.com/t/907788#reply5'>[程序员] 数据开发中如何进行复用？</a><br/>
+<a href='https://www.v2ex.com/t/907787#reply3'>[Xbox Series X/S] 年前买 Xbox Series S 的话，是加价买能稳定送到的国行，还是原价买保税仓发货的日版。</a><br/>
+<a href='https://www.v2ex.com/t/907786#reply17'>[问与答] PT 站 PTTIME 开注 1 天, 找有缘人</a><br/>
+<a href='https://www.v2ex.com/t/907784#reply14'>[问与答] 你们购买各类基金、理财产品都是如何管理的？</a><br/>
+<a href='https://www.v2ex.com/t/907782#reply14'>[问与答] 求一个 Mac 共享 WiFi 的方案</a><br/>
+<a href='https://www.v2ex.com/t/907781#reply7'>[分享创造] [解放双手] 任何网页/接口/RSS， 24 小时帮您盯着</a><br/>
+<a href='https://www.v2ex.com/t/907780#reply10'>[Apple] 有没有摄像头支持 homekit 和电池供电的？</a><br/>
+<a href='https://www.v2ex.com/t/907777#reply7'>[奇思妙想] 写测试可能是单枪匹马的开发者的最可靠的技术保障</a><br/>
+<a href='https://www.v2ex.com/t/907776#reply3'>[问与答] 请问大家对（春节期间及后面）乡下的疫情防控和感染预防有做什么准备和建议吗？</a><br/>
+<a href='https://www.v2ex.com/t/907775#reply19'>[问与答] 有些软件对网络的强势占用，是如何做到的？</a><br/>
+<a href='https://www.v2ex.com/t/907774#reply9'>[分享发现] 《东北之夏》已上架 Steam！</a><br/>
+<a href='https://www.v2ex.com/t/907773#reply0'>[分享发现] H2O - an optimized HTTP server</a><br/>
+<a href='http://www.newsmth.net/nForum/article/SecondMarket/2073387'>转让电动车200（无电池）</a><br/>
+<a href='https://weibo.com/1088413295/MnCgO5Iqd'>用 HTTP Status Code测试今天的运势如何。我今天的运程是408。你也来试试？→ 网页链接 [图片]</a><br/>
+<a href='https://mp.weixin.qq.com/s/XUkKr1KV6R_B5mPVtTsPHw'>如何让一辆MPV不无聊？</a><br/>
+<a href='https://mp.weixin.qq.com/s/7-Sv8IveHQAFn-jurKX9Gw'>有的人月薪两万，只敢在老乡鸡点两个菜</a><br/>
+<a href='https://mp.weixin.qq.com/s/UryfbNgwoFPJhdIjsNucYQ'>辉瑞新冠药出局医保谈判，飞书重心转向海外市场，广汽讴歌官网无法打开，古尔曼称苹果正集中精力打磨xrOS，这就是今天的其它大新闻！</a><br/>
+<a href='https://mp.weixin.qq.com/s/QD-rPdfSTOLAuV4BkSesWA'>聊一聊：你用过哪些电子产品的保修？</a><br/>
+<a href='https://mp.weixin.qq.com/s/_M83aR4CJ63HndiFnyyfGg'>今日最佳：好消息：特等奖！</a><br/>
+<a href='https://mp.weixin.qq.com/s/9ww4bHZ6wNgRkQTO-_zRpg'>《流浪地球 2》竟然有十几种规格，这电影票该咋选？</a><br/>
+<a href='https://mp.weixin.qq.com/s/kZl2otwpwaUGUsMr-q5uLw'>因为90年代的破系统，这家航空巨头8天赔掉了50个亿。</a><br/>
+<a href='https://mp.weixin.qq.com/s/iqpg6fTCZaWozzgLyttYvg'>时隔三年又到美国逛了CES，这回我竟然摸到了索尼造的车！</a><br/>
+<a href='https://mp.weixin.qq.com/s/c_NM7IVGXPhBFRbfJTEnYw'>微信年前最后一波更新！9.0版本快来了？</a><br/>
+<a href='https://mp.weixin.qq.com/s/QCb8RAuAAypIEJkceq1-Aw'>成功让小学生崩溃的神器，又更新了！</a><br/>
 
 
 <邮件内容区结束
